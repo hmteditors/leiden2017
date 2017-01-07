@@ -63,17 +63,17 @@ Repository for HMT editing by Homer's Angels in spring 2017
 
 ##Which lines are there on each folio?
 
-* **277r**: *Iliad* 21.352-376
-* **277v**: *Iliad* 21.377-401
-* **278r**: *Iliad* 21.402-426
-* **278v**: *Iliad* 21.427-452
-* **279r**: *Iliad* 21.453-477
-* **279v**: *Iliad* 21.478-503
-* **280r**: *Iliad* 21.504-529
-* **280v**: *Iliad* 21.530-554
-* **281r**: *Iliad* 21.555-579
-* **281v**: *Iliad* 21.580-604
-* **282r**: *Iliad* 21.605-611
+* **277r**: *Iliad* 21.352-376 <!-- urn:cite:hmt:vaimg.VA277RN-0447 -->
+* **277v**: *Iliad* 21.377-401 <!-- urn:cite:hmt:vaimg.VA277VN-0779 -->
+* **278r**: *Iliad* 21.402-426 <!-- urn:cite:hmt:vaimg.VA278RN-0448 -->
+* **278v**: *Iliad* 21.427-452 <!-- urn:cite:hmt:vaimg.VA278VN-0780 -->
+* **279r**: *Iliad* 21.453-477 <!-- urn:cite:hmt:vaimg.VA279RN-0449 -->
+* **279v**: *Iliad* 21.478-503 <!-- urn:cite:hmt:vaimg.VA279VN-0781 -->
+* **280r**: *Iliad* 21.504-529 <!-- urn:cite:hmt:vaimg.VA280RN-0450 -->
+* **280v**: *Iliad* 21.530-554 <!-- urn:cite:hmt:vaimg.VA280VN-0782 -->
+* **281r**: *Iliad* 21.555-579 <!-- urn:cite:hmt:vaimg.VA281RN-0451 -->
+* **281v**: *Iliad* 21.580-604 <!-- urn:cite:hmt:vaimg.VA281VN-0783 -->
+* **282r**: *Iliad* 21.605-611 <!-- urn:cite:hmt:vaimg.VA282RN-0452 -->
 
 ##Progress
 
