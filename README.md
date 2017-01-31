@@ -19,9 +19,16 @@ Repository for HMT editing by Homer's Angels in spring 2017
 
 ##Leiden HMT project contributors (past and present)
 
+* Aniek Vink
 * Bart Bijvoets
+* Elias Eells
 * Ineke Sluiter
+* Leonie Henkes
+* Marloes Velthuisen
+* Olivia Monster
+* Suzan Boreel
 * Tazuko van Berkel
+* Thom van Leuveren
 
 ##What is there on a folio?
 
@@ -92,27 +99,27 @@ Repository for HMT editing by Homer's Angels in spring 2017
   </tr>
   <tr>
     <td>main text indices</td> <td>(<b>csv</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>main scholia indices</td> <td>(<b>csv</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>intermarginal scholia indices</td> <td>(<b>csv</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>interlinear scholia indices</td> <td>(<b>csv</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>interior scholia indices</td> <td>(<b>csv</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>exterior scholia indices</td> <td>(<b>csv</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td> </td> <td> </td>
@@ -120,27 +127,27 @@ Repository for HMT editing by Homer's Angels in spring 2017
   </tr>
   <tr>
     <td>main text</td> <td>(<b>xml</b>)</td>
-    <td>  - </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>main scholia</td> <td>(<b>xml</b>)</td>
-    <td>  - </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>intermarginal scholia</td> <td>(<b>xml</b>)</td>
-    <td>  - </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>interlinear scholia</td> <td>(<b>xml</b>)</td>
-    <td>  - </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>interior scholia</td> <td>(<b>xml</b>)</td>
-    <td>  - </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>exterior scholia</td> <td>(<b>xml</b>)</td>
-    <td>  - </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
 </table>
 
