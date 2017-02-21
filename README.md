@@ -21,14 +21,21 @@ Repository for HMT editing by Homer's Angels in spring 2017
 
 * Aniek Vink
 * Bart Bijvoets
+* Christine Lvov
 * Elias Eells
 * Ineke Sluiter
+* Judith Nijensteen
+* Kimia Ghambari
 * Leonie Henkes
+* Lisa Seldenthuis
 * Marloes Velthuisen
 * Olivia Monster
+* Roos Jeninga
+* Salma El Emrani
 * Suzan Boreel
 * Tazuko van Berkel
 * Thom van Leuveren
+* Willemijn Roozenbeek
 
 ##What is there on a folio?
 
