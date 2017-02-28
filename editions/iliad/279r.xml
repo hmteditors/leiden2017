@@ -10,9 +10,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Thom van Leuveren</editor>
+        <editor>Aniek Vink</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
@@ -25,7 +24,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <div n="21">
-        <l n="453">GREEK VERSE HERE</l>
+        <l n="453">σὺν, μὲν ὅ γ᾽ ἠπείλησε πόδας καὶ χεῖρας ὕπερθε</l>
+        <l n="454">δήσειν. καὶ περάαν νήσων ἐπι τηλεδαπάων·</l>
+        <l n="455">στεῦτο δ᾽ ὅ γ᾽ ἀμφοτέρων ἀποκόψειν οὔατα χαλκῷ·</l>
+        <l n="456">νῶϊ δέτ' ἄψορροι κίομεν κεκοτηότι θυμῷ.</l>
+        <l n="457">μισθοῦ χωόμενοι. τὸν, ὑποστὰς, οὐκ ἐτέλεσσε·
+        <l n="458">τοῦ δὴ νῦν λαοῖσι φέρεις χάριν· οὐδὲ μεθ᾽ ἡμέων
+        <l n="459">πειρᾷ· ὥς κεν Τρῶες ὑπερφίαλοι ἀπόλωνται
+        <l n="460">πρόχνυ κακῶς. σὺν παισὶ καὶ αἰδοίῃς ἀλόχοισι·
+        <l n="461">τὸν δ᾽ αὖτε προσέειπεν ἄναξ ἑκάεργος Ἀπόλλων·
+        <l n="462">ἐννοσίγαι᾽. οὐκ άν με σαόφρονα μυθήσαιο
+        <l n="463">ἔμμεναι. εἰ δὴ, σοί γε βροτῶν ἕνεκα πτολεμίξω
+        <l n="464">δειλῶν. οἳ φύλλοισιν ἐοικότες. ἄλλοτε μέν' τε
+        <l n="465">ζαφλεγέες τελέθουσιν. ἀρούρης καρπὸν ἔδοντες.
+        <l n="466">ἄλλοτε δὲ φθινύθουσιν ἀκήριοι· ἀλλὰ τάχιστα
+        <l n="467">παυώμεσθα μάχης. οἱ δ᾽ αὐτοὶ δηριαάσθων·</l>
+          We came to this line.
       </div>
     </body>
   </text>
