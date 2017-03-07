@@ -98,11 +98,11 @@ Repository for HMT editing by Homer's Angels in spring 2017
   </tr>
   <tr>
     <td>paleography main text</td> <td>(<b>csv</b>)</td>
-    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>paleography main scholia</td> <td>(<b>csv</b>)</td>
-    <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>main text indices</td> <td>(<b>csv</b>)</td>
@@ -134,7 +134,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
   </tr>
   <tr>
     <td>main text</td> <td>(<b>xml</b>)</td>
-    <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td>
+    <td>  Y  </td> <td>  -  </td> <td>  Y  </td> <td>  Y   </td> <td>  ?  </td> <td>  -  </td> <td>  ?  </td> <td>  Y  </td> <td>  ?  </td> <td>  -  </td> <td>  Y  </td>
   </tr>
   <tr>
     <td>main scholia</td> <td>(<b>xml</b>)</td>
