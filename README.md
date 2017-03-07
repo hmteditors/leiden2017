@@ -154,7 +154,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
   </tr>
   <tr>
     <td>exterior scholia</td> <td>(<b>xml</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td>
   </tr>
 </table>
 
