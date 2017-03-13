@@ -10,9 +10,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Christine Lvov</editor>
+        <editor>Willemijn Roozenbeek</editor>
+        <editor>Judith Nijensteen</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
@@ -27,6 +27,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <div n="21">
         <l n="504">ἣ μὲν τόξα λαβοῦσα πάλιν κίε. θυγατέρος, ἧς·</l>
         <l n="505">ἡ δ' ρ <placeName n="urn:cite:hmt:place.place45">Ὄλυμπον</placeName> ΐκᾱνε. <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> ποτὶ χαλκοβατὲς δῶ·</l>
+		<l n="506">δακρυόεσσα δὲ πατρὸς ἐφέζετο γούνασι κούρη·</l>
+		<l n="507">ἀμφι δ'αρ ἀμβρόσιος εανὸς τρέμε· τὴν δὲ προτὶ οἷ</l>
+		<l n="508">εἷλε πατὴρ <persName n="urn:cite:hmt:pers.pers139">Κρονίδης</persName> καὶ ἀνείρετο. ἡδὺ γελάσσας·</l>
+		<l n="509">τίς νύ σε τοιάδ' ἔρεξε φίλον τέκος. <persName n="urn:cite:hmt:pers.pers901">Οὐρανιώνων</persName>·</l>
+		<l n="510"></l>
+		<l n="511"></l>
+		<l n="512"></l>
+		
       </div>
     </body>
   </text>
