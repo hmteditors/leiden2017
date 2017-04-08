@@ -11,9 +11,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Venetus A Intermarginal Scholia</title>
-        <author>YOUR NAME HERE</author>
-        <author>YOUR NAME HERE</author>
-        <author>YOUR NAME HERE</author>
+        <author>Ineke Sluiter</author>
+        <author>Tazuko van Berkel</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -39,7 +38,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>γράφεται <rs type="waw">πτερόεντα προσηῦδα</rs>⁑</p>
             </div>
           </div>
-		  <div n="278v2" type="scholion">
+          <div n="278v2" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -50,7 +49,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>εν αλλω <rs type="waw">ῆλθεν ἐπίουρος</rs></p>
             </div>
           </div>
-		  <div n="278v3" type="scholion">
+          <div n="278v3" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -61,7 +60,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>γράφεται <rs type="waw">Ἴλιον</rs></p>
             </div>
           </div>
-		  <div n="278v4" type="scholion">
+          <div n="278v4" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -72,7 +71,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ἀντὶ <rs type="waw">ἀφέσταμεν τῆς μάχης</rs>⁑</p>
             </div>
           </div>
-		  <div n="278v5" type="scholion">
+          <div n="278v5" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -83,7 +82,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>οὕτως ἐνταῦθα <rs type="waw">μέμνηαι</rs> διπλῆ γὰρ ἡ χρῆσις ⁑</p>
             </div>
           </div>
-		  <div n="278v6" type="scholion">
+          <div n="278v6" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -95,7 +94,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
           </div>
         </body>
-		<!-- finished. -->
+<!-- finished. -->
       </text>
     </group>
   </text>

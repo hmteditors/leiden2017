@@ -139,19 +139,19 @@ Repository for HMT editing by Homer's Angels in spring 2017
   </tr>
   <tr>
     <td>main scholia</td> <td>(<b>xml</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  ?   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td>
   </tr>
   <tr>
     <td>intermarginal scholia</td> <td>(<b>xml</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td>
   </tr>
   <tr>
     <td>interlinear scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y   </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  ?  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td>
   </tr>
   <tr>
     <td>interior scholia</td> <td>(<b>xml</b>)</td>
-    <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td>
   </tr>
   <tr>
     <td>exterior scholia</td> <td>(<b>xml</b>)</td>

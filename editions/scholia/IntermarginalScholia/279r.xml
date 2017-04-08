@@ -11,9 +11,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Venetus A Intermarginal Scholia</title>
-        <author>YOUR NAME HERE</author>
-        <author>YOUR NAME HERE</author>
-        <author>YOUR NAME HERE</author>
+        <author>Ineke Sluiter</author>
+        <author>Tazuko van Berkel</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -38,7 +37,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>γράφεται <rs type="waw">ἀπολεψέμεν ούατα</rs>⁑</p>
             </div>
           </div>
-		  <div n="279r2" type="scholion">
+          <div n="279r2" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -49,7 +48,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>γράφεται <rs type="waw">ἄλλοτε δ'αῦ</rs></p>
             </div>
           </div>
-		  <div n="279r3" type="scholion">
+          <div n="279r3" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -60,7 +59,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>κυνηγός ἀπὸ τοῦ <rs type="waw">ἀγρεύειν</rs></p>
             </div>
           </div>
-		  <!-- finished -->
+<!-- finished -->
         </body>
       </text>
     </group>

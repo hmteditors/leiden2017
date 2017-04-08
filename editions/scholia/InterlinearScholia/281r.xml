@@ -12,8 +12,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <titleStmt>
         <title>Venetus A Interlinear Scholia</title>
         <author>Elias Eells</author>
-        <author>YOUR NAME HERE</author>
-        <author>YOUR NAME HERE</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -104,7 +102,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>συμβαλεῖν ὑπαντῆςαι</p>
             </div>
           </div>
-          <!--  finished -->
+<!--  finished -->
         </body>
       </text>
     </group>
