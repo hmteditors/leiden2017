@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -45,7 +45,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.412</p>
             </div>
             <div type="comment">
-              <p>τιμωρίας <choice><sic>ἀποδοίῃς</sic><corr>ἀποδοίης</corr></choice> τῇ <persName n="urn:cite:hmt:pers.pers116">Ἥρᾳ</persName></p>
+              <p>τιμωρίας <sic>ἀποδοίῃς</sic> τῇ <persName n="urn:cite:hmt:pers.pers116">Ἥρᾳ</persName></p>
             </div>
           </div>
         </body>
