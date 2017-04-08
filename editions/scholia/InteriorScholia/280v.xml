@@ -33,14 +33,48 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p></p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.###</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.534</p>
             </div>
             <div type="comment">
-              <p>GREEK SCHOLION HERE</p>
+              <p>ἀποκλεισθε ⁑</p>
             </div>
           </div>
+          <div n="280v2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.541</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι παρεῖται ἡ ὑπό πρόθεσις</p>
+            </div>
+          </div>
+           <div n="280v3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.550</p>
+            </div>
+            <div type="comment">
+              <p>ὁ <persName n="urn:cite:hmt:pers.pers60">Αγίνωρ</persName> εμερίμνα ⁑</p>
+            </div>
+          </div>
+           <div n="280v4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.554</p>
+            </div>
+            <div type="comment">
+              <p>γράφεται φοβέονται</p>
+            </div>
+          </div>          
         </body>
       </text>
     </group>
   </text>
 </TEI>
+<!-- Scholia finished -->
