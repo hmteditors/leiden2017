@@ -11,7 +11,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Venetus A Interlinear Scholia</title>
-        <author>YOUR NAME HERE</author>
+        <author>Elias Eells</author>
         <author>YOUR NAME HERE</author>
         <author>YOUR NAME HERE</author>
       </titleStmt>
@@ -33,10 +33,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p></p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.###</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.516</p>
             </div>
             <div type="comment">
-              <p>GREEK SCHOLION HERE</p>
+              <p>εφροντιζεν</p>
             </div>
           </div>
         </body>
