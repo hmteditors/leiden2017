@@ -11,9 +11,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Venetus A Interior Scholia</title>
-        <author>YOUR NAME HERE</author>
-        <author>YOUR NAME HERE</author>
-        <author>YOUR NAME HERE</author>
+        <author>Suzan Boreel</author>
+        <author>Olivia Monster</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -49,9 +48,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>προς ἀντιδιαστολην τοῦ οὐτασαι καὶ βαλεῖν</p>
             </div>
           </div>
+<!-- Interior scholia finished -->
         </body>
       </text>
     </group>
   </text>
 </TEI>
-<!-- Interior scholia finished -->
