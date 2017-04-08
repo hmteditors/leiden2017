@@ -33,10 +33,76 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p></p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.###</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.558</p>
             </div>
             <div type="comment">
-              <p>GREEK SCHOLION HERE</p>
+              <p>ενῶ ἵλου τάφος⁑</p>
+            </div>
+          </div>
+            <div n="281r2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.561</p>
+            </div>
+            <div type="comment">
+              <p>απ ψυχραν θεὶς</p>
+            </div>
+          </div>
+            <div n="281r3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.563</p>
+            </div>
+            <div type="comment">
+              <p>αφορνωμενον</p>
+            </div>
+          </div>
+            <div n="281r4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.571</p>
+            </div>
+            <div type="comment">
+              <p>συστραφεις</p>
+            </div>
+          </div>
+            <div n="281r5" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.573</p>
+            </div>
+            <div type="comment">
+              <p>παρλος</p>
+            </div>
+          </div>
+            <div n="281r6" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.573</p>
+            </div>
+            <div type="comment">
+              <p>συμφυτον τόπον</p>
+            </div>
+          </div>
+            <div n="281r7" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.578</p>
+            </div>
+            <div type="comment">
+              <p>συμβαλεῖν ὑπαντῆςαι</p>
             </div>
           </div>
         </body>
