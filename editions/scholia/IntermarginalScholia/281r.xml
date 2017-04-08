@@ -35,7 +35,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.573</p>
             </div>
             <div type="comment">
-              <p>δια τοῦ <rs type="waw">α</rs> <rs type="waw">πάρδαλις</rs> εἶχον αἱ <persName n="urn:cite:hmt:pers.pers16">Αρισταρχου</persName></p>
+              <p>δια τοῦ <rs type="waw">α</rs> <rs type="waw">πάρδαλις</rs> εἶχον αἱ <persName n="urn:cite:hmt:pers.pers16">Αρισταρχου</persName>⁑</p>
             </div>
           </div>
 		  <!-- finished. -->
