@@ -33,10 +33,32 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p></p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.###</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.387</p>
             </div>
             <div type="comment">
-              <p>GREEK SCHOLION HERE</p>
+              <p>γράφεται ὁμάδω·</p>
+            </div>
+          </div>
+		  <div n="277v2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.397</p>
+            </div>
+            <div type="comment">
+              <p>οὕτως Αρισταρχος πανόψιον</p>
+            </div>
+          </div>
+		  <div n="277v3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.400</p>
+            </div>
+            <div type="comment">
+              <p>γράφεται κατ' αἰγίδα</p>
             </div>
           </div>
         </body>
