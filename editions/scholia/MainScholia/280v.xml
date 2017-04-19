@@ -26,7 +26,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="21">
       <text n="msA">
         <body>
-<!-- Please place this comment line where you stopped. If there are no scholia on this folio, please clear the body. If you are finished, please state so. -->
           <div n="280v1" type="scholion">
             <div type="lemma">
               <p>αὖτις ἐπὰψ θέμεναι</p>
@@ -49,6 +48,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ψιλῶς τὸ ἄληται ἔστι δέ μείσος δεύτερος ἀόριστος ὑποτακτικος ἀκόλουθος τῷ <rs type="waw">ἀλῆναι</rs> ἀπαρεμφάτω παθητικῶ δευτέρῳ ἀορίστῳ ὐπάρχοντι. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.714</ref><q>ἠ λαοὺς ἐς τεῖχος ὁμοκλήσειεν ἀλῆναι</q></cit> καὶ μετοχῇ τῇ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.534</ref><q>αὐτὰρ ἐπεί κ' ἐς τεῖχος ἀνανεύσωσιν ἀλέντες</q></cit> καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.607</ref><q>πόλις δ' ἔνπληντο ἀλέντων.</q></cit> ἡ δὲ ἑνικη ευθεῖ<sic>ᾳ</sic> ἦν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:22.308</ref><q>οἱμησην δὲ ἀλεὶς</q></cit>, παρακειμένη ῥήματι οριστικῷ τῷ εάνῃ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.408</ref><q>τῇ ὑπο πας' ἐάλη</q></cit> καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.408</ref><q>οἱ δή τοι εἰς ἄστυ ἄλην</q></cit> ⁑</p>
             </div>
           </div>
+<!-- Please place this comment line where you stopped. If there are no scholia on this folio, please clear the body. If you are finished, please state so. -->
           <div n="280v3" type="scholion">
             <div type="lemma">
               <p>αἳ δὲ πετασθεῖσαι</p>
