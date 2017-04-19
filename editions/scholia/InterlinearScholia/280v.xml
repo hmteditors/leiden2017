@@ -49,7 +49,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>συγκλεισθῆ</p>
             </div>
           </div>
- <!-- Please place this comment line where you stopped. If there are no scholia on this folio, please clear the body. If you are finished, please state so. -->
             <div n="280v3" type="scholion">
             <div type="lemma">
               <p></p>
@@ -58,7 +57,40 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.541</p>
             </div>
             <div type="comment">
-              <p>GREEK HERE</p>
+              <p>ξηροι</p>
+            </div>
+          </div>
+          <div n="280v4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.542</p>
+            </div>
+            <div type="comment">
+              <p>Unclear</p>
+            </div>
+          </div>
+          <div n="280v5" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.542</p>
+            </div>
+            <div type="comment">
+              <p>σφοδρῶς διώκων ⁚</p>
+            </div>
+          </div>
+           <div n="280v6" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.550</p>
+            </div>
+            <div type="comment">
+              <p>ἀντὶ ἴδεν ⁚</p>
             </div>
           </div>
         </body>
@@ -66,3 +98,4 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </group>
   </text>
 </TEI>
+ <!-- Interlinear scholia on this folio are finished -->

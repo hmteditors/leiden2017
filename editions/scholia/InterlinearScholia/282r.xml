@@ -11,9 +11,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Venetus A Interlinear Scholia</title>
-        <author>YOUR NAME HERE</author>
-        <author>YOUR NAME HERE</author>
-        <author>YOUR NAME HERE</author>
+        <author>Elias Eells</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -27,6 +25,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="21">
       <text n="msAil">
         <body>
+<!-- Finished. No interlinears on this folio. -->
         </body>
       </text>
     </group>
