@@ -27,7 +27,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="21">
       <text n="msA">
         <body>
-<!-- Please place this comment line where you stopped. If there are no scholia on this folio, please clear the body. If you are finished, please state so. -->
           <div n="280r1" type="scholion">
             <div type="lemma">
               <p>τὴν δὲ προτι οἷ</p>
@@ -61,6 +60,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ὅθεν ἄφυζαν τὸν λεοντα <persName n="urn:cite:hmt:pers.pers4">ἡσίοδος</persName> φησίν⁑</p>
             </div>
           </div>
+          <!-- finished -->
         </body>
       </text>
     </group>
