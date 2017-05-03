@@ -141,51 +141,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 			  παρα <persName n="urn:cite:hmt:pers.pers79">Λαομέδοντι</persName> καὶ <persName n="urn:cite:hmt:pers.pers748">Ἀδμήτῳ</persName>. οὗτος ἱστορεῖ <persName n="urn:cite:hmt:pers.pers69">Ἀπολλόδωρος</persName> ⁑ </p>
             </div>
           </div>
+
+		  <div n="278v#" type="scholion">
+            <div type="lemma">
+              <p>ἕλικας βοῦς.</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.448</p>
+            </div>
+            <div type="comment">
+              <p>ἔλικας, τοὺς βοῦς φησὶν ἐπιθετικῶς. ή τοι ἀπο τῆς κινήσεως τῶν ποδῶν καθὸ ἑλίποδες λέγονται. ἤτοι ελικοειδῆ, ἔχοντες τὰ κέρατα ὅ εστιν ἐπι καμπῆ ⁑ </p>
+            </div>
+          </div>
 		  <!-- finished up till now -->
-		  <div n="278v#" type="scholion">
-            <div type="lemma">
-              <p>#</p>
-            </div>
-            <div type="ref">
-              <p>#</p>
-            </div>
-            <div type="comment">
-              <p>#</p>
-            </div>
-          </div>
-		  <div n="278v#" type="scholion">
-            <div type="lemma">
-              <p>#</p>
-            </div>
-            <div type="ref">
-              <p>#</p>
-            </div>
-            <div type="comment">
-              <p>#</p>
-            </div>
-          </div>
-		  <div n="278v#" type="scholion">
-            <div type="lemma">
-              <p>#</p>
-            </div>
-            <div type="ref">
-              <p>#</p>
-            </div>
-            <div type="comment">
-              <p>#</p>
-            </div>
-          </div>
-		  <div n="278v#" type="scholion">
-            <div type="lemma">
-              <p>#</p>
-            </div>
-            <div type="ref">
-              <p>#</p>
-            </div>
-            <div type="comment">
-              <p>#</p>
-            </div>
-          </div>
         </body>
       </text>
     </group>
