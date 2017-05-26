@@ -45,7 +45,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.465</p>
             </div>
             <div type="comment">
-              <p> <sic>λείαν δραστικοι</sic> ⁑</p>
+              <p> λ<sic>ε</sic>ίαν δραστικοι ⁑</p>
             </div>
           </div>
         </body>
