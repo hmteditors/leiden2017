@@ -45,7 +45,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.541</p>
             </div>
             <div type="comment">
-              <p>ὅτι παρεῖται ἡ ὑπό πρόθεσις</p>
+              <p>ὅτι παρεῖται ἡ <rs type="waw">ὑπό</rs> πρόθεσις</p>
             </div>
           </div>
            <div n="280v3" type="scholion">
