@@ -13,6 +13,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <title>Venetus A Main Scholia</title>
         <author>Bart Bijvoets</author>
         <author>Leonie Henkes</author>
+         <author>Marloes Velthuisen</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -34,7 +35,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.535</p>
             </div>
             <div type="comment">
-              <p>οὕτως <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> ἐπὰν θέμεναι δια τοῦ <rs type="waw">ν</rs> οἶον ἀναθείναι τινὲς δὲ των <choice><abbr>κατ</abbr><expan>κατὰ</expan><choice> πόλεις, <rs type="waw">ὲπ' ἀψ θέμεναι</rs> ⁑</p>
+              <p>οὕτως <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> ἐπὰν θέμεναι δια τοῦ <rs type="waw">ν</rs> οἶον ἀναθείναι τινὲς δὲ των <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> πόλεις, <rs type="waw">ὲπ' ἀψ θέμεναι</rs> ⁑</p>
             </div>
           </div>
           <div n="280v2" type="scholion">
@@ -60,7 +61,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName> τοὺς στίχους γελοῖον ἡγούμενος 
 			  διαπύλης φωτίζεσθαι τὴν πόλιν τοῦ παντος τόπου ἐναιθρίου ὄντος· 
 			  λέγει δὲ <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:21.538</ref><q>τεῦξαν φᾶος</q></cit> 
-			  ἀντι τοῦ τὴν <choice><abbr>σρίαν</abbr><expan>σωτηρίαν</expan></choice> τοῖς φεύγουσιν ἐποίησαν ὡς ἐν <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:6.6</ref><q>τῷ φόως δ' ἑτάροισιν ἔθηκεν ἄνδρα βαλών</q></cit> ⁑</p>
+			  ἀντι τοῦ τὴν <choice><abbr>σρίαν</abbr><expan>σωτηρίαν</expan></choice> τοῖς φεύγουσιν ἐποίησαν ὡς ἐν 
+ 			<cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:6.6</ref><q>τῷ φόως δ' ἑτάροισιν ἔθηκεν ἄνδρα βαλών</q></cit> ⁑</p>
             </div>
           </div>
 		  <div n="280v4" type="scholion">
@@ -75,70 +77,57 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 			 </p>
             </div>
           </div>
-		  <!-- Please place this comment line where you stopped. If there are no scholia on this folio, please clear the body. If you are finished, please state so. -->
-		  <div n="280v#" type="scholion">
+		 		  <div n="280v5" type="scholion">
             <div type="lemma">
-              <p></p>
+		    <p>φεῦγον ὁ <sic>δ'ὲ</sic> σφεδανὸν</p>
             </div>
             <div type="ref">
-              <p>#</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.542</p>
             </div>
             <div type="comment">
-              <p>
+<p>οὕτω σφεδανῶν ὑπερρωμένος τῷ θυμῷ καὶ σφοδρὸς ὑπαρχων καθάπερ ἀπο τοῦ φονᾶν τὸ φονόν⁑
 			 </p>
             </div>
           </div>
 		  
-		  <div n="280v#" type="scholion">
+		  <div n="280v6" type="scholion">
             <div type="lemma">
-              <p>#</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.542</p>
             </div>
             <div type="ref">
-              <p>#</p>
+		    <p><sic>αδε</sic> σφεδανῶν</p>
             </div>
             <div type="comment">
-              <p>
+              <p>ὅτι σφεδᾶν σφοδρῶς διώκων. <persName n="urn:cite:hmt:pers.pers22">Ἀτρείδης</persName> δ'επώχετο <rs type=ethnic n="urn:cite:hmt:pers.pers66"> Δαναοῖσι </rs> σπεδανὸν, 
+		      τῷ δε τόνῷ ὡς ἐνοχλῶν προκατάρχει γὰρ <rs type="waw">τοῦ σφεδανοῦ</rs> παρ ὃ ἐγένετο <rs type="waw">σφεδανόν</rs>⁑
 			 </p>
             </div>
           </div>
 		  
-		  <div n="280v#" type="scholion">
+		  <div n="280v7" type="scholion">
             <div type="lemma">
-              <p>#</p>
+              <p>ἔνθά κεν ὑψίπυλον</p>
             </div>
             <div type="ref">
-              <p>#</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.544</p>
             </div>
             <div type="comment">
-              <p>
+		    <p>ὅτι ὁμωνύμως τῇ χώρᾳ τὴν <placeName n="urn:cite:hmt:place.place6">ἴλιον τροίαν </placeName>εἴρηκεν⁑
 			 </p>
             </div>
           </div>
 		  
-		  <div n="280v#" type="scholion">
+		  <div n="280v8" type="scholion">
             <div type="lemma">
-              <p>#</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.550</p>
             </div>
             <div type="ref">
-              <p>#</p>
+              <p>αὐτὰρ ὅ γ' ὡς ενόησεν</p>
             </div>
             <div type="comment">
-              <p>
-			 </p>
-            </div>
-          </div>
-		  
-		  <div n="280v#" type="scholion">
-            <div type="lemma">
-              <p>#</p>
-            </div>
-            <div type="ref">
-              <p>#</p>
-            </div>
-            <div type="comment">
-              <p>
-			 </p>
-            </div>
+		    <p>ὅτι πλεονάζει ἔπ' <persName n="urn:cite:hmt:pers.pers118">ὀδυσσέως</persName> τὸ πτολίπορθος νῦν δὲ ἅπαξ ἐπ <persName n="urn:cite:hmt:pers.pers1">αχιλλέως</persName>· προς τοὺς χωρίζοντας τούτοις γὰρ χρῶνται· τινὲς δὲ <persName n="urn:cite:hmt:pers.pers1">ἀχιλλέα πηλείωνα</persName> ποιοῦσι ξενισθέντας προς τὸ ἐπίθετον·</p>
+             <!-- Finished! -->
+</div>
           </div>
         </body>
       </text>
