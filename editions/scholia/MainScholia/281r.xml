@@ -57,9 +57,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.570</p>
             </div>
             <div type="comment">
-              <p>ἀθετεῖται ὅτι ὡς ἐλλείποντος τοῦ λόγου ἐνεταξε τις αὐτόν· δεῖ δὲ τωι </p>
-              <!-- Please place this comment line where you stopped. If there are no scholia on this folio, please clear the body. If you are finished, please state so. -->
-            </div>
+              <p>ἀθετεῖται ὅτι ὡς ἐλλείποντος τοῦ λόγου ἐνεταξε τις αὐτόν· δεῖ δὲ τωι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.569</ref><q>θνητὸν δέ ἔφασ‘ <choice><abbr>ανοι</abbr><expan>ἄνθρωποι</expan></choice></q></cit> 
+                προς ὑπακόυειν τὸ εἶναι. καὶ ὅτι ἐπιφερόμενον τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.570</ref><q>αὐτάρ οἱ <persName n="urn:cite:hmt:pers.pers8">κρονίδης ζεὺς</persName> κῦδος ὁπάζει</q></cit> 
+                <choice>ἐντίον<abbr></abbr><expan>ἐναντίον</expan></choice> ἐστι τῶι προτρέποντι τὸν <persName n="urn:cite:hmt:pers.pers653">ἀγήνορα</persName> ἀντιστῆναι <persName n="urn:cite:hmt:pers.pers1">ἀχιλλεῖ</persName> </p>
+              </div>
           </div>
             <div n="281r4" type="scholion">
             <div type="lemma">
@@ -70,6 +71,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
             <div type="comment">
               <p>GREEK SCHOLION HERE</p>
+              <!-- Please place this comment line where you stopped. If there are no scholia on this folio, please clear the body. If you are finished, please state so. -->
             </div>
           </div>      
         </body>
