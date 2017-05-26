@@ -82,9 +82,31 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>νικίας ἀναστρέφαι τὴν πρόθεσίν οὐκ εὐ προείπομεν δὲ περι τῶν τοιούτων προσθέσεων ὡς οὐ θέλουσιν ἀναστρέσθαι καὶ σημειούμεθα ἀναγκαίως ἀναστραφεῖσαν τὴν στευτο γὰρ ἡφαίστοιο παρ οισεμεν ⁑ </p>
             </div>
            </div> 
-          <!-- Please place this comment line where you stopped. If there are no scholia on this folio, please clear the body. If you are finished, please state so. -->   
+           <div n="281v6" type="scholion">
+            <div type="lemma">
+              <p>ἕως ὅ τὸν πεδίοιο</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.602</p>
+            </div>
+            <div type="comment">
+              <p>ἀπ ἄλλης ἀρχης τοῦτο καὶ ἡ ἀνταπόδοσις προς τὸ <rs type="waw">τόφρα</rs> ⁑ </p>
+            </div>
+           </div>
+           <div n="281v7" type="scholion">
+            <div type="lemma">
+              <p>τυτθὸν ὑπερ προθέοντα</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.604</p>
+            </div>
+            <div type="comment">
+              <p>παρα <persName n="urn:cite:hmt:pers.pers7">Ἀντιμάχῳ</persName> καὶ <persName n="urn:cite:hmt:pers.pers85">Ῥιανῷ</persName> πύλαι δ' <sic>ἔμπλη'ττο</sic> ἀλεντων· ὑποστικτέον δὲ προθέοντα ποσὶν οῖσι. εἰ γὰρ ἀνταπόδοσις τόφρ' ἄλλοι <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώες</rs> ⁑ </p>
+            </div>
+          </div>
         </body>
       </text>
     </group>
   </text>
 </TEI>
+ <!-- The Scholia are done. There is an issue filed about how to annotate the citation range when two lines are used (this concerns scholion 7 on this page) -->
