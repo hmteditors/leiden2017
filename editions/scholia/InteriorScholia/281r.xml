@@ -34,7 +34,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.567</p>
             </div>
             <div type="comment">
-              <p>ἀντί άρα</p>
+              <p>ἀντί <rs type="waw">άρα</rs></p>
             </div>
           </div>
            <div n="281r2" type="scholion">
@@ -45,7 +45,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.576</p>
             </div>
             <div type="comment">
-              <p>προς ἀντιδιαστολην τοῦ οὐτασαι καὶ βαλεῖν</p>
+              <p>προς ἀντιδιαστολην τοῦ <rs type="waw">οὐτασαι</rs> καὶ <rs type="waw">βαλεῖν</rs></p>
             </div>
           </div>
 <!-- Interior scholia finished -->
