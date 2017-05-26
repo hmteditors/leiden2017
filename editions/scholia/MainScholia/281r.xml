@@ -64,14 +64,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
             <div n="281r4" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>ταρβεῖ οὐδε φοβεῖται</p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.###</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.573</p>
             </div>
             <div type="comment">
-              <p>GREEK SCHOLION HERE</p>
-              <!-- Please place this comment line where you stopped. If there are no scholia on this folio, please clear the body. If you are finished, please state so. -->
+              <p>ὅτι τὸ φοβεῖται ἀντι τοῦ φεύγει, καὶ ὅτι ἔν τισι γράφεται κυνυλαγμὸν οὐκ ανάγκηι δέ εστιν ὁ γὰρ ὑλαγμὸς ἴδιος κυνῶν. σύνδεσμος δέ ἐστιν ὁ κεν. εἶτα ὑλαγμόν⁑</p>
+              <!--  finished -->
             </div>
           </div>      
         </body>
