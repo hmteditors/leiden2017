@@ -34,7 +34,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.355</p>
             </div>
             <div type="comment">
-              <p>πολυβουλου</p>
+              <p>πολυβούλου</p>
             </div>
           </div>
           <div n="277r2" type="scholion">
@@ -45,7 +45,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.361</p>
             </div>
             <div type="comment">
-              <p><choice><sic><w>ανε<unclear>χ</unclear>ει</w></sic><corr>ανεζει</corr></choice></p>
+              <p><choice><sic><w>ανε<unclear>χ</unclear>ει</w></sic><corr>ανέζει</corr></choice></p>
             </div>
           </div>
           <div n="277r3" type="scholion">
@@ -67,7 +67,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.363</p>
             </div>
             <div type="comment">
-              <p>αντι του τήκων</p>
+              <p>αντι του <rs type="waw">τήκων</rs></p>
             </div>
           </div>
           <div n="277r5" type="scholion">
@@ -100,7 +100,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.366</p>
             </div>
             <div type="comment">
-              <p>πνοη δ' <w>ανα<unclear>δρυπτε</unclear></w> του πυρος</p>
+              <p>πνοὴ δ' <w>ἀνά<unclear>δρυπτε</unclear></w> τοῦ πυρός</p>
             </div>
           </div>
           <div n="277r8" type="scholion">
@@ -111,7 +111,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.369</p>
             </div>
             <div type="comment">
-              <p>ἐπεβαρησε</p>
+              <p>ἐπεβάρησε</p>
             </div>
           </div>
           <div n="277r9" type="scholion">
@@ -122,7 +122,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.369</p>
             </div>
             <div type="comment">
-              <p>λυπειν</p>
+              <p>λυπεῖν</p>
             </div>
           </div>
 <!--Finished; #7 very hard to decipher, unclear-->
