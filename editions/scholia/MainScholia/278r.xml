@@ -35,19 +35,43 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.407</p>
             </div>
             <div type="comment">
-              <p>ὅτι τὸ πλεθρον ἐχει πόδας ἑκατόν. πήχεις δὲ ἐξηκοντα ἑξ διμοιρον ⁑ </p>
+              <p>ὅτι τὸ πλεθρον ἐχει πόδας ἑκατόν. πήχεις δὲ ἑξηκοντα ἑξ διμοιρον ⁑ </p>
             </div>
           </div>
 		  
           <div n="278r2" type="scholion">
             <div type="lemma">
-              <p>τὸν δ'ἀγε χειρὸς ἐλοῦσα</p>
+              <p>τὸν δ'ἀγε χειρὸς <sic>ἐλοῦσα</sic></p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.416</p>
             </div>
             <div type="comment">
-              <p>ὅτι οἱ χωρίζοντες φασὶ τὸν τῆς Ϊλιάδος ποιητὴν εἰδέναι <choice><abbr>συνυσ</abbr><expan>συνοῦσαν</expan></choice> τῷ <persName n="urn:cite:hmt:pers.pers83">Ἄρει</persName> τὴν <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτην</persName> τὸν δε τῆς Ὀδυσσείας διαφώνος <persName n="urn:cite:hmt:pers.pers192">Ἡφαίστῳ</persName>· λέγειν δὲ δεῖ ὅτι οὐχ οἱ αὐτοὶ χρόνοι ῆσαν τῆς συμβιώσεως⁑ </p>
+              <p>ὅτι οἱ χωρίζοντες φασὶ τὸν τῆς Ϊλιάδος ποιητὴν εἰδέναι <choice><abbr>συνυσ</abbr><expan>συνοῦσαν</expan></choice> τῷ <persName n="urn:cite:hmt:pers.pers83">Ἄρει</persName> τὴν <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτην</persName> τὸν δε τῆς Ὀδυσσείας διαφώνως <persName n="urn:cite:hmt:pers.pers192">Ἡφαίστῳ</persName>· λέγειν δὲ δεῖ ὅτι οὐχ οἱ αὐτοὶ χρόνοι ῆσαν τῆς συμβιώσεως⁑ </p>
+            </div>
+          </div>
+		            
+		<div n="278r3" type="scholion">
+            <div type="lemma">
+              <p>κατακλόνον· </p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.422</p>
+            </div>
+            <div type="comment">
+              <p>κλόνος ἐν ᾧ κλίνεται τὰ πράγματα ⁑ </p>
+            </div>
+          </div>
+		  
+		  <div n="278r4" type="scholion">
+            <div type="lemma">
+              <p>καί ρ' ἐπιεισαμένη·</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.424</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι <rs type="waw">ἐπιεισαμένη</rs> ἐστιν ἐπελθοῦσα ἐφορμήσασα ἀπὸ τοῦ <rs type="waw">εἰμι</rs> ὡς <choice><sic>τοῦ</sic><corr>τὸ</corr></choice> <cit><ref>urn:cts:greekLit:tlg0012.tlg002:19.69</ref><q>ἠ τάχα καὶ δαλῷ βεβλημένος</q></cit> <> ⁑  </p>
             </div>
           </div>
 		  </body>
