@@ -45,7 +45,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.466</p>
             </div>
             <div type="comment">
-              <p>γράφεται <rs type="waw">ἄλλοτε δ'αῦ</rs></p>
+              <p>γράφεται <rs type="waw"><choice><sic>ἄλλ</sic><corr>ἀλλ</corr></choice> ὅτε δ'αῦ</rs></p>
             </div>
           </div>
           <div n="279r3" type="scholion">
@@ -56,7 +56,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.471</p>
             </div>
             <div type="comment">
-              <p>κυνηγός ἀπὸ τοῦ <rs type="waw">ἀγρεύειν</rs></p>
+              <p>κυνηγός ἀπὸ τοῦ <rs type="waw">ἀγρεύειν</rs>⁑</p>
+            </div>
+          </div>
+		  <div n="279r4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.465</p>
+            </div>
+            <div type="comment">
+              <p>γράφεται</p>
             </div>
           </div>
 <!-- finished -->
