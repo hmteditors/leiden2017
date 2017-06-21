@@ -37,7 +37,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
             <div type="comment">
               <p>εἴρηται ὅτι τὸ <rs type="waw">νῦν</rs> ἀεὶ παρα τῷ ποιητῇ περισπᾶται 
-			  κἀν παρέλκηι χωρὶς εἰ μη μετρον κωλύοι ὡς ἐπι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.485</ref><q>δευρο <sic>νῦν</sic> ἡ τρίποδος</q></cit> 
+			  καν παρέλκηι χωρὶς εἰ μη μετρον κωλύοι ὡς ἐπι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.485</ref><q>δευρο <sic>νῦν</sic> ἡ τρίποδος</q></cit> 
 			  καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.105</ref><q>ἐκ τελέει ὅσα που <sic>νῦν</sic> ἐέλπεται </q></cit> ⁑ </p>
             </div>
           </div>
@@ -60,7 +60,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.435</p>
             </div>
             <div type="comment">
-              <p>ὁ τῆς αὐξήσεως αἴτιος ὑγρὸς γὰρ καὶ κραίνειν τὸ πληροῦν λέγεται</p>
+              <p>ὁ τῆς αὐξήσεως αἴτιος ὑγρὸς γὰρ καὶ κραίνειν τὸ πληροῦν λέγεται ⁑ </p>
             </div>
           </div>
 		  <div n="278v4" type="scholion">
@@ -71,12 +71,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.436</p>
             </div>
             <div type="comment">
-              <p>οὐ πολεμοῦμεν οὐ μιγνύμεθα· μιγνύναι γὰρ λέγει το πολεμῆσαι ὡς <sic><sic>ἐσχρὸν</sic> τῶν ὁμοφύλων ἀργεῖν</sic>⁑ </p>
+              <p>οὐ πολεμοῦμεν οὐ μιγνύμεθα· μιγνύναι γὰρ λέγει το πολεμῆσαι ὡς <sic>ἐσχρὸν</sic> τῶν ὁμοφύλων ἀργεῖν</sic>⁑ </p>
             </div>
           </div>
 		  <div n="278v5" type="scholion">
             <div type="lemma">
-              <p>παρ <persName n="urn:cite:hmt:pers.pers8">διὸς</persName> ἐλθόντες.</p>
+              <p>παρ <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> ἐλθόντες.</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.444</p>
@@ -88,19 +88,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
 		  <div n="278v6" type="scholion">
             <div type="lemma">
-              <p>ἤτοι ἐγὼ <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωεσσι</rs></p>
+              <p>ἤτοι ἐγὼ <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωεσσι</rs>,</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.446</p>
             </div>
             <div type="comment">
-              <p>πρὸς τὴν ἐν τοῖς ἐπάνω ἀθετησιν ὅτι διαφωνεῖ ταῦτα ἐν οῖς φησὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:7.452</ref>
+              <p>πρὸς τὴν ἐν τοῖς ἐπάνω ἀθετησιν ὅτι διαφωνεῖ ταῦτα ἐν οῖς φησὶ. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:7.452</ref>
 			  <q>τότ' ἐγὼ καὶ <persName n="urn:cite:hmt:pers.pers40">Φοῖβος Ἀπολλῶν</persName> ἥρῳ <persName n="urn:cite:hmt:pers.pers79">Λαομέδοντι</persName></q></cit>⁑</p>
             </div>
           </div>  
 		  <div n="278v7" type="scholion">
             <div type="lemma">
-              <p>πόλιν περι τεῖχος ἔδειμα</p>
+              <p>πόλιν περι τεῖχος ἔδειμα·</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.446</p>
@@ -111,16 +111,16 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
 		  <div n="278v8" type="scholion">
             <div type="lemma">
-              <p>μισθῶ. ἐπὶ ρητῶι.</p>
+              <p>μισθῶ, ἐπὶ ρητῷ.</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.445</p>
             </div>
             <div type="comment">
-              <p>ἐπὶ ὡμολογημένῳ καὶ ωρισμένω μισθῷ· πῶς δὲ <sic>φησίν</sic> <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName> μὲν οὐ μέμνηται τῆς παρὰ <persName n="urn:cite:hmt:pers.pers79">Λαομέδοντι</persName> θήτειας
-			  <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶν</persName> δὲ μνήμα τούτου ποιεῖται· καὶ ῥητέον. ὅτι <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶν</persName> εἰκότως καὶ γὰρ <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλλησι</rs> βοηθεῖ
-			  καὶ προσέτι τῆι μνήμηι παροξύνεται· <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName> δὲ οὐ μνησικακεῖ διότι μᾶλλον τιμᾶται παραυτοῦ.
-			  πᾶσα δὲ χάρις κἄν ἠ τελευταία δύναται μεῖζον ἔγκλημα λῦσαι ⁑   </p>
+              <p>ἐπὶ ὡμολογημένῳ καὶ ωρισμένῳ μισθῷ· πῶς δὲ <sic>φησίν</sic> <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName> μὲν οὐ μέμνηται τῆς παρὰ <persName n="urn:cite:hmt:pers.pers79">Λαομέδοντι</persName> θήτειας
+			  <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶν</persName> δὲ μνήμην τούτου ποιεῖται· καὶ ῥητέον, ὅτι <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶν</persName> εἰκότως καὶ γὰρ <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλλησι</rs> βοηθεῖ
+			  καὶ προσέτι τῇ μνήμῃ παροξύνεται· <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName> δὲ οὐ μνησικακεῖ διότι μᾶλλον τιμᾶται παραυτῶν.
+			  πᾶσα δὲ χάρις κἄν ᾐ τελευταία δύναται μεῖζον ἔγκλημα λῦσαι ⁑   </p>
             </div>
           </div>
 		  <div n="278v9" type="scholion">
@@ -131,18 +131,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.448</p>
             </div>
             <div type="comment">
-              <p>φασὶ τὸν <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλονα</persName> κεκλῆσθαι νόμιον δια τοιαύτὴν αἰτίαν·
+              <p>φασὶ τὸν <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλωνα</persName> κεκλῆσθαι νόμιον δια τοιαύτην αἰτίαν·
 			  οἱ παλαιοὶ τοῦς λοιμοὺς ἐξ <persName n="urn:cite:hmt:pers.pers40">Απόλλωνος</persName> ἐνόμιζον· 
-			  πᾶς δὲ λοιμὸς ἀπο τοῦ ἀλόγων ἄρχεται ὡς καὶ <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> φησὶν. 
+			  πᾶς δὲ λοιμὸς ἀπο τῶν ἀλόγων ἄρχεται ὡς καὶ <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> φησὶν. 
 			  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.50</ref>
 			  <q>οὐρηας μὲν πρῶτον ἐπῴχετο καὶ κύνας ἀργούς. </q></cit> 
 			  βουλόμενοι οὖν τὸν θεὸν δυσωπεῖν ἵνα τοὺς λοιμοὺς ἀποτρέπῃ νόμιον
-			  καὶ φύλακα τῶν βοσκημάτων ἐκάλεσαν. ὅθεν <persName n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName> εἰπεῖν <sic>ὃς</sic> ἐβούλησε 
+			  καὶ φύλακα τῶν βοσκημάτων ἐκάλεσαν. ὅθεν <persName n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName> εἰπεῖν <sic>ὃς ἐβούλησε</sic>
 			  παρα <persName n="urn:cite:hmt:pers.pers79">Λαομέδοντι</persName> καὶ <persName n="urn:cite:hmt:pers.pers748">Ἀδμήτῳ</persName>. οὗτος ἱστορεῖ <persName n="urn:cite:hmt:pers.pers69">Ἀπολλόδωρος</persName> ⁑ </p>
             </div>
           </div>
 
-		  <div n="278v#" type="scholion">
+		  <div n="278v10" type="scholion">
             <div type="lemma">
               <p>ἕλικας βοῦς.</p>
             </div>
@@ -150,7 +150,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.448</p>
             </div>
             <div type="comment">
-              <p>ἔλικας, τοὺς βοῦς φησὶν ἐπιθετικῶς. ή τοι ἀπο τῆς κινήσεως τῶν ποδῶν καθὸ ἑλίποδες λέγονται. ἤτοι ελικοειδῆ, ἔχοντες τὰ κέρατα ὅ εστιν ἐπι καμπῆ ⁑ </p>
+              <p>ἕλικας, τοὺς βοῦς φησὶν ἐπιθετικῶς. ήτοι ἀπο τῆς κινήσεως τῶν ποδῶν καθὸ ἐλίποδες λέγονται. ἤτοι ελικοειδῆ, ἔχοντες τὰ κέρατα ὅ εστιν ἐπι καμπῆ ⁑ </p>
             </div>
           </div>
 		  <!-- finished -->
