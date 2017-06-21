@@ -36,7 +36,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.362</p>
             </div>
             <div type="comment">
-              <p>ὅτι οῖδεν έψησιν κρεῶν χρωμένους δὲ τὸυς ήρωας οὐ παρεισάγει⁑ </p>
+              <p>ὅτι οῖδεν έψησιν κρεῶν χρωμένους δὲ τὸυς ήρωας οὐ παρεισάγει ⁑ </p>
             </div>
           </div>
           <div n="277r2" type="scholion">
@@ -47,7 +47,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.363</p>
             </div>
             <div type="comment">
-              <p>ὅτι ἀντι τοῦ μέλδων τήκων τὰ κνίση, τήκων παθητικὸν ἀντι ενεργητικοῦ γράφουσι δέ τινες κνίσην σὺν τῳ <rs type="waw">ν</rs> οὐτως γὰρ καὶ <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταργος</persName>. καὶ φησὶν ὅτι ἀντι τοῦ τηκόμενος ὅπερ ϊσοδυναμεῖ τῷ τήκων κνίσην δὲ πᾶν τὸ πιμελές⁑ </p>
+              <p>ὅτι ἀντι τοῦ <rs type="waw">μέλδων</rs> τήκων τὰ κνίση <sic>,</sic> τήκων παθητικὸν ἀντι ενεργητικοῦ γράφουσι δέ τινες κνίσην σὺν τῳ <rs type="waw">ν</rs> οὐτως γὰρ καὶ <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταργος</persName> καὶ φησὶν ὅτι ἀντι τοῦ <rs type="waw">τηκόμενος</rs> ὅπερ ϊσοδυναμεῖ τῷ τήκων κνίσην δὲ πᾶν τὸ πιμελές ⁑ </p>
             </div>
           </div> 
           <div n="277r3" type="scholion">
@@ -58,7 +58,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.366</p>
             </div>
             <div type="comment">
-              <p>ὅτι ἀντι τοῦ οὐκ ηδύνατο. καὶ ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσείᾳ</ref></title> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.121</ref><q>ἤθελ' ἐπεὶ μάλα πολλὸν ἐνίκα δῖος <persName n="urn:cite:hmt:pers.pers1">Ὀδυσσεύς</persName> </q></cit> ⁑</p>
+              <p>ὅτι ἀντι τοῦ <rs type="waw">οὐκ ηδύνατο</rs>. καὶ ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσείᾳ</ref></title> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.121</ref><q>ἤθελ' ἐπεὶ μάλα πολλὸν ἐνίκα δῖος <persName n="urn:cite:hmt:pers.pers1">Ὀδυσσεύς</persName> </q></cit> ⁑</p>
             </div>
           </div>
         </body>
