@@ -35,7 +35,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.403</p>
             </div>
             <div type="comment">
-              <p>εν αλλῳ <rs type="waw"><persName n="urn:citeLhmt:pers.pers67">Παλλὰς Ἀθήνη</persName></rs>·</p>
+              <p>εν αλλῳ <rs type="waw"><persName n="urn:cite:hmt:pers.pers67">Παλλὰς Ἀθήνη</persName></rs>·</p>
             </div>
           </div>
           <div n="278r2" type="scholion">
@@ -57,7 +57,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.414</p>
             </div>
             <div type="comment">
-              <p>γράφεται καὶ <rs type="waw">ἀρήγεις</rs> <⁑/p>
+              <p>γράφεται καὶ <rs type="waw">ἀρήγεις</rs> ⁑ </p>
             </div>
           </div>
           <div n="278r4" type="scholion">
