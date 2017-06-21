@@ -34,7 +34,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.388</p>
             </div>
             <div type="comment">
-              <p>ὅτι αὐτὸς μὲν οἰδε σάλπιγγα χρωμένους δὲ τοὺς ἥρωας οὐκ εἰσάγει ⁑ </p>
+              <p>ὅτι αὐτὸς μὲν οῖδε σάλπιγγα χρωμένους δὲ τοὺς ἥρωας οὐκ εἰσάγει ⁑ </p>
             </div>
           </div>
           <div n="277v2" type="scholion">
@@ -56,18 +56,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.394</p>
             </div>
             <div type="comment">
-              <p>ὅτι αὐτὸς ἐσχηματίσε τὸ ὄνομα τοῦ κυνὸς καὶ τῆς μυίας· ὁ μὲν γὰρ κύων ἀναιδής· ἡ δε μυῖα θρασεῖα</p>
+              <p>ὅτι αὐτὸς ἐσχηματίσε τὸ ὄνομα τοῦ κυνὸς καὶ τῆς μυίας· ὁ μὲν γὰρ κύων ἀναιδής· ἡ δε μυῖα θρασεῖα ⁑</p>
             </div>
           </div>
           <div n="277v4" type="scholion">
             <div type="lemma">
-              <p>οὐταμεναι αὐτὴ. δὲ.</p>
+              <p>οὐτάμεναι αὐτὴ. δὲ.</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.397</p>
             </div>
             <div type="comment">
-              <p>οὕτως <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> <rs type="waw">πανόψιον</rs> τὸ οιονει πανόρατον καὶ λαμπρὸν καὶ ἐπιφανές. δύναται δὲ καὶ τὸ πάντων τελευταῖον ἀκούεσθαι. ἵνα τὸ <rs type="waw">ὀψε</rs> εγκέηται καὶ μὴ τοῦ ἐγχους δεχώμεθα. ἄλλα τοιοῦτον νοῶμεν. τὸ δὲ πάντων ἔσχατον αὐτὴ τὸ ἔγχος λαβοῦσα ἐπ' ἐμὲ ὦσας ⁑</p>
+              <p>οὕτως <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> <rs type="waw">πανόψιον</rs> τὸ οιονεὶ πανόρατον καὶ λαμπρὸν καὶ επιφανές. δύναται δὲ καὶ τὸ πάντων τελευταῖον ἀκούεσθαι. ἵνα τὸ <rs type="waw">ὀψε</rs> εγκέηται καὶ μὴ τοῦ ἐγχους δεχώμεθα. ἄλλα τοιοῦτον νοῶμεν. τὸ δὲ πάντων ἔσχατον αὕτη τὸ ἔγχος λαβοῦσα ἐπ' ἐμὲ ὦσας ⁑</p>
             </div>
           </div>
           <div n="277v5" type="scholion">
@@ -89,7 +89,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.401</p>
             </div>
             <div type="comment">
-              <p>ὅτι ἰδίως ἐπι τῆς αἰγιδος τοῦτο φησίν ἣν <persName n="urn:cite:hmt:pers.pers8">διὸς</persName> ὅπλον παραδίδωσιν ⁑</p>
+              <p>ὅτι ἰδίως ἐπι τῆς αἰγιδος τοῦτο φησίν ἣν <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> ὅπλον παραδίδωσιν ⁑</p>
             </div>
           </div>
 <!-- finished -->		 
