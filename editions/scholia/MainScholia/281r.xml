@@ -29,13 +29,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <body>
           <div n="281r1" type="scholion">
             <div type="lemma">
-              <p>ἰλήϊον</p>
+              <p>ϊλήϊον·</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.558</p>
             </div>
             <div type="comment">
-              <p>οὕτως ἰλήϊον δια τοῦ <rs type="waw">λ</rs> ἀντι τοῦ ἰλιακόν· ὁ δὲ κράτης ἰδήϊον τὸ ϊδαῖον⁑</p>
+              <p>οὕτως ἰλήϊον δια τοῦ <rs type="waw">λ</rs> ἀντι τοῦ ἰλιακόν· ὁ δὲ <persName n="urn:cite2:hmt:pers.2017a:pers667">κράτης</persName>
+			  <rs type="waw">ἰδήϊον<rs> τὸ ϊδαῖον ⁑</p>
             </div>
           </div>
             <div n="281r2" type="scholion">
@@ -51,15 +52,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
             <div n="281r3" type="scholion">
             <div type="lemma">
-              <p>ἔμμεναι αὐτάρ οἱ</p>
+              <p>ἔμμεναι αὐταρ οἱ</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.570</p>
             </div>
             <div type="comment">
-              <p>ἀθετεῖται ὅτι ὡς ἐλλείποντος τοῦ λόγου ἐνεταξε τις αὐτόν· δεῖ δὲ τωι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.569</ref><q>θνητὸν δέ ἔφασ‘ <choice><abbr>ανοι</abbr><expan>ἄνθρωποι</expan></choice></q></cit> 
-                προς ὑπακόυειν τὸ εἶναι. καὶ ὅτι ἐπιφερόμενον τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.570</ref><q>αὐτάρ οἱ <persName n="urn:cite:hmt:pers.pers8">κρονίδης ζεὺς</persName> κῦδος ὁπάζει</q></cit> 
-                <choice>ἐντίον<abbr></abbr><expan>ἐναντίον</expan></choice> ἐστι τῶι προτρέποντι τὸν <persName n="urn:cite:hmt:pers.pers653">ἀγήνορα</persName> ἀντιστῆναι <persName n="urn:cite:hmt:pers.pers1">ἀχιλλεῖ</persName> </p>
+              <p>ἀθετεῖται ὅτι ὡς ελλείποντος τοῦ λόγου ἐνεταξε τις αὐτὸν· 
+			  δεῖ δὲ τωι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.569</ref><q>θνητὸν δέ <sic>ἔ</sic> φασ‘ <choice><abbr>ανοι</abbr><expan>ἄνθρωποι</expan></choice></q></cit> 
+                προς ὑπακόυειν τὸ <rs type="waw">εἶναι</rs>. 
+				καὶ ὅτι ἐπιφερόμενον τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.570</ref><q>αὐτάρ οἱ 
+				<persName n="urn:cite:hmt:pers.pers8">κρονίδης ζεὺς</persName> κῦδος ὀπάζει</q></cit> 
+                <choice>ἐντίον<abbr></abbr><expan>ἐναντίον</expan></choice> 
+				ἐστι τῶι προτρέποντι τὸν <persName n="urn:cite:hmt:pers.pers653">ἀγήνορα</persName> ἀντιστῆναι 
+				<persName n="urn:cite:hmt:pers.pers1">ἀχιλλεῖ</persName> ⁑ </p>
               </div>
           </div>
             <div n="281r4" type="scholion">
@@ -70,7 +76,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.573</p>
             </div>
             <div type="comment">
-              <p>ὅτι τὸ φοβεῖται ἀντι τοῦ φεύγει, καὶ ὅτι ἔν τισι γράφεται κυνυλαγμὸν οὐκ ανάγκηι δέ εστιν ὁ γὰρ ὑλαγμὸς ἴδιος κυνῶν. σύνδεσμος δέ ἐστιν ὁ κεν. εἶτα ὑλαγμόν⁑</p>
+              <p>ὅτι τὸ <rs type="waw">φοβεῖται</rs> ἀντι τοῦ <rs type="waw">φεύγει</rs>, 
+			  καὶ ὅτι ἔν τισι γράφεται <sic>κυνυναγμὸν</sic> οὐκ ανάγκηι δέ εστιν ὁ γὰρ ὑλαγμὸς ἴδιος κυνῶν. σύνδεσμος δέ ἐστιν ὁ <rs type="waw">κεν</rs>. εἶτα ὑλαγμόν ⁑</p>
               <!--  finished -->
             </div>
           </div>      
