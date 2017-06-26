@@ -29,30 +29,36 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <body>
           <div n="280v1" type="scholion">
             <div type="lemma">
-              <p>αὖτις ἐπὰψ θέμεναι</p>
+              <p>αὖτις ἐπὰψ θέμεναι:</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.535</p>
             </div>
             <div type="comment">
-              <p>οὕτως <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> ἐπὰν θέμεναι δια τοῦ <rs type="waw">ν</rs> οἶον ἀναθείναι τινὲς δὲ των <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> πόλεις, <rs type="waw">ὲπ' ἀψ θέμεναι</rs> ⁑</p>
+              <p>οὕτως <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> ἐπὰν θέμεναι δια τοῦ <rs type="waw">ν</rs> <sic>οἶον</sic> ἀναθείναι τινὲς δὲ των <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> πόλεις, <rs type="waw">ὲπ' ἀψ θέμεναι</rs> ⁑</p>
             </div>
           </div>
           <div n="280v2" type="scholion">
             <div type="lemma">
-              <p>μὴ οῦλος ἀνερ ἐς τεῖχος άλεται</p>
+              <p>μὴ οῦλος ἀνερ ἐς τεῖχος άληται:</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.536</p>
             </div>
             <div type="comment">
-              <p>ψιλῶς τὸ ἄληται ἔστι δέ μείσος δεύτερος ἀόριστος ὑποτακτικος ἀκόλουθος τῷ <rs type="waw">ἀλῆναι</rs> ἀπαρεμφάτω παθητικῶ δευτέρῳ ἀορίστῳ ὐπάρχοντι. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.714</ref><q>ἠ λαοὺς ἐς τεῖχος ὁμοκλήσειεν ἀλῆναι</q></cit> καὶ μετοχῇ τῇ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.534</ref><q>αὐτὰρ ἐπεί κ' ἐς τεῖχος ἀνανεύσωσιν ἀλέντες</q></cit> καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.607</ref><q>πόλις δ' ἔνπληντο ἀλέντων.</q></cit> ἡ δὲ ἑνικη ευθεῖ<sic>ᾳ</sic> ἦν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:22.308</ref><q>οἱμησην δὲ ἀλεὶς</q></cit>, παρακειμένη ῥήματι οριστικῷ τῷ εάνῃ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.408</ref><q>τῇ ὑπο πας' ἐάλη</q></cit> καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.408</ref><q>οἱ δή τοι εἰς ἄστυ ἄλην</q></cit> ⁑</p>
+              <p>ψιλῶς τὸ <rs type="waw">ἄληται</rs> ἔστι δέ μέσος δεύτερος ἀόριστος ὑποτακτικός ἀκόλουθος τῷ <rs type="waw">ἀλῆναι</rs> 
+			  ἀπαρεμφάτῳ παθητικῷ δευτέρῳ ἀορίστῳ ὐπάρχοντι. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.714</ref><q>ἠ λαοὺς ἐς τεῖχος ὁμοκλήσειεν ἀλῆναι</q></cit> 
+			  καὶ μετοχῇ τῇ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.534</ref><q>αὐτὰρ ἐπεί κ' ἐς τεῖχος ἀνανεύσωσιν ἀλέντες</q></cit> καὶ 
+			  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.607</ref><q>πόλις δ' <w>ἔμπλη<add place="supralinear">ν</add>το</w> ἀλέντων.</q></cit> 
+			  ἡ δὲ ἑνικὴ εὐθεῖα<sic>ι<sic> ἦν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:22.308</ref><q>οἱμησην δὲ ἀλεὶς</q></cit>, 
+			  παρακειμένη ῥήματι οριστικῷ τῷ εάλῃ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.408</ref><q>τῇ ὑπο πασ' ἐάλη</q></cit> καὶ 
+			  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.408</ref><q>οἱ δή τοι εἰς ἄστυ ἄλην</q></cit> ⁑</p>
             </div>
           </div>
 
           <div n="280v3" type="scholion">
             <div type="lemma">
-              <p>αἳ δὲ πετασθεῖσαι</p>
+              <p>αὶ δὲ πετασθεῖσαι</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.538</p>
@@ -61,8 +67,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName> τοὺς στίχους γελοῖον ἡγούμενος 
 			  διαπύλης φωτίζεσθαι τὴν πόλιν τοῦ παντος τόπου ἐναιθρίου ὄντος· 
 			  λέγει δὲ <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:21.538</ref><q>τεῦξαν φᾶος</q></cit> 
-			  ἀντι τοῦ τὴν <choice><abbr>σρίαν</abbr><expan>σωτηρίαν</expan></choice> τοῖς φεύγουσιν ἐποίησαν ὡς ἐν 
- 			<cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:6.6</ref><q>τῷ φόως δ' ἑτάροισιν ἔθηκεν ἄνδρα βαλών</q></cit> ⁑</p>
+			  ἀντι τοῦ τὴν <choice><abbr>σρίαν</abbr><expan>σωτηρίαν</expan></choice> τοῖς φεύγουσιν ἐποίησαν ὡς ἐν τῷ
+ 			<cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:6.6</ref><q>φόως δ' ἑτάροισιν ἔθηκεν ἄνδρα βαλών</q></cit> ⁑</p>
             </div>
           </div>
 		  <div n="280v4" type="scholion">
@@ -73,11 +79,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.539</p>
             </div>
             <div type="comment">
-              <p>παροξυτονητέον τὸ <rs type="waw">ἀμύναι</rs> ἔστι γὰρ εὐκτικόν ὅπως ἀμύνειεν οἰδα δὲ καὶ τὴν <rs type="waw">ἀλάλκοι</rs> γραφήν ⁑
+              <p>παροξυτονητέον τὸ <rs type="waw">ἀμύναι</rs> ἔστι γὰρ εὐκτικόν ὅπως ἀμύνειεν οῖδα δὲ καὶ τὴν <rs type="waw">ἀλάλκοι</rs> γραφήν ⁑
 			 </p>
             </div>
           </div>
-		 		  <div n="280v5" type="scholion">
+		 		 <div n="280v5" type="scholion">
             <div type="lemma">
 		    <p>φεῦγον ὁ <sic>δ'ὲ</sic> σφεδανὸν</p>
             </div>
@@ -85,8 +91,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.542</p>
             </div>
             <div type="comment">
-<p>οὕτω σφεδανῶν ὑπερρωμένος τῷ θυμῷ καὶ σφοδρὸς ὑπαρχων καθάπερ ἀπο τοῦ φονᾶν τὸ φονόν⁑
-			 </p>
+				<p>οὕτω σφεδανῶν ὑπερρωμένος τῷ θυμῷ καὶ σφοδρὸς ὑπάρχων καθάπερ ἀπο τοῦ φονᾶν τὸ φονόν ⁑  </p>
             </div>
           </div>
 		  
@@ -98,36 +103,39 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 		    <p><sic>αδε</sic> σφεδανῶν</p>
             </div>
             <div type="comment">
-              <p>ὅτι σφεδᾶν σφοδρῶς διώκων. <persName n="urn:cite:hmt:pers.pers22">Ἀτρείδης</persName> δ'επώχετο <rs type=ethnic n="urn:cite:hmt:pers.pers66"> Δαναοῖσι </rs> σπεδανὸν, 
-		      τῷ δε τόνῷ ὡς ἐνοχλῶν προκατάρχει γὰρ <rs type="waw">τοῦ σφεδανοῦ</rs> παρ ὃ ἐγένετο <rs type="waw">σφεδανόν</rs>⁑
+              <p>ὅτι <rs type="waw">σφεδανῶν</rs> σφοδρῶς διώκων. 
+			  <cit><q><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδης</persName> δ'επώχετο <rs type=ethnic n="urn:cite:hmt:pers.pers66"> Δαναοῖσι </rs> σπεδανὸν </q></cit>, 
+		      τῷ δε τόνῳ ὡς ἐνοχλῶν προκατάρχει γὰρ τοῦ <rs type="waw">σφεδανός</rs> παρ ὃ ἐγένετο <rs type="waw">σφεδανόν</rs>⁑
 			 </p>
             </div>
           </div>
 		  
 		  <div n="280v7" type="scholion">
             <div type="lemma">
-              <p>ἔνθά κεν ὑψίπυλον</p>
+              <p>ἔνθά κεν ὑψίπυλον:</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.544</p>
             </div>
             <div type="comment">
-		    <p>ὅτι ὁμωνύμως τῇ χώρᾳ τὴν <placeName n="urn:cite:hmt:place.place6">ἴλιον τροίαν </placeName>εἴρηκεν⁑
+		    <p>ὅτι ὁμωνύμως τῇ χώρᾳ τὴν <placeName n="urn:cite:hmt:place.place6">ἴλιον τροίαν </placeName>εἴρηκεν ⁑
 			 </p>
             </div>
           </div>
-		  
 		  <div n="280v8" type="scholion">
             <div type="lemma">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.550</p>
+              <p>αὐτὰρ ὅ γ' ὡς ενόησεν·</p>
             </div>
             <div type="ref">
-              <p>αὐτὰρ ὅ γ' ὡς ενόησεν</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:21.550</p>
             </div>
             <div type="comment">
-		    <p>ὅτι πλεονάζει ἔπ' <persName n="urn:cite:hmt:pers.pers118">ὀδυσσέως</persName> τὸ πτολίπορθος νῦν δὲ ἅπαξ ἐπ <persName n="urn:cite:hmt:pers.pers1">αχιλλέως</persName>· προς τοὺς χωρίζοντας τούτοις γὰρ χρῶνται· τινὲς δὲ <persName n="urn:cite:hmt:pers.pers1">ἀχιλλέα πηλείωνα</persName> ποιοῦσι ξενισθέντας προς τὸ ἐπίθετον·</p>
+		    <p>ὅτι πλεονάζει ἔπ' <persName n="urn:cite:hmt:pers.pers118">ὀδυσσέως</persName> 
+			τὸ πτολίπορθος νῦν δὲ ἅπαξ ἐπ <persName n="urn:cite:hmt:pers.pers1">αχιλλέως</persName>· 
+			προς τοὺς χωρίζοντας τούτοις γὰρ χρῶνται· 
+			τινὲς δὲ <persName n="urn:cite:hmt:pers.pers1">ἀχιλλέα πηλείωνα</persName> ποιοῦσι ξενισθέντας προς τὸ ἐπίθετον·</p>
              <!-- Finished! -->
-</div>
+			</div>
           </div>
         </body>
       </text>
