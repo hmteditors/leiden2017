@@ -4,6 +4,7 @@ README.md
 **This is the working directory of the Leiden sub-group of the Homer Multitext Project.**
 
 #Leiden2017#
+
 Repository for HMT editing by Homer's Angels in spring 2017
 
 ##Table of contents##
@@ -26,6 +27,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
 * Ineke Sluiter
 * Judith Nijensteen
 * Kimia Ghambari
+* Kirsten Haijes
 * Leonie Henkes
 * Lisa Seldenthuis
 * Marloes Velthuisen
@@ -139,7 +141,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
   </tr>
   <tr>
     <td>main scholia</td> <td>(<b>xml</b>)</td>
-    <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  ?   </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td>
+    <td>  Y  </td> <td>  Υ  </td> <td>  Y  </td> <td>  Y   </td> <td>  Υ  </td> <td>  Υ  </td> <td>  Υ  </td> <td>  Y  </td> <td>  Υ  </td> <td>  Υ  </td> <td>  Y  </td>
   </tr>
   <tr>
     <td>intermarginal scholia</td> <td>(<b>xml</b>)</td>
