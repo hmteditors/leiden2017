@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor></editor>
+        <editor></editor>
+        <editor></editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="16">
+      <l n="126">ὄρσεο διογενὲς Πατρόκλεες ἱπποκέλευθε· </l>
+λεύσσω δὴ παρὰ νηυσὶ πυρὸς δηΐοιο ἰωήν·
+μὴ δὴ νῆας ἕλωσι καὶ οὐκέτι φυκτὰ πέλωνται·
+δύσεο τεύχεα θᾶσσον, ἐγὼ δέ κε λαὸν ἀγείρω.
+Ὣς φάτο, Πάτροκλος δὲ κορύσσετο νώροπι χαλκῷ. (130)
+κνημῖδας μὲν πρῶτα περὶ κνήμῃσιν ἔθηκε
+καλάς, ἀργυρέοισιν ἐπισφυρίοις ἀραρυίας·
+δεύτερον αὖ θώρηκα περὶ στήθεσσιν ἔδυνε
+ποικίλον ἀστερόεντα ποδώκεος Αἰακίδαο.
+ἀμφὶ δ’ ἄρ’ ὤμοισιν βάλετο ξίφος ἀργυρόηλον (135)
+χάλκεον, αὐτὰρ ἔπειτα σάκος μέγα τε στιβαρόν τε·
+κρατὶ δ’ ἐπ’ ἰφθίμῳ κυνέην εὔτυκτον ἔθηκεν
+ἵππουριν· δεινὸν δὲ λόφος καθύπερθεν ἔνευεν.
+εἵλετο δ’ ἄλκιμα δοῦρε, τά οἱ παλάμηφιν ἀρήρει.
+ἔγχος δ’ οὐχ ἕλετ’ οἶον ἀμύμονος Αἰακίδαο (140)
+βριθὺ μέγα στιβαρόν· τὸ μὲν οὐ δύνατ’ ἄλλος Ἀχαιῶν
+πάλλειν, ἀλλά μιν οἶος ἐπίστατο πῆλαι Ἀχιλλεὺς
+Πηλιάδα μελίην, τὴν πατρὶ φίλῳ πόρε Χείρων
+Πηλίου ἐκ κορυφῆς, φόνον ἔμμεναι ἡρώεσσιν.
+ἵππους δ’ Αὐτομέδοντα θοῶς ζευγνῦμεν ἄνωγε, (145)
+τὸν μετ’ Ἀχιλλῆα ῥηξήνορα τῖε μάλιστα,
+πιστότατος δέ οἱ ἔσκε μάχῃ ἔνι μεῖναι ὁμοκλήν.
+τῷ δὲ καὶ Αὐτομέδων ὕπαγε ζυγὸν ὠκέας ἵππους
+Ξάνθον καὶ Βαλίαν, τὼ ἅμα πνοιῇσι πετέσθην,
+τοὺς ἔτεκε Ζεφύρῳ ἀνέμῳ Ἅρπυια Ποδάργη (150)
+
+      </div>
+    </body>
+  </text>
+</TEI>

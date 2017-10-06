@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor></editor>
+        <editor></editor>
+        <editor></editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="16">
+          <l n="">Σπερχειῷ ἀκάμαντι γυνὴ θεῷ εὐνηθεῖσα,  </l>
+
+          αὐτὰρ ἐπίκλησιν Βώρῳ Περιήρεος υἷι,
+          ὅς ῥ’ ἀναφανδὸν ὄπυιε πορὼν ἀπερείσια ἕδνα.
+          τῆς δ’ ἑτέρης Εὔδωρος ἀρήϊος ἡγεμόνευε
+          παρθένιος, τὸν ἔτικτε χορῷ καλὴ Πολυμήλη (180)
+          Φύλαντος θυγάτηρ· τῆς δὲ κρατὺς Ἀργειφόντης
+          ἠράσατ’, ὀφθαλμοῖσιν ἰδὼν μετὰ μελπομένῃσιν
+          ἐν χορῷ Ἀρτέμιδος χρυσηλακάτου κελαδεινῆς.
+          αὐτίκα δ’ εἰς ὑπερῷ’ ἀναβὰς παρελέξατο λάθρῃ
+          Ἑρμείας ἀκάκητα, πόρεν δέ οἱ ἀγλαὸν υἱὸν (185)
+          Εὔδωρον πέρι μὲν θείειν ταχὺν ἠδὲ μαχητήν.
+          αὐτὰρ ἐπεὶ δὴ τόν γε μογοστόκος Εἰλείθυια
+          ἐξάγαγε πρὸ φόως δὲ καὶ ἠελίου ἴδεν αὐγάς,
+          τὴν μὲν Ἐχεκλῆος κρατερὸν μένος Ἀκτορίδαο
+          ἠγάγετο πρὸς δώματ’, ἐπεὶ πόρε μυρία ἕδνα, (190)
+          τὸν δ’ ὃ γέρων Φύλας εὖ ἔτρεφεν ἠδ’ ἀτίταλλεν
+          ἀμφαγαπαζόμενος ὡς εἴ θ’ ἑὸν υἱὸν ἐόντα.
+          τῆς δὲ τρίτης Πείσανδρος ἀρήϊος ἡγεμόνευε
+          Μαιμαλίδης, ὃς πᾶσι μετέπρεπε Μυρμιδόνεσσιν
+          ἔγχεϊ μάρνασθαι μετὰ Πηλεΐωνος ἑταῖρον. (195)
+          τῆς δὲ τετάρτης ἦρχε γέρων ἱππηλάτα Φοῖνιξ,
+          πέμπτης δ’ Ἀλκιμέδων Λαέρκεος υἱὸς ἀμύμων.
+          αὐτὰρ ἐπεὶ δὴ πάντας ἅμ’ ἡγεμόνεσσιν Ἀχιλλεὺς
+          στῆσεν ἐῢ κρίνας, κρατερὸν δ’ ἐπὶ μῦθον ἔτελλε·
+          Μυρμιδόνες μή τίς μοι ἀπειλάων λελαθέσθω, (200)
+
+      </div>
+    </body>
+  </text>
+</TEI>

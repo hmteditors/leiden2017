@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor></editor>
+        <editor></editor>
+        <editor></editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="16">
+          <l n="">βοσκομένη λειμῶνι παρὰ ῥόον Ὠκεανοῖο.  </l>
+
+          ἐν δὲ παρηορίῃσιν ἀμύμονα Πήδασον ἵει,
+          τόν ῥά ποτ’ Ἠετίωνος ἑλὼν πόλιν ἤγαγ’ Ἀχιλλεύς,
+          ὃς καὶ θνητὸς ἐὼν ἕπεθ’ ἵπποις ἀθανάτοισι.
+          Μυρμιδόνας δ’ ἄρ’ ἐποιχόμενος θώρηξεν Ἀχιλλεὺς (155)
+          πάντας ἀνὰ κλισίας σὺν τεύχεσιν· οἳ δὲ λύκοι ὣς
+          ὠμοφάγοι, τοῖσίν τε περὶ φρεσὶν ἄσπετος ἀλκή,
+          οἵ τ’ ἔλαφον κεραὸν μέγαν οὔρεσι δῃώσαντες
+          δάπτουσιν· πᾶσιν δὲ παρήϊον αἵματι φοινόν·
+          καί τ’ ἀγεληδὸν ἴασιν ἀπὸ κρήνης μελανύδρου (160)
+          λάψοντες γλώσσῃσιν ἀραιῇσιν μέλαν ὕδωρ
+          ἄκρον ἐρευγόμενοι φόνον αἵματος· ἐν δέ τε θυμὸς
+          στήθεσιν ἄτρομός ἐστι, περιστένεται δέ τε γαστήρ·
+          τοῖοι Μυρμιδόνων ἡγήτορες ἠδὲ μέδοντες
+          ἀμφ’ ἀγαθὸν θεράποντα ποδώκεος Αἰακίδαο (165)
+          ῥώοντ’· ἐν δ’ ἄρα τοῖσιν ἀρήϊος ἵστατ’ Ἀχιλλεύς,
+          ὀτρύνων ἵππους τε καὶ ἀνέρας ἀσπιδιώτας.
+          Πεντήκοντ’ ἦσαν νῆες θοαί, ᾗσιν Ἀχιλλεὺς
+          ἐς Τροίην ἡγεῖτο Διῒ φίλος· ἐν δὲ ἑκάστῃ
+          πεντήκοντ’ ἔσαν ἄνδρες ἐπὶ κληῗσιν ἑταῖροι· (170)
+          πέντε δ’ ἄρ’ ἡγεμόνας ποιήσατο τοῖς ἐπεποίθει
+          σημαίνειν· αὐτὸς δὲ μέγα κρατέων ἤνασσε.
+          τῆς μὲν ἰῆς στιχὸς ἦρχε Μενέσθιος αἰολοθώρηξ
+          υἱὸς Σπερχειοῖο διιπετέος ποταμοῖο·
+          ὃν τέκε Πηλῆος θυγάτηρ καλὴ Πολυδώρη (175)
+
+      </div>
+    </body>
+  </text>
+</TEI>

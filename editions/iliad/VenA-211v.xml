@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor></editor>
+        <editor></editor>
+        <editor></editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="16">
+          <l n="">ἐν δ’ ἔπεσον Τρώεσσιν ἀολλέες· ἀμφὶ δὲ νῆες</l>
+          σμερδαλέον κονάβησαν ἀϋσάντων ὑπ’ Ἀχαιῶν.
+          Τρῶες δ’ ὡς εἴδοντο Μενοιτίου ἄλκιμον υἱὸν
+          αὐτὸν καὶ θεράποντα σὺν ἔντεσι μαρμαίροντας,
+          πᾶσιν ὀρίνθη θυμός, ἐκίνηθεν δὲ φάλαγγες (280)
+          ἐλπόμενοι παρὰ ναῦφι ποδώκεα Πηλεΐωνα
+          μηνιθμὸν μὲν ἀπορρῖψαι, φιλότητα δ’ ἑλέσθαι·
+          πάπτηνεν δὲ ἕκαστος ὅπῃ φύγοι αἰπὺν ὄλεθρον.
+          Πάτροκλος δὲ πρῶτος ἀκόντισε δουρὶ φαεινῷ
+          ἀντικρὺ κατὰ μέσσον, ὅθι πλεῖστοι κλονέοντο, (285)
+          νηῒ πάρα πρυμνῇ μεγαθύμου Πρωτεσιλάου,
+          καὶ βάλε Πυραίχμην, ὃς Παίονας ἱπποκορυστὰς
+          ἤγαγεν ἐξ Ἀμυδῶνος ἀπ’ Ἀξιοῦ εὐρὺ ῥέοντος·
+          τὸν βάλε δεξιὸν ὦμον· ὃ δ’ ὕπτιος ἐν κονίῃσι
+          κάππεσεν οἰμώξας, ἕταροι δέ μιν ἀμφεφόβηθεν (290)
+          Παίονες· ἐν γὰρ Πάτροκλος φόβον ἧκεν ἅπασιν
+          ἡγεμόνα κτείνας, ὃς ἀριστεύεσκε μάχεσθαι.
+          ἐκ νηῶν δ’ ἔλασεν, κατὰ δ’ ἔσβεσεν αἰθόμενον πῦρ.
+          ἡμιδαὴς δ’ ἄρα νηῦς λίπετ’ αὐτόθι· τοὶ δὲ φόβηθεν
+          Τρῶες θεσπεσίῳ ὁμάδῳ· Δαναοὶ δ’ ἐπέχυντο (295)
+          νῆας ἀνὰ γλαφυράς· ὅμαδος δ’ ἀλίαστος ἐτύχθη.
+          ὡς δ’ ὅτ’ ἀφ’ ὑψηλῆς κορυφῆς ὄρεος μεγάλοιο
+          κινήσῃ πυκινὴν νεφέλην στεροπηγερέτα Ζεύς,
+          ἔκ τ’ ἔφανεν πᾶσαι σκοπιαὶ καὶ πρώονες ἄκροι
+          καὶ νάπαι, οὐρανόθεν δ’ ἄρ’ ὑπερράγη ἄσπετος αἰθήρ, (300)
+
+      </div>
+    </body>
+  </text>
+</TEI>
