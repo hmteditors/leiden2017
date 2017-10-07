@@ -16,7 +16,7 @@ val repoDirectory: String = "./"
 
 val imgUrlBase = "http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/"
 
-object Paleography {
+object Paleo{
 
   def scholia(folioName:String){
     val urlBase = s"${imgService}&w=${imageSize}&urn="

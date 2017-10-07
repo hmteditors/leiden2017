@@ -16,7 +16,7 @@ val repoDirectory: String = "./"
 
 val imgUrlBase = "http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/"
 
-object Images {
+object Index {
 
   def listFiles(dir: String): Vector[File] = {
     val d = new File(dir)
