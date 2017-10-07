@@ -3,12 +3,11 @@ README.md
 
 **This is the working directory of the Leiden sub-group of the Homer Multitext Project.**
 
-#Leiden2017#
+# Leiden2017
 
 Repository for HMT editing by Homer's Angels in spring 2017
 
-##Table of contents##
-
+## Table of contents
 * [Leiden HMT project contributors (past and present)](https://github.com/hmteditors/leiden2017#leiden-hmt-project-contributors-past-and-present)
 * [What is there on a folio?](https://github.com/hmteditors/leiden2017#what-is-there-on-a-folio)
 * [What ought to be done to complete a folio?](https://github.com/hmteditors/leiden2017#what-ought-to-be-done-to-complete-a-folio)
@@ -18,7 +17,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
 * [Problems?](https://github.com/hmteditors/leiden2017#problems)
 * [Useful links for editing](https://github.com/hmteditors/leiden2017#useful-links-for-editing)
 
-##Leiden HMT project contributors (past and present)##
+## Leiden HMT project contributors (past and present)
 
 * Aniek Vink
 * Bart Bijvoets
@@ -40,7 +39,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
 * Thom van Leuveren
 * Willemijn Roozenbeek
 
-##What is there on a folio?##
+## What is there on a folio?
 
 * The main text of the *Iliad*
 * Main scholia
@@ -52,7 +51,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
 
 **NB**: not all folios have all types of scholia
 
-##What ought to be done to complete a folio?##
+## What ought to be done to complete a folio?
 
 * Make a palaeographic sample of every glyph in the first line of the main text (`csv`)
 * Make a palaeographic sample of each of the first forty glyphs of the first main scholion (`csv`)
@@ -61,7 +60,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
 * Transcribe the individual lines of the main text (`xml`)
 * Transcribe the individual main, *im*, *il*, *int*, and *ext* scholia (`xml`)
 
-##Which files ought to be edited?##
+## Which files ought to be edited?
 
 * `collections/paleography/{folio}.csv`
 * `collections/paleography/{folio}S.csv`
@@ -78,7 +77,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
 * `editions/scholia/InteriorScholia/{folio}.xml`
 * `editions/scholia/ExteriorScholia/{folio}.xml`
 
-##Which lines are there on each folio?##
+## Which lines are there on each folio?
 
 * **277r**: *Iliad* 21.352-376 <!-- urn:cite:hmt:vaimg.VA277RN-0447 -->
 * **277v**: *Iliad* 21.377-401 <!-- urn:cite:hmt:vaimg.VA277VN-0779 -->
@@ -92,7 +91,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
 * **281v**: *Iliad* 21.580-604 <!-- urn:cite:hmt:vaimg.VA281VN-0783 -->
 * **282r**: *Iliad* 21.605-611 <!-- urn:cite:hmt:vaimg.VA282RN-0452 -->
 
-##Progress##
+## Progress
 
 <table>
   <tr>
@@ -168,7 +167,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
 * **!**: currently being worked on
 * **-**: not started
 
-##Problems?##
+## Problems?
 
 * If you do not understand your virtual machine, ask Tazuko
 * If you do not understand git or github, ask Bart
@@ -178,7 +177,7 @@ Repository for HMT editing by Homer's Angels in spring 2017
 * Try to help each other (you will learn most this way)
 * If nobody knows how to solve an editorial problem, report a new issue
 
-##Useful links for editing##
+## Useful links for editing
 
 * https://github.com/hmteditors/leiden2017/wiki (Leiden University HMT wiki)
 * https://homermultitext.github.io/hmt-docs/totaled/ (to look up the HMT project principles)

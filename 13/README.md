@@ -9,7 +9,7 @@ Editing HMT material at Leiden University
 
 **Finished:** *Iliad* 13 in the Venetus A: folios 164 recto - 169 recto (inclusive)
 
-##Table of contents
+## Table of contents
 
 * [Leiden HMT project contributors (past and present)](https://github.com/hmteditors/leiden#leiden-hmt-project-contributors-past-and-present)
 * [What is there on a folio?](https://github.com/hmteditors/leiden#what-is-there-on-a-folio)
@@ -21,7 +21,7 @@ Editing HMT material at Leiden University
 * [Basic infrastructure for working with digital representations of manuscripts](https://github.com/hmteditors/leiden#basic-infrastructure-for-working-with-digital-representations-of-manuscripts)
 * [Useful links for editing](https://github.com/hmteditors/leiden#useful-links-for-editing)
 
-##Leiden HMT project contributors (past and present)
+## Leiden HMT project contributors (past and present)
 
 * Alex van Eldik
 * Aniek Vink
@@ -45,7 +45,7 @@ Editing HMT material at Leiden University
 * Thom van Leuveren
 * Wieneke Jansen
 
-##What is there on a folio?
+## What is there on a folio?
 
 * The main text of the *Iliad*
 * Main scholia
@@ -57,7 +57,7 @@ Editing HMT material at Leiden University
 
 **NB**: not all folios have all types of scholia
 
-##What ought to be done to complete a folio?
+## What ought to be done to complete a folio?
 
 * Make a palaeographic sample of every glyph in the first line of the main text (`csv`)
 * Make a palaeographic sample of each of the first forty glyphs of the first main scholion (`csv`)
@@ -66,7 +66,7 @@ Editing HMT material at Leiden University
 * Transcribe the individual lines of the main text (`xml`)
 * Transcribe the individual main, *im*, *il*, *int*, and *ext* scholia (`xml`)
 
-##Which files ought to be edited?
+## Which files ought to be edited?
 
 * `collections/paleographyMainText/{folio}.csv`
 * `collections/paleographyMainScholia/{folio}.csv`
@@ -83,7 +83,7 @@ Editing HMT material at Leiden University
 * `editions/scholia/InteriorScholia/{folio}.xml`
 * `editions/scholia/ExteriorScholia/{folio}.xml`
 
-##Which lines are there on each folio?
+## Which lines are there on each folio?
 
 * **164r**: *Iliad* 13.1-25
 * **164v**: *Iliad* 13.26-50
@@ -97,7 +97,7 @@ Editing HMT material at Leiden University
 * **168v**: *Iliad* 13.230-254
 * **169r**: *Iliad* 13.256-280
 
-##Progress
+## Progress
 
 <table>
   <tr>
@@ -173,7 +173,7 @@ Editing HMT material at Leiden University
 * **!**: currently being worked on
 * **-**: not started
 
-##Problems?
+## Problems?
 
 * If you do not understand your virtual machine, ask Tazuko
 * If you do not understand git or github, ask Bart
@@ -183,12 +183,12 @@ Editing HMT material at Leiden University
 * Try to help each other (you will learn most this way)
 * If nobody knows how to solve an editorial problem, report a new issue
 
-##Basic infrastructure for working with digital representations of manuscripts
+## Basic infrastructure for working with digital representations of manuscripts
 
 * creating a model of the page sequences of Leiden University, codex VGF 64
 * creating a navigational index of Iliad lines in VGF 64
 
-##Useful links for editing
+## Useful links for editing
 
 * https://github.com/hmteditors/leiden/wiki (Leiden University HMT wiki)
 * https://homermultitext.github.io/hmt-docs/totaled/ (to look up the HMT project principles)
