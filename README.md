@@ -10,7 +10,6 @@
 * Ineke Sluiter
 * Kirsten Haijes
 * Leonie Henkes
-* Lisa Seldenthuis
 * Marloes Velthuisen
 * Mees Gelein
 * Olivia Monster
@@ -93,6 +92,7 @@ Dus:
 * https://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
 * http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio; it is recommended to have the Venetus A and the Comparetti open in adjacent tabs, *especially* when working on the exterior scholia)
 * https://homermultitext.slack.com (to contact Neel or Stephanie)
+* http://www.typegreek.com/
 
 **NB**: Also have a look at the files in `writing/`
 
