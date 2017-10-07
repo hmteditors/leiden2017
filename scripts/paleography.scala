@@ -18,73 +18,19 @@ val imgUrlBase = "http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/
 
 object Paleography {
 
-
-  def view = {
-    scholia
-    iliad
-  }
-
-  def scholia = {
+  def scholia(folioName:String){
     val urlBase = s"${imgService}&w=${imageSize}&urn="
     val report =  StringBuilder.newBuilder
     report.append("# Paleographic verification: *scholia* text\n\n")
     report .append("| Record | Reading     | Image     |\n| :------------- | :------------- |\n")
 
 
-    val dataFile = repoDirectory + "paleography/paleography-scholia.cex"
-    // read file, dropping header
-    val lines = Source.fromFile(dataFile).getLines.toVector.drop(1)
-    //urn, text, image
-
-  ///VA012RN-0013.tif&RGN=0.172,0.0998,0.058,0.0218&WID=9000&CVT=JPEG
-    for (entry <- lines) {
-      val columns = entry.split("#")
-      val urn : Try[Cite2Urn] = Try(Cite2Urn(columns(0)))
-      val txt : Try[CtsUrn] = Try(CtsUrn(columns(1)))
-      val img : Try[Cite2Urn] = Try(Cite2Urn(columns(2)))
-
-
-      if (img.isSuccess && txt.isSuccess) {
-
-      } else {
-
-        println(img)
-      }
-
-      val idDisplay = if (urn.isSuccess) {urn.get} else {urn}
-      val reading = if (txt.isSuccess) { txt.get.passageNodeSubrefText} else { txt}
-      val imgLink = if (img.isSuccess && txt.isSuccess) {
-        val splits = img.get.objectComponent.split("@")
-        val binaryImage =              s"${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG"
-        println(binaryImage)
-        s"![${reading}](${binaryImage})"
-
-        //s"![reading](${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG])"
-       } else {img}
-
-      report.append (s"| ${idDisplay} | ${reading} | ${imgLink} | \n")
-    }
-    report.append("\n\n")
-    val reportFile = "reports/paleography-scholia.md"
-    val iliadReportFile = new File(repoDirectory + reportFile)
-    new PrintWriter(iliadReportFile) { write(report.toString); close }
-    println(s"Scholia paleography report is in ${reportFile}")
-  }
-
-
-  def iliad = {
-    val urlBase = s"${imgService}&w=${imageSize}&urn="
-    val report =  StringBuilder.newBuilder
-    report.append("# Paleographic verification: *Iliad* text\n\n")
-    report .append("| Record | Reading     | Image     |\n| :------------- | :------------- |\n")
-
-
-    val iliadDataFile = repoDirectory + "paleography/paleography-iliad.cex"
+    val iliadDataFile = repoDirectory + "paleography/paleography-scholia/" + folioName + ".cex"
     // read file, dropping header
     val iliadLines = Source.fromFile(iliadDataFile).getLines.toVector.drop(1)
     //urn, text, image
 
-///VA012RN-0013.tif&RGN=0.172,0.0998,0.058,0.0218&WID=9000&CVT=JPEG
+  ///VA012RN-0013.tif&RGN=0.172,0.0998,0.058,0.0218&WID=9000&CVT=JPEG
     for (entry <- iliadLines) {
       val columns = entry.split("#")
       val urn : Try[Cite2Urn] = Try(Cite2Urn(columns(0)))
@@ -113,11 +59,54 @@ object Paleography {
       report.append (s"| ${idDisplay} | ${reading} | ${imgLink} | \n")
     }
     report.append("\n\n")
-    val iliadReportFile = new File(repoDirectory + "reports/paleography-iliad.md")
+    val reportFile = "reports/paleography-scholia-" + folioName + ".md"
+    val iliadReportFile = new File(repoDirectory + reportFile)
     new PrintWriter(iliadReportFile) { write(report.toString); close }
-    println("Iliad report is in reports/paleography-iliad.md")
-
+    println(s"Scholia paleography report is in ${reportFile}")
   }
 
+  def iliad(folioName: String) {
+    val urlBase = s"${imgService}&w=${imageSize}&urn="
+    val report =  StringBuilder.newBuilder
+    report.append("# Paleographic verification: *Iliad* text\n\n")
+    report.append("| Record | Reading     | Image     |\n| :------------- | :------------- |\n")
+  
+    val iliadDataFile = repoDirectory + "paleography/paleography-iliad/" + folioName + ".cex"
+    // read file, dropping header
+    val iliadLines = Source.fromFile(iliadDataFile).getLines.toVector.drop(1)
+    //urn, text, image
 
+    ///VA012RN-0013.tif&RGN=0.172,0.0998,0.058,0.0218&WID=9000&CVT=JPEG
+    for (entry <- iliadLines) {
+      val columns = entry.split("#")
+      val urn : Try[Cite2Urn] = Try(Cite2Urn(columns(0)))
+      val txt : Try[CtsUrn] = Try(CtsUrn(columns(1)))
+      val img : Try[Cite2Urn] = Try(Cite2Urn(columns(2)))
+
+
+      if (img.isSuccess && txt.isSuccess) {
+
+      } else {
+
+        println(img)
+      }
+
+      val idDisplay = if (urn.isSuccess) {urn.get} else {urn}
+      val reading = if (txt.isSuccess) { txt.get.passageNodeSubrefText} else { txt}
+      val imgLink = if (img.isSuccess && txt.isSuccess) {
+        val splits = img.get.objectComponent.split("@")
+        val binaryImage =              s"${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG"
+        println(binaryImage)
+        s"![${reading}](${binaryImage})"
+
+        //s"![reading](${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG])"
+       } else {img}
+
+      report.append (s"| ${idDisplay} | ${reading} | ${imgLink} | \n")
+    }
+    report.append("\n\n")
+    val iliadReportFile = new File(repoDirectory + "reports/paleography-iliad-" + folioName + ".md")
+    new PrintWriter(iliadReportFile) { write(report.toString); close }
+    println("Iliad report is in reports/paleography-iliad-" + folioName + ".md")
+  }
 }
