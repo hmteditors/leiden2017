@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 13 (A)</title>
+				<author>Homer</author>
+				<sponsor>The Homer Multitext</sponsor>
+				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+        <author>Alex van Eldik</author>
+        <author>Aniek Vink</author>
+        <author>Apostolia Alepidou</author>
+        <author>Bart Bijvoets</author>
+        <author>Bengt Rooijers</author>
+        <author>Bob van Velthoven</author>
+        <author>Elias Eells</author>
+        <author>Ineke Sluiter</author>
+        <author>Kirsten Haijes</author>
+        <author>Leanne Jansen</author>
+        <author>Leonie Henkes</author>
+        <author>Maike van Haeringen</author>
+        <author>Marloes Velthuisen</author>
+        <author>Nik Churik</author>
+        <author>Olivia Monster</author>
+        <author>Sjors Leek</author>
+        <author>Suzan Boreel</author>
+        <author>Suzanne Verkade</author>
+        <author>Tazuko van Berkel</author>
+        <author>Thom van Leuveren</author>
+        <author>Wieneke Jansen</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+        <p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad, Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile prepared by the Center for Hellenic Studies in collaboration with the Biblioteca Marciana, M. Zorzi, Director. Edited directly from photography of the manuscript.</p>
+      </sourceDesc>
+    </fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek, in pre-composed UTF-8</language>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body xml:lang="grc">
+			<div n="13">
+				<head>ἰλίαδος <num value="13">ν</num></head>
+				<l n="101"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶας</rs> ἐφ’ ἡμετέρας ,ἱέναι νέας. οἳ το πάρος περ</l>
+				<l n="102">φυζακινῇς ἐλάφοισιν ἐοίκεσαν. αἵ τε καθ’ ὕλην.</l>
+				<l n="103">θώων. πορδαλίων τε. λύκων τ’ ἤϊα πέλονται</l>
+				<l n="104">ἅυτως ἠλάσκουσαι ἀνάλκιδες. οὐδ’ ἐπι χάρμηι·</l> 
+				<l n="105">ὡς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> τὸ πρίν γε μένος καὶ χεῖρας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
+				<l n="106">μίμνειν οὐκ ἐθέλεσκον ἐναντίον οὐδ’ ἠβαιόν</l> 
+				<l n="107">νῦν δ'ἕκαθεν πόλιος, κοίλῃς ἐπὶ νηυσὶ μάχονται</l>
+				<l n="108">ἡγεμόνος κακότητι. μεθημοσύνῃσί τε λᾱῶν.</l>
+				<l n="109">οἳ κείνῳ ἐρίσαντες, ἀμυνέμεν. οὐκ ἐθέλουσι</l>
+				<l n="110">νηῶν ὠκυπόρων. ἀλλὰ κτείνονται ἀν ἀυτάς·</l> 
+				<l n="111">ἀλλ’ εἰ δὴ καὶ πάμπαν ἐτήτυμον αἴτιός ἐστιν</l>
+				<l n="112">ἥρως <persName n="urn:cite:hmt:pers.pers22">Ἀτρείδης</persName> εὐρὺ κρείων <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων</persName>.</l>
+				<l n="113">οὕνεκ’ ἀπητίμησε ποδώκεα <persName n="urn:cite:hmt:pers.pers1">Πηλείωνα</persName>.</l>
+				<l n="114">ἡμέας γ’ οὔ πως ἐστὶ μεθιέμεναι πολέμοιο·</l> 
+				<l n="115">ἀλλ’ ἀκεώμεθα θᾶσσον· ἀκεσταί τοι φρένες ἐσθλῶν·</l>
+				<l n="116">ὑμεῖς δ’ οὐκ ἔτι καλὰ μεθίετε θούριδος ἀλκῆς</l>
+				<l n="117">πάντες ἄριστοι ἐόντες ἀνὰ στρατὸν· οὐδ’ ἂν ἔγωγε</l> 
+				<l n="118">ἀνδρὶ μαχεσσαίμην ὅς τις πολέμοιο μεθείει</l>
+				<l n="119">λυγρὸς ἐών. ὑμῖν δὲ νεμεσσῶμαι περὶ κῆρι·</l>
+				<l n="120">ὦ πέπονες. τάχα δή τι κακὸν ποιήσετε μεῖζον</l>
+				<l n="121">τῇδε μεθημοσύνῃ· ἂλλ’ ἐν φρεσὶ θέσθε ἕκαστος</l>
+				<l n="122">αἰδῶ. καὶ νέμεσιν. δὴ γὰρ μέγα νεῖκος ὄρωρεν·</l>
+				<l n="123"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> δὴ παρὰ νηυσὶ βοὴν ἀγαθὸς πολεμίζει.</l>
+				<l n="124">καρτερός, ἔρρηξεν δὲ πύλας καὶ μακρὸν ὀχῆα·</l>
+				<l n="125">Ὥς ῥα κελευτιόων γαιήοχος ὦρσεν <rs type="ethnic" n="urn:cite:hmt:place.place96">Άχαιούς</rs>·</l>
+			</div>
+		</body>
+	</text>
+</TEI>

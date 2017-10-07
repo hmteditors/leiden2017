@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 13 (A)</title>
+				<author>Homer</author>
+				<sponsor>The Homer Multitext</sponsor>
+				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+        <author>Alex van Eldik</author>
+        <author>Aniek Vink</author>
+        <author>Apostolia Alepidou</author>
+        <author>Bart Bijvoets</author>
+        <author>Bengt Rooijers</author>
+        <author>Bob van Velthoven</author>
+        <author>Elias Eells</author>
+        <author>Ineke Sluiter</author>
+        <author>Kirsten Haijes</author>
+        <author>Leanne Jansen</author>
+        <author>Leonie Henkes</author>
+        <author>Maike van Haeringen</author>
+        <author>Marloes Velthuisen</author>
+        <author>Nik Churik</author>
+        <author>Olivia Monster</author>
+        <author>Sjors Leek</author>
+        <author>Suzan Boreel</author>
+        <author>Suzanne Verkade</author>
+        <author>Tazuko van Berkel</author>
+        <author>Thom van Leuveren</author>
+        <author>Wieneke Jansen</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+        <p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad, Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile prepared by the Center for Hellenic Studies in collaboration with the Biblioteca Marciana, M. Zorzi, Director. Edited directly from photography of the manuscript.</p>
+      </sourceDesc>
+    </fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek, in pre-composed UTF-8</language>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body xml:lang="grc">
+			<div n="13">
+				<l n="126">ἀμφὶ δ᾽ ὰρ, <persName n="urn:cite:hmt:pers.pers127">Ἀίαντας</persName> δοιοὺς ἵ̈σταντο φάλαγγες</l>
+				<l n="127">καρτεραὶ· ἃς οὔτ᾽ ἄν κεν <persName n="urn:cite:hmt:pers.pers83">Ἄρης</persName> ὀνόσαιτο μετελθὼν.</l>
+				<l n="128">οὔτέ κ' <persName n="urn:cite:hmt:pers.pers67">Ἀθηναίη</persName> λαοσσόος· οἱ γὰρ ἄριστοι</l>
+				<l n="129">κρινθέντες. <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶάςτε</rs> καὶ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> δῖον ἔμιμνον·</l>
+				<l n="130">φράξαντες δόρυ δουρὶ, σάκος σάκεϊ προθελύμνωι·</l>
+				<l n="131">ἀσπὶς ὰρ ἀσπιδ' ἔρειδε. κόρυς κόρυν. ἀνέρα δ'ἀνήρ·</l>
+				<l n="132">ψαῦον δ' ἱ̈ππόκομοι κόρυθες λαμπροῖσι φάλοισι</l>
+				<l n="133">νευόντων, ὡς πυκνοὶ ἐφέστασαν ἀλλήλοισιν·</l>
+				<l n="134">ἔγχεα δὲ πτύσσοντο θρασειάων ἀπο χειρῶν</l>
+				<l n="135">σειόμεν'. οἳ δ' ϊθύς φρόνεον, μέμασαν δὲ μάχεσθαι·</l>
+				<l n="136"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> δὲ προὔτυψαν ἀολλέες. ἦρχε δ' ὰρ' <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName></l>
+				<l n="137">ἀντικρὺ μεμαὼς, ὁλοοίτροχος ὡς ἀπο πέτρης.</l>
+				<l n="138">ὅν τε κατὰ,στεφάνης ποταμὸς χειμάρροος ὤσηι.</l>
+				<l n="139">ῥήξας ἀσπέτωι ὄμβρωι ἀναιδέος, ἔχματα πέτρης.</l>
+				<l n="140">ὕψι τ' ἀναθρώισκων πέτεται· κτυπέει δέ θ' ὑπ' αὐτοῦ</l>
+				<l n="141">ὕλη· ὁ δ' ἀσφαλέως θέει ἔμπεδον. ἕως ί̈κηται</l>
+				<l n="142">ἰ̈σόπεδον. τότε δ' οὔ τι κυλίνδεται ἐσσυμενός περ·</l>
+				<l n="143">ὡς <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>, εἴως μὲν ἀπείλει μέχρι θαλάσσης</l>
+				<l n="144">ῥεῖα δ' ἐλεύσεσθαι κλισίας καὶ νῆας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
+				<l n="145">κτείνων·ἂλλ' ὅτε δὴ πυκινῆις ἐνέκυρσε φάλαγξι.</l>
+				<l n="146">στῆ ῥα μάλ' ἐγχριμφθεὶς. οἱ δ' ἀντίοι υἷες <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
+				<l n="147">νύσσοντες ξίφεσίντε καὶ ἔγχεσιν ἀμφιγύ<del>ν</del>οισιν.</l>
+				<l n="148">ὦσαν ἀπὸ σφείων. ὁ δὲ χασσάμενος πελεμίχθη.</l>
+				<l n="149">ἤϋσεν δὲ διαπρύσιον <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs> γεγωνώς·</l>
+				<l n="150"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs>. καὶ <rs type="ethnic" n="urn:cite:hmt:place.place75">Λύκιοι</rs>. καὶ <rs type="ethnic" n="urn:cite:hmt:place.place272">Δάρδανοι</rs> ἀγχιμαχηταί.</l>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 13 (A)</title>
+				<author>Homer</author>
+				<sponsor>The Homer Multitext</sponsor>
+				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+        <author>Alex van Eldik</author>
+        <author>Aniek Vink</author>
+        <author>Apostolia Alepidou</author>
+        <author>Bart Bijvoets</author>
+        <author>Bengt Rooijers</author>
+        <author>Bob van Velthoven</author>
+        <author>Elias Eells</author>
+        <author>Ineke Sluiter</author>
+        <author>Kirsten Haijes</author>
+        <author>Leanne Jansen</author>
+        <author>Leonie Henkes</author>
+        <author>Maike van Haeringen</author>
+        <author>Marloes Velthuisen</author>
+        <author>Nik Churik</author>
+        <author>Olivia Monster</author>
+        <author>Sjors Leek</author>
+        <author>Suzan Boreel</author>
+        <author>Suzanne Verkade</author>
+        <author>Tazuko van Berkel</author>
+        <author>Thom van Leuveren</author>
+        <author>Wieneke Jansen</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+        <p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad, Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile prepared by the Center for Hellenic Studies in collaboration with the Biblioteca Marciana, M. Zorzi, Director. Edited directly from photography of the manuscript.</p>
+      </sourceDesc>
+    </fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek, in pre-composed UTF-8</language>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body xml:lang="grc">
+			<div n="13">
+				<head>ἰλίαδος <num value="13">ν</num></head>
+				<l n="26">χρῡσείην. ἔυτυκτον. ἑοῦ δ᾽ ἐπεβήσετο δίφρου·</l>
+				<l n="27">βῆ δ᾽ ἐλάᾱν ἐπι κύματ᾽. ἄταλλε δὲ κήτε᾽ ὑπ᾽ αὐτοῦ</l>
+				<l n="28">πάντοθεν ἐκ κευθμῶν, οὐδ᾽ <choice><orig>ἠγνοίησεν</orig><reg>ἠγνοίησαν</reg></choice> ἄνακτα·</l>
+				<l n="29">γηθοσύνῃ δὲ θάλασσα διΐστατο. τοιδ`’ ἐπέτοντο</l>
+				<l n="30">ῥίμφα μάλ᾽. οὐδ᾽ ὑπένερθε διαίνετο χάλκεος ἄξων·</l>
+				<l n="31">τὸν δ᾽ ἐς <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> νῆας ἐΰσκαρθμοι φέρον ἵπποι·</l>
+				<l n="32">ἔστι δέ τι, σπέος εὐρὺ βαθείης βένθεσι λίμνης.</l>
+				<l n="33">μεσσηγὺς <placeName n="urn:cite:hmt:place.place14">Τενέδοιο</placeName> καὶ ἴ̈μβρου παιπαλοέσσης.</l>
+				<l n="34">ἔνθ᾽ ἵππους ἔστησε <persName n="urn:cite:hmt:pers.pers47">Ποσιδάων</persName> ἐνοσίχθων</l>
+				<l n="35">λύ̅σας ἐξ ὀχέων. παρὰ δ᾽ ἀμβρόσιον βάλεν εῖδαρ</l>
+				<l n="36">ἔδμεναι. ἀμφὶ δὲ ποσσὶ πέδα̅ς ἔβαλε χρυ̅σείας.</l>
+				<l n="37">ἀρρήκτους. ἀλύτους, ὄφρ᾽ ἔμπεδον αὖθι μένοιεν</l>
+				<l n="38">νοστήσαντα ἄνακτα· ὁ δ᾽ ἐς <choice><sic>τρατὸν</sic><corr>στρατὸν</corr></choice> ᾤχετ᾽ <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
+				<l n="39"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> δὲ φλογὶ ΐ̓σοι ἀολλέες ἠὲ θυέλλῃ·</l>
+				<l n="40"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> <persName n="urn:cite:hmt:pers.pers145">Πριαμίδῃ</persName> ἄμοτον μεμαῶτες ἕποντο,</l>
+				<l n="41">ἄβρομοι, αὐΐαχοι. ἔλποντο δὲ νῆας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
+				<l n="42">αἱρήσειν. κτενέειν δὲ παρ᾽ αὐτόθι πάντας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιούς</rs>·</l>
+				<l n="43">ἀλλὰ <persName n="urn:cite:hmt:pers.pers47">Ποσιδάων</persName> γαιήοχος ἐννοσίγαιος.</l>
+				<l n="44"><rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείους</rs> ὤτρυνε βαθείης ἐξ ἁλὸς ἐλθὼν.</l>
+				<l n="45">εἰσάμενος <persName n="urn:cite:hmt:pers.pers74">Κάλχαντι</persName> δέμας καὶ ἀτειρέα φωνήν·</l>
+				<l n="46"><persName n="urn:cite:hmt:pers.pers127" n="urn:cite:hmt:pers.pers281">Αἴαντε</persName> πρώτω προσέφη μεμαῶτε καὶ αὐτώ·</l>
+				<l n="47"><persName n="urn:cite:hmt:pers.pers127" n="urn:cite:hmt:pers.pers281">Αἴαντε</persName>. σφὼ μέν τε σαώσετε λαὸν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>.</l>
+				<l n="48">ἀλκῆς μνησαμένω. μὴ δὲ κρυεροῖο φόβοιο·</l>
+				<l n="49">ἄλλῃ μὲν γὰρ ἔγωγ᾽ οὐ δείδια χεῖρας ἀάπτους</l>
+				<l n="50"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs>. οἳ μέγα τεῖχος ὑπερκατέβησαν ὁμίλῳ.</l>
+			</div>
+		</body>
+	</text>
+</TEI>

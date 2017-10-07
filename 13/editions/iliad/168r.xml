@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 13 (A)</title>
+				<author>Homer</author>
+				<sponsor>The Homer Multitext</sponsor>
+				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+        <author>Alex van Eldik</author>
+        <author>Aniek Vink</author>
+        <author>Apostolia Alepidou</author>
+        <author>Bart Bijvoets</author>
+        <author>Bengt Rooijers</author>
+        <author>Bob van Velthoven</author>
+        <author>Elias Eells</author>
+        <author>Ineke Sluiter</author>
+        <author>Kirsten Haijes</author>
+        <author>Leanne Jansen</author>
+        <author>Leonie Henkes</author>
+        <author>Maike van Haeringen</author>
+        <author>Marloes Velthuisen</author>
+        <author>Nik Churik</author>
+        <author>Olivia Monster</author>
+        <author>Sjors Leek</author>
+        <author>Suzan Boreel</author>
+        <author>Suzanne Verkade</author>
+        <author>Tazuko van Berkel</author>
+        <author>Thom van Leuveren</author>
+        <author>Wieneke Jansen</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+        <p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad, Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile prepared by the Center for Hellenic Studies in collaboration with the Biblioteca Marciana, M. Zorzi, Director. Edited directly from photography of the manuscript.</p>
+      </sourceDesc>
+    </fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek, in pre-composed UTF-8</language>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body xml:lang="grc">
+			<div n="13">
+				<l n="205"><persName n="urn:cite:hmt:pers.pers172">ἕκτωρ</persName> δὲ προπαροίθε ποδῶν πέσεν ἐν κονίηισι·</l>
+				<l n="206">καὶ τότε δὴ περὶ κῆρι <persName n="urn:cite:hmt:pers.pers47">Ποσειδάων</persName> ἐχολώθη</l>
+				<l n="207">υἱωνοῖο πεσόντος ἐν αἰνῇ δηϊοτῆτι·</l>
+				<l n="208">βῆ δ᾽ ϊέναι παρά τε κλισίας καὶ νῆας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
+				<l n="209">ὀτρυνέων <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναοὶς</rs>. <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs> δὲ κήδε᾽ ἔτευχεν·</l>
+				<l n="210"><persName n="urn:cite:hmt:pers.pers287">Ἰ¨δομενεὺς</persName> δ᾽ ἄρα οἱ, δουρι, κλυτὸς ἀντεβόλησεν</l>
+				<l n="211">ἐρχόμενος παρ᾽ ἑταίρου· ὅ οἱ νέον ἐκ πολέμοιο</l>
+				<l n="212">ἦλθε κατ᾽ ἰγνυὴν βεβλημένος ὀξέϊ χαλκῷ·</l>
+				<l n="213">τὸν μὲν ἑταῖροι ἔνεικαν. ὁ δ᾽ ἰ¨ητροῖς ἐπιτείλας</l>
+				<l n="214">ἤϊεν ἐς κλισίην· ἔτι γὰρ πολέμοιο μενοίνᾱ</l>
+				<l n="215">ἀντιάαν. τὸν δὲ προσέφη κρείων ἐνοσίχθων.</l>
+				<l n="216">εἰσάμενος φθογγὴν <persName n="urn:cite:hmt:pers.pers736">Ἀνδραίμονος</persName> υἷϊ <persName n="urn:cite:hmt:pers.pers735">Θόαντι</persName>·</l>
+				<l n="217">ὃς πάσῃ <placeName n="urn:cite:hmt:place.place282">Πλευρῶνι</placeName> καὶ αἰπεινῇ <placeName n="urn:cite:hmt:place.place107">Καλυδῶνι.</placeName></l>
+				<l n="218"><rs type="ethnic" n="urn:cit:hmt:place.place126">Αἰτωλοῖσιν</rs> ἄνασσε, θεὸς δ᾽ ὡς τίετο δήμῳ·</l>
+				<l n="219"><persName n="urn:cite:hmt:pers.pers287">Ἰ¨δομενεῦ</persName>, <rs type="ethnic" n="urn:cit:hmt:place.place21">Κρητῶν</rs> βουληφόρε. ποῦ τοι ἀπειλαὶ</l>
+				<l n="220">οἴχονται, τὰς <rs type="ethnic" n="urn:cit:hmt:place.place6">Τρωσὶν</rs> ἀπείλεον υἷες <rs type="ethnic" n="urn:cit:hmt:place.place96">Ἀχαιῶν</rs>·</l>
+				<l n="221">τὸν δ᾽ αὖτ᾽ <persName n="urn:cite:hmt:pers.pers287">Ἰ¨δομενεὺς</persName> <rs type="ethnic" n="urn:cit:hmt:place.place21">Κρητῶν</rs> ἀγὸς ἀντίον ήυδᾱ·</l>
+				<l n="222">‘ὦ <persName n="urn:cite:hmt:pers.pers735">Θόαν</persName>. οὔ τις ἀνὴρ νῦν γ᾽ αἴτιος. ὅσσον ἔγωγε</l>
+				<l n="223">γινώσκω. πάντες γὰρ ἐπιστάμεθα πτολεμίζειν.</l>
+				<l n="224">οὔτέ τινα δέος ἴ¨σχει ἀκήριον, οὔτέ τις ὄκνῳ</l>
+				<l n="225">εἴκων ἀνδύεται πόλεμον κακόν. ἀλλά που οὕτω</l>
+				<l n="226">μέλλει δὴ φίλον εἶναι ὑπερμενέϊ <persName n="urn:cite:hmt:pers.pers8">Κρονίωνι</persName>.</l>
+				<l n="227">νωνύμνους ἀπολέσθαι ἀπ᾽ <placeName n="urn:cite:hmt:place.place114">ἄργεος</placeName> υἷας <rs type="ethnic" n="urn:cit:hmt:place.place96">Ἀχαιῶν</rs>.</l>
+				<l n="228">ἀλλὰ <persName n="urn:cite:hmt:pers.pers735">Θόαν</persName>. καὶ γὰρ τὸ πάρος μενεδήϊος ῆσθα.</l>
+				<l n="229">ὀτρύνεις δὲ καὶ ἄλλον ὅτε μεθιέντα ἴ¨δηαι·</l>
+				
+			</div>
+		</body>
+	</text>
+</TEI>

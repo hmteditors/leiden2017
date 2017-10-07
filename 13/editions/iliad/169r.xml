@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 13 (A)</title>
+				<author>Homer</author>
+				<sponsor>The Homer Multitext</sponsor>
+				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+        <author>Alex van Eldik</author>
+        <author>Aniek Vink</author>
+        <author>Apostolia Alepidou</author>
+        <author>Bart Bijvoets</author>
+        <author>Bengt Rooijers</author>
+        <author>Bob van Velthoven</author>
+        <author>Elias Eells</author>
+        <author>Ineke Sluiter</author>
+        <author>Kirsten Haijes</author>
+        <author>Leanne Jansen</author>
+        <author>Leonie Henkes</author>
+        <author>Maike van Haeringen</author>
+        <author>Marloes Velthuisen</author>
+        <author>Nik Churik</author>
+        <author>Olivia Monster</author>
+        <author>Sjors Leek</author>
+        <author>Suzan Boreel</author>
+        <author>Suzanne Verkade</author>
+        <author>Tazuko van Berkel</author>
+        <author>Thom van Leuveren</author>
+        <author>Wieneke Jansen</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+        <p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad, Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile prepared by the Center for Hellenic Studies in collaboration with the Biblioteca Marciana, M. Zorzi, Director. Edited directly from photography of the manuscript.</p>
+      </sourceDesc>
+    </fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek, in pre-composed UTF-8</language>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body xml:lang="grc">
+			<div n="13">
+				<l n="256">ἔρχομαι εἴ τί τοι ἔγχος ἐνι κλισίῃσι λέλειπται.</l>
+				<l n="257">οἰσόμενος. τό νῦ γὰρ κατεάξαμεν ὃ. πρὶν. ἔχεσκον.</l>
+				<l n="258">ἀσπίδα <persName n="urn:cite:hmt:pers.pers508">Δηϊφόβοιο</persName> βαλὼν ὑπερηνορέοντος·</l>
+				<l n="259">τὸν δ᾽ αὖτ᾽ <persName n="urn:cite:hmt:pers.pers287">Ἰ¨δομενεὺς</persName> <rs type="ethnic" n="urn:cite:hmt:place.place21">Κρητῶν</rs> ἀγὸς ἀντίον ηὔδα:</l>
+				<l n="260">δούρατα δ᾽ αἴ κ᾽ ἐθέλῃσθα καὶ ἓν. καὶ εἵκοσι δήεις</l>
+				<l n="261">ἑσταότ᾽ ἐν κλισίῃ. προσενώπια. παμφανόωντα.</l>
+				<l n="262"><placeName n="urn:cite:hmt:place.place15">Τρώϊα</placeName>, τὰ κταμένων ἀποαίνυμαι· οὐ γὰρ ὀΐω</l>
+				<l n="263">ἀνδρῶν δυσμενέων ἑκὰς ἱστάμενος πολεμίζειν·</l>
+				<l n="264">τῶ μοι δούρατά τ᾽ ἐστι καὶ ἀσπίδες ὀμφαλόεσσαι.</l>
+				<l n="265">καὶ κόρυθες, καὶ θώρηκες λαμπρὸν γανόωντες·</l>
+				<l n="266">τὸν δ᾽ αὖ <persName n="urn:cite:hmt:pers.pers212">Μηριόνης</persName> πεπνυμένος ἀντίον ηὔδα·</l>
+				<l n="267">καί τοι ἐμοὶ παρά τε κλισίῃ καὶ νηῒ μελαίνῃ</l>
+				<l n="268">πὸλλ᾽ ἔναρα <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs>. ἂλλ᾽ οὐ σχεδόν ἐστιν ἑλέσθαι·</l>
+				<l n="269">οὐδὲ γὰρ οὐδ᾽ ἐμὲ φημὶ λελασμένον ἔμμεναι ἀλκῆς.</l>
+				<l n="270">ἀλλὰ μετὰ πρώτοισι μάχην ἀνὰ κυδιάνειραν</l>
+				<l n="271">ἵ¨σταμαι. ὁππότε νεῖκος ὀρώρηται πολέμοιο·</l>
+				<l n="272">ἄλλον πού τινα μᾶλλον <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> χαλκοχιτώνων</l>
+				<l n="273">λήθω μαρνάμενος. σὲ δὲ ΐδμεναι αὐτὸν ὀΐω·</l>
+				<l n="274">τὸν δ᾽ αὖτ᾽ <persName n="urn:cite:hmt:pers.pers287">Ἰ¨δομενεὺς</persName> <rs type="ethnic" n="urn:cite:hmt:place.place21">Κρητῶν</rs> ἀγὸς ἀντίον ηὔδα·</l>
+				<l n="275">οἶδ᾽ ἀρετὴν οἷός ἐσσι. τί σε χρὴ ταῦτα λέγεσθαι.</l>
+				<l n="276">εἰ γὰρ νῦν παρα νηυσὶ λεγοίμεθα πάντες ἄριστοι</l>
+				<l n="277">ἐς λόχον, ἔνθα μάλιστ᾽ ἀρετὴ διαείδεται ἀνδρῶν.</l>
+				<l n="278">ἔνθ᾽. ὅ τε δειλὸς ἀνὴρ. ὅς τ᾽ ἄλκιμος, ἐξεφαάνθη.</l>
+				<l n="279">τοῦ μὲν γάρ τε κακοῦ τρέπεται χρὼς ἄλλυδις ἄλλῃ.</l>
+				<l n="280">οὐδέ οἱ, ἀτρέμας ῆσθαι ἐρητύετ᾽ ἐν φρεσὶ θυμὸς.</l>
+			</div>
+		</body>
+	</text>
+</TEI>
