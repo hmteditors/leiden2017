@@ -30,8 +30,6 @@ object Images {
 
 
   def scholia = {
-
-
     val urlBase = s"${imgService}&w=${imageSize}&urn="
     val report =  StringBuilder.newBuilder
     report.append("#Verification of indexing of scholia\n\n")
@@ -63,7 +61,7 @@ object Images {
             val imgLink = if (img.isSuccess ) {
               urlParams.append(s"urn=${img.get}&")
               val splits = img.get.objectComponent.split("@")
-              val binaryImage =              s"${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG"
+              val binaryImage =  s"${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG"
 
 
               s"![${txt.get}](${binaryImage})"
@@ -88,15 +86,14 @@ object Images {
     println("Scholia indexing report is in reports/indexing-iliad.md")
   }
 
-
-  def iliad = {
+  def iliad(folioName: String){
     val urlBase = s"${imgService}&w=${imageSize}&urn="
     val report =  StringBuilder.newBuilder
     report.append("# Verification of index for *Iliad* text\n\n")
     report .append("| Text     | Image     |\n| :------------- | :------------- |\n")
 
 
-    val iliadDataFile = repoDirectory + "relations/venA-textToImage-Iliad.cex"
+    val iliadDataFile = repoDirectory + "relations/venA-textToImage-Iliad/" + folioName + ".cex"
     // read file, dropping header
     val iliadLines = Source.fromFile(iliadDataFile).getLines.toVector.drop(1)
 
@@ -121,9 +118,9 @@ object Images {
       report.append (s"| ${idDisplay} | ${imgLink} | \n")
     }
     report.append("\n\n")
-    val iliadReportFile = new File(repoDirectory + "reports/indexing-iliad.md")
+    val iliadReportFile = new File(repoDirectory + "reports/indexing-iliad-" + folioName + ".md")
     new PrintWriter(iliadReportFile) { write(report.toString); close }
-    println("Iliad report is in reports/indexing-iliad.md")
+    println("Iliad report is in reports/indexing-iliad-" + folioName + ".md")
 
   }
 

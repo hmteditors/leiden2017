@@ -1,0 +1,3 @@
+:load scripts/images.scala
+:load scripts/paleography.scala
+:load scripts/texts.scala
