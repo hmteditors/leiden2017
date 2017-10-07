@@ -87,4 +87,13 @@ Dus:
 * tweede kolom: niks aan doen!
 * derde kolom: de image citation
 
-##Useful links for editing
+## Useful links for editing
+
+* https://homermultitext.github.io/hmt-docs/totaled/ (to look up the HMT project principles)
+* https://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
+* http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio; it is recommended to have the Venetus A and the Comparetti open in adjacent tabs, *especially* when working on the exterior scholia)
+* https://homermultitext.slack.com (to contact Neel or Stephanie)
+
+**NB**: Also have a look at the files in `writing/`
+
+<!-- cat paleography/*.csv > paleography.csv -->
