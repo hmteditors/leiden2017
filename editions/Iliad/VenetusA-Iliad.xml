@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor>YOUR NAME HERE</editor>
+        <editor>YOUR NAME HERE</editor>
+        <editor>YOUR NAME HERE</editor>
+      </titleStmt>
+      <editionStmt>
+        <p>HMT edition</p>
+      </editionStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="16">
+        <l n=""></l>
+      </div>
+    </body>
+  </text>
+</TEI>
