@@ -44,11 +44,11 @@
         <l n="170">πεντήκοντ’ έσαν ἄνδρες ἐπι κληῗσιν ἑταῖροι.</l>
         <l n="171">πέντε δ’ ὰρ ἡγεμόνας ποιήσατο, τοῖς ἐπεποίθει.</l>
         <l n="172">σημαίνειν· αὐτὸς δὲ μέγα κρατέων ἤνασσε·</l>
-        <l n="173">τῆς μὲν ἰ¨ῆς στιχὸς ἦρχε Μενέσθιος αἰολοθώρηξ.</l>
-        <l n="174">υἱὸς Σπερχειοῖο διϊπετέος ποταμοῖο·</l>
-        <l n="175">ὃν τέκε <persName n="urn:cite2:hmt:pers.pers184">Πηλῆος</persName> θυγάτηρ καλὴ Πολυδώρη.</l>
+        <l n="173">τῆς μὲν ἰ¨ῆς στιχὸς ἦρχε <persName n="urn:cite2:hmt:pers.pers1146">Μενέσθιος</persName> αἰολοθώρηξ.</l>
+        <l n="174">υἱὸς <persName n="urn:cite2:hmt:pers.pers1148">Σπερχειοῖο</persName> διϊπετέος ποταμοῖο·</l>
+        <l n="175">ὃν τέκε <persName n="urn:cite2:hmt:pers.pers184">Πηλῆος</persName> θυγάτηρ καλὴ <persName n="urn:cite2:hmt:pers.pers1147">Πολυδώρη</persName>.</l>
       </div>
-<!--Finished. Menesthios, Spercheios, and Polydore are missing in the pers list. -->
+<!--Finished. -->
     </body>
   </text>
 </TEI>
