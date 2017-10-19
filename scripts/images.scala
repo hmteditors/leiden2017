@@ -44,6 +44,13 @@ object Index {
     scholia(folioName, "exterior")
   }
 
+  def allScholia(folioName:String){
+    mainScholia(folioName)
+    interiorScholia(folioName)
+    exteriorScholia(folioName)
+    interlinearScholia(folioName)
+    intermarginalScholia(folioName)
+  }
 
   def scholia(folioName:String, scholiaType:String){
     val urlBase = s"${imgService}&w=${imageSize}&urn="
