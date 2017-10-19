@@ -28,62 +28,72 @@ object Index {
     }
   }
 
+  def mainScholia(folioName:String){
+    scholia(folioName, "mainScholia")
+  }
+  def interiorScholia(folioName:String){
+    scholia(folioName, "interior")
+  }
+  def interlinearScholia(folioName:String){
+    scholia(folioName, "interlinear")
+  }
+  def intermarginalScholia(folioName:String){
+    scholia(folioName, "intermarginal")
+  }
+  def exteriorScholia(folioName:String){
+    scholia(folioName, "exterior")
+  }
 
-  def scholia = {
+
+  def scholia(folioName:String, scholiaType:String){
     val urlBase = s"${imgService}&w=${imageSize}&urn="
     val report =  StringBuilder.newBuilder
     report.append("#Verification of indexing of scholia\n\n")
     val urlParams =  StringBuilder.newBuilder
 
-    val files = listFiles(repoDirectory + "dse-models")
+    //The file we want to validate
+    val f = repoDirectory + "dse-models/venA-" + scholiaType + "/" + folioName + ".cex";
 
-    for (f <- files) {
-      val lines = Source.fromFile(f).getLines.toVector.drop(1)
-      if (lines.size > 1) {
-        val cols = lines(1).split("#")
-        val txt : Try[String] = Try(CtsUrn(cols(0)).work)
-        if (txt.isSuccess) {
-          report.append(s"\n\n## Scholia group: ${txt.get} ")
+    val lines = Source.fromFile(f).getLines.toVector.drop(1)
+    if (lines.size > 0) {
+      val cols = lines(0).split("#")
+      val txt : Try[String] = Try(CtsUrn(cols(0)).work)
+      if (txt.isSuccess) {
+        report.append(s"\n\n## Scholia group: ${txt.get} ")
 
-          report.append("\n\n| Scholion     | Image     |\n| :------------- | :------------- |\n")
+        report.append("\n\n| Scholion     | Image     |\n| :------------- | :------------- |\n")
+        for (entry <- lines) {
+          val columns = entry.split("#")
+          val txt : Try[String] = Try(CtsUrn(columns(0)).passageComponent)
+          val img : Try[Cite2Urn] = Try(Cite2Urn(columns(1)))
+          val folio : Try[Cite2Urn] = Try(Cite2Urn(columns(2)))
 
-
-          for (entry <- lines) {
-            val columns = entry.split("#")
-            val txt : Try[String] = Try(CtsUrn(columns(0)).passageComponent)
-            val img : Try[Cite2Urn] = Try(Cite2Urn(columns(1)))
-            val folio : Try[Cite2Urn] = Try(Cite2Urn(columns(2)))
-
-            val idDisplay = if (txt.isSuccess && folio.isSuccess) {
-              txt.get + ", folio " + folio.get
-            } else {txt + " " + folio}
+          val idDisplay = if (txt.isSuccess && folio.isSuccess) {
+            txt.get + ", folio " + folio.get
+          } else {txt + " " + folio}
 
             val imgLink = if (img.isSuccess ) {
-              urlParams.append(s"urn=${img.get}&")
-              val splits = img.get.objectComponent.split("@")
-              val binaryImage =  s"${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG"
+            urlParams.append(s"urn=${img.get}&")
+            val splits = img.get.objectComponent.split("@")
+            val binaryImage =  s"${imgUrlBase}${splits(0)}.tif&RGN=${img.get.objectExtension}&WID=${imageSize}&CVT=JPEG"
 
 
-              s"![${txt.get}](${binaryImage})"
+            s"![${txt.get}](${binaryImage})"
 
-             } else {img}
-
-             report.append (s"| ${idDisplay} | ${imgLink} | \n")
-          }
-        } else {}
-      } else {
-        //skip
-      }
-
-
+            } else {img}
+            report.append (s"| ${idDisplay} | ${imgLink} | \n")
+        }
+      } else {}
+    } else {
+      //skip
     }
     report.append("\n\nUse the image citation tool to check completeness.\n")
     report.append(s"[Here](http://www.homermultitext.org/ict2/?${urlParams.toString.dropRight(1)})")
 
 
-    val reportFile = new File(repoDirectory + "reports/indexing-scholia.md")
+    val reportFile = new File(repoDirectory + "reports/indexing-scholia-" + scholiaType + "-" + folioName + ".md")
     new PrintWriter(reportFile) { write(report.toString); close }
-    println("Scholia indexing report is in reports/indexing-iliad.md")
+    println("Scholia indexing report is in reports/indexing-scholia-" + scholiaType + "-" + folioName + ".md")
   }
 
   def iliad(folioName: String){
