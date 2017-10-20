@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Main Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Tazuko van Berkel</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -20,8 +20,78 @@
     <group n="16">
       <text n="msA">
         <body>
-<!-- Please put this comment line at the point you stopped and specify your progress. -->
+<!-- Still working on the 3rd scholion. -->
+<!--Preparing an issue:
+Main scholion urn:cts:greekLit:tlg5026.msA.hmt:16.207
+urn:cite2:hmt:vaimg.2017a:VA210RN_0381@0.5103,0.1553,0.1067,0.01826
+Commenting on Iliad line urn:cts:greekLit:tlg0012.tlg001.msA:16.207
+Occurs also on 294r in the Main Scholia at the bottom of the folio, commenting on Iliad urn:cts:greekLit:tlg0012.tlg001.msA:23.79.-->
           <div n="210r1" type="scholion">
+            <div type="lemma">
+              <p>πανθ' ὑπομηνιθμὸν:</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.202</p>
+            </div>
+            <div type="comment">
+              <p>ἡ διπλῆ ὅτι <persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName> ἕν ποιῶν γράφει χωρὶς τοῦ <rs type="waw">ϊ</rs> <rs type="waw">μητιάασθαι</rs>
+              λαμβάνων ἀπο <rs type="waw">τῆς μήτιδος</rs> οἷον ἐβουλεύεσθε γίνεται δὲ ἀδιανόητον διὸ δεῖ σὺν τῷ <rs type="waw">ϊ</rs> γράφειν <rs type="waw">ῇτιάασθε</rs>.
+              καὶ ὅτι <rs type="waw"><choice><sic>πὰνθ'</sic><corr>πάνθ'</corr></choice> ὑπομηνιθμὸν</rs> ἤτοι μετα πάσης μήνιδος καὶ χόλου,
+              ἠ κατὰ πάντα τὸν τῆς μήνιδος χρόνον ⁑
+            </p>
+            </div>
+          </div>
+          <div n="210r2" type="scholion">
+            <div type="lemma">
+              <p>σχέτλιε Πηλεος ὑιὲ</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.203</p>
+            </div>
+            <div type="comment">
+              <p>ἀπέστροφε τὸν λόγον ἀπο τοῦ διηγηματος ἐπι τὸ <choice><sic>μημητικὸν</sic><corr>μϊμητικὸν</corr></choice>
+            καὶ ἐλλείπει τὸ <rs type="waw">τάδε λέγων ἕκαστος ἐμὲ ᾐτιάασθε</rs>·
+            καὶ ὅτι χόλω ἀρσενικῶς ἀντι τοῦ χολῇ ὑπερβολικῶς οὐ γάλακτι ἀλλὰ <sic>σχολῇ</sic> ⁑ </p>
+            </div>
+          </div>
+          <div n="210r3" type="scholion">
+            <div type="lemma">
+              <p>ταῦτά μ' ἀγειρόμενοι:</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.207</p>
+            </div>
+            <div type="comment">
+              <p>ἐπι τὴν <rs type="waw">τα</rs> συλλαβὴν ὀξεῖα ἐγκλιτικὴ γάρ ἐστιν ἡ <rs type="waw">με</rs>
+              <rs type="waw">ταῦτά με ἀγειρόμενοι</rs>. οὕτως καὶ <persName n="urn:cite2:hmt:pers:pers16">Ἀρίσταρχος</persName>.
+              ὁ μέντοι <persName>Κρατήτιος Ἑρμείας</persName> τὸ ἅμα λέγει ἐγκεῖσθαι.
+              οὕτω δὲ δώσει καὶ
+             </p>
+            </div>
+          </div>
+          <div n="210r4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p></p>
+            </div>
+            <div type="comment">
+              <p></p>
+            </div>
+          </div>
+          <div n="210r5" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p></p>
+            </div>
+            <div type="comment">
+              <p></p>
+            </div>
+          </div>
+          <div n="210r6" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
