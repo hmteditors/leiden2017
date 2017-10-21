@@ -1,3 +1,1 @@
-:load scripts/images.scala
-:load scripts/paleography.scala
-:load scripts/texts.scala
+:load scripts/validate.scala
