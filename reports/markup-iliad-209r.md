@@ -5,19 +5,19 @@
 
 | Reading | Urn     | Resolved     | Description    |
 | :------------- | :------------- | :------------- |
-|Ὠκεανοῖο | urn:cite2:hmt:pers.pers123|No Match|No Match
-|Πήδασον | urn:cite2:hmt:pers.pers706|No Match|No Match
-|Ἠετίωνος | urn:cite2:hmt:pers.pers170|No Match|No Match
-|Ἀχιλλεύς | urn:cite2:hmt:pers.pers1|No Match|No Match
-|Ἀχιλλεὺς | urn:cite2:hmt:pers.pers1|No Match|No Match
-|Αἰακίδαο | urn:cite2:hmt:pers.pers1|No Match|No Match
-|Ἀχιλλεὺς | urn:cite2:hmt:pers.pers1|No Match|No Match
-|Ἀχιλλεὺς | urn:cite2:hmt:pers.pers1|No Match|No Match
-|Διῒ | urn:cite2:hmt:pers.pers8|No Match|No Match
-|Μενέσθιος | urn:cite2:hmt:pers.pers1146|No Match|No Match
-|Σπερχειοῖο | urn:cite2:hmt:pers.pers1148|No Match|No Match
-|Πηλῆος | urn:cite2:hmt:pers.pers184|No Match|No Match
-|Πολυδώρη | urn:cite2:hmt:pers.pers1147|No Match|No Match
+|Ὠκεανοῖο | urn:cite2:hmt:pers.pers123|No Match (Invalid URN)|No Match (Invalid URN)
+|Πήδασον | urn:cite2:hmt:pers.pers706|No Match (Invalid URN)|No Match (Invalid URN)
+|Ἠετίωνος | urn:cite2:hmt:pers.pers170|No Match (Invalid URN)|No Match (Invalid URN)
+|Ἀχιλλεύς | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
+|Ἀχιλλεὺς | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
+|Αἰακίδαο | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
+|Ἀχιλλεὺς | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
+|Ἀχιλλεὺς | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
+|Διῒ | urn:cite2:hmt:pers.pers8|No Match (Invalid URN)|No Match (Invalid URN)
+|Μενέσθιος | urn:cite2:hmt:pers.pers1146|No Match (Invalid URN)|No Match (Invalid URN)
+|Σπερχειοῖο | urn:cite2:hmt:pers.pers1148|No Match (Invalid URN)|No Match (Invalid URN)
+|Πηλῆος | urn:cite2:hmt:pers.pers184|No Match (Invalid URN)|No Match (Invalid URN)
+|Πολυδώρη | urn:cite2:hmt:pers.pers1147|No Match (Invalid URN)|No Match (Invalid URN)
 
 ## Places 
 

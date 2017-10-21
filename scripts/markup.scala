@@ -1,5 +1,5 @@
 object Markup {
-    //Load the person CSV data into here
+  //Load the person CSV data into here
   val persFile = Source.fromURL("https://raw.githubusercontent.com/homermultitext/hmt-authlists/master/data/hmtnames.csv").getLines().mkString("\n")
   //Load the place CSV data into here
   val placeFile = Source.fromURL("https://raw.githubusercontent.com/homermultitext/hmt-authlists/master/data/hmtplaces.csv").getLines().mkString("\n")
@@ -12,7 +12,7 @@ object Markup {
       for(pers <- persLines){
           if(pers.contains(urn)) return pers
       }
-      return "No Match"
+      return "No Match (Invalid URN)"
   }
 
   /**
