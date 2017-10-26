@@ -4,9 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Main Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Olivia Monster</editor>
+        <editor>Marloes Velthuisen</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -23,13 +22,38 @@
 <!-- Please put this comment line at the point you stopped and specify your progress. -->
           <div n="208v1" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>μὴ δὴ νῆας έλωσι καὶ οὐκέτι φυκτὰ πέλωνται</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.128</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>ἡ διπλὴ ὅτι οὕτως εἴρεκε πληθυντικῶς <rs type="waw"> πέλωνται</rs> καὶ οὐ πέληται ὁμοίως τῶι <cit><ref type="urn">urn:cts:greeklit:tlg001:2.135</ref><q> σπαρτα λελυνται </q></cit></p>
+            </div>
+          </div>
+          <div n="208v2" type="scholion">
+            <div type="lemma">
+              <p>λαὸν ἀγείρω</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.130</p>
+            </div>
+            <div type="comment">
+              <p>ὁμοίως τῶι ἀγείρωι ἐνεστῶς γάρ ἐστι σημαίνων μέλλοντα ὥσπερ καὶ ἐπ' άλλων παρεθέμεθα. <cit><ref type="urn">urn:cts:greeklit:tlg001:1.184</ref><q>ἐγὼ δέ κ' άγω βρισηΐδα</q></cit>.
+             <cit><ref type="urn">urn:cts:greeklit:tlg001:7.124</ref><q>ἡ μέγα πένθος ἀχαιΐδα γαῖαν ϊκάνει</q></cit> οὕτως καὶ τὸ ἐρύουσιν ἔχει·
+           οὕτως δὲ καὶ <persName n="urn:cite2:hmt:pers:pers158">ἀρίσταρχος</persName>⁑</p>
+            </div>
+          </div>
+          <div n="208v3" type="scholion">
+            <div type="lemma">
+              <p>μη δὴ νῆας ἔλωσι</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.128</p>
+            </div>
+            <div type="comment">
+              <p>ταῦτα ὁμολογουμένος καθ εαυτὰ λέγεται ὑπερ εὐλαβούμενος γὰρ λέγει. δύναιτο δ ἄν' καὶ τὸ ἑξῆς εἶναι ὀρσεο μὴ δἠ νῆας ἕλωσιν·
+              ἀλλα βἐλτιον τὸ πρότερον. παρατηρητέον δὲ προσ τὰ ἀσύνδετα τὴν προσωποιΐαν ὅτι ἐμφαντικωτάτη⁑</p> moet nog taggen!
             </div>
           </div>
         </body>
