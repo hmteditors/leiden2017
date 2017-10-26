@@ -65,41 +65,45 @@ Occurs also on 294r in the Main Scholia at the bottom of the folio, commenting o
               <p>ἐπι τὴν <rs type="waw">τα</rs> συλλαβὴν ὀξεῖα ἐγκλιτικὴ γάρ ἐστιν ἡ <rs type="waw">με</rs>
               <rs type="waw">ταῦτά με ἀγειρόμενοι</rs>. οὕτως καὶ <persName n="urn:cite2:hmt:pers:pers16">Ἀρίσταρχος</persName>.
               ὁ μέντοι <persName>Κρατήτιος Ἑρμείας</persName> τὸ ἅμα λέγει ἐγκεῖσθαι.
-              οὕτω δὲ δώσει καὶ
+              οὕτω δὲ δώσει καὶ δια τοῦ <rs type="waw">θ</rs> τὴν γραφὴν οὐκ έχουσαν οὔτως ⁑
              </p>
             </div>
           </div>
           <div n="210r4" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>μᾶλλον δὲ στίχες ἄρθεν:</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.211</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> δασύνει.
+              δεῖ δὲ ψιλοῦν ὡς ἐπεδείξαμεν ἐν τῆι <title>α</title> ῥαψωιδίαι δια λαμβάνονεντες
+              περι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg001.tlg001:1.136</ref><q>ἄρσαντες κατα θύμον</q></cit> ⁑  </p>
             </div>
           </div>
           <div n="210r5" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>‡καλῆς δαιδαλέης:</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.222</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>ὅτι οὐ δωδεκαταῖον ἀπέλειπε τὸν <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλέα</persName> γεννήσασα ἡ <persName n="urn:cite2:hmt:pers:pers19">Θετίς</persName>
+             καθάπερ οἱ νεώτεροι ποιηταὶ ἀλλὰ συνεβίου <persName n="urn:cite2:hmt:pers:pers184">Πηλεῖ</persName>. ἐκπέμπει γ'οὖν ἐπι τὸν πόλεμον <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλέα</persName> καὶ φησὶν.
+            τὸνδ' οὐχ ὑποδεξομαι αὖτις, οἴκαδὲ νοστήσαντα δωμοιο <choice><abbr>Πη</abbr><expan><persName n="urn:cite2:hmt:pers:pers184">Πηλήϊον</persName></expan></choice> ὡς ἂν ἐπι τοῦ οἴκου μένουσα ⁑ </p>
             </div>
           </div>
           <div n="210r6" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>οὔλων τε ταπήτων:</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.224</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p><rs type="waw">ούλων</rs> ὡς <rs type="waw">δούλων</rs>· προείρηται δὲ ἡμῖν τὰ τῆς ἀναλογίας  </p>
             </div>
           </div>
         </body>
