@@ -5,25 +5,25 @@
 
 | Reading | Urn     | Resolved     | Description    |
 | :------------- | :------------- | :------------- |
-|Ὠκεανοῖο | urn:cite2:hmt:pers.pers123|No Match (Invalid URN)|No Match (Invalid URN)
-|Πήδασον | urn:cite2:hmt:pers.pers706|No Match (Invalid URN)|No Match (Invalid URN)
-|Ἠετίωνος | urn:cite2:hmt:pers.pers170|No Match (Invalid URN)|No Match (Invalid URN)
-|Ἀχιλλεύς | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
-|Ἀχιλλεὺς | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
-|Αἰακίδαο | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
-|Ἀχιλλεὺς | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
-|Ἀχιλλεὺς | urn:cite2:hmt:pers.pers1|No Match (Invalid URN)|No Match (Invalid URN)
-|Διῒ | urn:cite2:hmt:pers.pers8|No Match (Invalid URN)|No Match (Invalid URN)
-|Μενέσθιος | urn:cite2:hmt:pers.pers1146|No Match (Invalid URN)|No Match (Invalid URN)
-|Σπερχειοῖο | urn:cite2:hmt:pers.pers1148|No Match (Invalid URN)|No Match (Invalid URN)
-|Πηλῆος | urn:cite2:hmt:pers.pers184|No Match (Invalid URN)|No Match (Invalid URN)
-|Πολυδώρη | urn:cite2:hmt:pers.pers1147|No Match (Invalid URN)|No Match (Invalid URN)
+|Ὠκεανοῖο | urn:cite2:hmt:pers:pers123|Oceanus|father of Melia
+|Πήδασον | urn:cite2:hmt:pers:pers706|Pedasus|"son of Abarbarea and Bucolion
+|Ἠετίωνος | urn:cite2:hmt:pers:pers170|Eetion|"king of Thebe in the Troad
+|Ἀχιλλεύς | urn:cite2:hmt:pers:pers1|Achilles|"hero of the Iliad
+|Ἀχιλλεὺς | urn:cite2:hmt:pers:pers1|Achilles|"hero of the Iliad
+|Αἰακίδαο | urn:cite2:hmt:pers:pers1|Achilles|"hero of the Iliad
+|Ἀχιλλεὺς | urn:cite2:hmt:pers:pers1|Achilles|"hero of the Iliad
+|Ἀχιλλεὺς | urn:cite2:hmt:pers:pers1|Achilles|"hero of the Iliad
+|Διῒ | urn:cite2:hmt:pers:pers8|Zeus|king of the gods
+|Μενέσθιος | urn:cite2:hmt:pers:pers1146|Menesthius|"son of Spercheus and Polydora
+|Σπερχειοῖο | urn:cite2:hmt:pers:pers1148|Spercheus|"The personified river in Thessaly
+|Πηλῆος | urn:cite2:hmt:pers:pers184|Peleus|father of Achilles
+|Πολυδώρη | urn:cite2:hmt:pers:pers1147|Polydora|"Daughter of Peleus
 
 ## Places 
 
 | Reading | Urn     | Resolved     | Description    |
 | :------------- | :------------- | :------------- |
-|Τροίην | urn:cite2:hmt:place.place6|No Match|No Match
+|Τροίην | urn:cite2:hmt:place:place6|Ilium|ancient name for Troy
 
 ## RS (Ethnic) 
 
