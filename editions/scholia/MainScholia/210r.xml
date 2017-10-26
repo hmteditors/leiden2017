@@ -20,12 +20,7 @@
     <group n="16">
       <text n="msA">
         <body>
-<!-- Still working on the 3rd scholion. -->
-<!--Preparing an issue:
-Main scholion urn:cts:greekLit:tlg5026.msA.hmt:16.207
-urn:cite2:hmt:vaimg.2017a:VA210RN_0381@0.5103,0.1553,0.1067,0.01826
-Commenting on Iliad line urn:cts:greekLit:tlg0012.tlg001.msA:16.207
-Occurs also on 294r in the Main Scholia at the bottom of the folio, commenting on Iliad urn:cts:greekLit:tlg0012.tlg001.msA:23.79.-->
+<!-- done!-->
           <div n="210r1" type="scholion">
             <div type="lemma">
               <p>πανθ' ὑπομηνιθμὸν:</p>
