@@ -28,9 +28,43 @@
               <p></p>
             </div>
             <div type="comment">
-              <p></p>
+              <p><persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName> πάντη ἀνα κλησιας</p>
             </div>
           </div>
+          <div n="209r2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p></p>
+            </div>
+            <div type="comment">
+              <p>βραχ <choice><abbr>διασταλτ</abbr><expan>διασταλτέον</expan></choice> ἐπι τὸ ϊᾶσι προ τὸ σαφεστερον</p>
+            </div>
+          </div>
+          <div n="209r3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p></p>
+            </div>
+            <div type="comment">
+              <p>ὡραίων πιθηκ ος</p>
+            </div>
+          </div>
+          <div n="209r4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p></p>
+            </div>
+            <div type="comment">
+              <p><choice><abbr>χω</abbr><expan>χωρίς</expan></choice> του <rs type="waw">τ</rs> <rs type="waw">ὃν τεκε</rs> <persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> <choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> καὶ <persName n="urn:cite2:hmt:pers:pers21">Αριστοφανηs</persName></p>
+            </div>
+          </div>
+          <!--Not yet finished. -->
         </body>
       </text>
     </group>
