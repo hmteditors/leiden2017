@@ -20,7 +20,7 @@
     <group n="16">
       <text n="msA">
         <body>
-<!-- working on the 4th scholion. -->
+<!-- working on the 8th scholion. -->
           <div n="210v1" type="scholion">
             <div type="lemma">
               <p>‡ <persName n="urn:cite2:hmt:pers:pers8">Ζεῦ</persName> ἄνα <placeName n="urn:cite2:hmt:place:place4">Δωδωναῖε</placeName>:
@@ -72,37 +72,155 @@
               <p>ἀμφι δε Σελλοὶ.</p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001:16.235</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.234</p>
             </div>
             <div type="comment">
-              <p>ὁ μὲν Πίνδαρος Ἐλλοὺς αὐτοὺς οἵεται δεῖ δὲ ἀπο τοῦ <rs type="waw">σ</rs> ἄρχεσθαι τὴν λέξιν ἀπο Σελλήεντος ποταμοῦ,
+              <p>ὁ μὲν <persName n="urn:cite2:hmt:pers:pers5">Πίνδαρος</persName> Ἐλλοὺς αὐτοὺς οἵεται δεῖ δὲ ἀπο τοῦ <rs type="waw">σ</rs> ἄρχεσθαι τὴν λέξιν ἀπο Σελλήεντος ποταμοῦ,
               ὀξύνεται δὲ τὸ ὄνομα. τὰ γὰρ εὶς <rs type="waw">λος</rs> ἑτέρῳ <rs type="waw">λ</rs> παραληγόμενα οὗ τὸ <rs type="waw">α</rs>
             μὴ προηγεῖται ὀξύνεται <rs type="waw">κιλλός</rs> εἶδος χρώματος ἐν <title>Στεφανοπολίσιν</title> <persName n="urn:cite2:hmt:pers:pers1107">Εὐβούλου</persName>
             <cit><ref>urn:cts:greekLit:tlg0458.tlg001:103</ref><q>εὐχρών τι κιλλὼν μανθάνεις θεριστριον</q></cit> <rs type="waw">πολλός</rs>, <rs type="waw">κυλλός</rs>, <rs type="waw">ἐλλός</rs> ἠ
-            <rs type="waw">σελλός</rs> <q>ἀμφι δὲ σελλοί</q>. <rs type="waw">σκελλός</rs>, <rs type="waw">φελλός</rs> τὸ προσηγορικόν.
+            <rs type="waw">σελλός</rs> <q>ἀμφι δὲ σελλοί</q>. <rs type="waw">σκελλός</rs>, <rs type="waw">φελλός</rs> τὸ προσηγορικόν. τὸ δὲ <rs type="waw">Γάλλος</rs> καὶ <rs type="waw">ἄλλος</rs>
+            τὸ <rs type="waw">α</rs> ἔχει προ τοῦ <rs type="waw">λ</rs> ἔτι δὲ τὸ <rs type="waw">ἄλλος</rs> καὶ ὡς ἐπιμεριζόμενον βαρύνεται ⁑
           </p>
             </div>
           </div>
           <div n="210v5" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>Σελλοί:</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.234</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p><persName n="urn:cite2:hmt:pers:pers5">Πίνδαρος</persName> <rs type="waw">Ἐλλοί</rs> χωρὶς τοῦ <rs type="waw">σ</rs> ἀπο <persName>Ελλοῦ του δρυτόμου</persName>
+            ᾧ φασὶ τὴν περιστερὰν πρώτην καταδεῖξαι τὸ μαντεῖον ⁑</p>
             </div>
           </div>
           <div n="210v6" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>ὑποφῆται:</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.235</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>ὑπομάντεις ἱερεῖς ὅ ἐστι χρησμῶιδοί θεολόγοι προφῆται προφητας γὰρ λέγουσι τοὺς περι τὰ χρηστήρια
+              ἀσχολουμένους καὶ τὰς μαντείας γινομένας ὐπὸ τοῦ ϊερέων ἐκφεροντας ⁑</p>
+            </div>
+          </div>
+          <div n="210v7" type="scholion">
+            <div type="lemma">
+              <p>ἀνιπτόποδες:</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.235</p>
+            </div>
+            <div type="comment">
+              <p>ἤτοι βάρβαροι σκληρῶς τε καὶ νομαδικῶς ζῶντες ταύτην ἔχοντες δίαιταν ὡς μηδε ἀπονίζεσθαι
+              τοὺς πόδας δια τὸ μὴ παραδέξασθαι τὴν ἐκ τοῦ πρώτου υἱου μεταβολήν. ἠ τοῦτο ἔκ τινος ἔθους ἐπι τιμῇ τοῦ θεοῦ
+            ποιοῦντες. ἐνιοι γὰρ καὶ λουτρῶν ἀπέχονται καὶ τῆς τοιαύτης ἐπιμελειας· τινὲς δὲ αὐτοὺς δια τουτο λεγουσι ἀνιπτόποδας
+          ὅτι οὐκ ἐξιᾶσιν ἔξω τοῦ ἱεροῦ διὸ οὔτε ἀπολούεσθαι ἀνάγκην ἔχουσιν· ἀνδρῶν δὲ ἐν ἱστορίαις φησὶν οὕτως κληθῆναι.
+          ἐπεὶ φιλοπτόλεμοι ὄντες οὕτως ἑαυτοὺς ἐσκληραγώγουν· <persName>Ἀλέξανδρος</persName> δέ φησιν ὁ πλευρώνιος ἔθνος εἶναι τὸν ελλὸν
+          ἀπόγονον <rs type="ethnic">τυρρηνῶν</rs> καὶ δια πατρῶιον ἔθος οὕτως τὸν <persName n="urn:cite2:hmt:pers:pers8">Δια</persName> θρησκεύειν ⁑</p>
+            </div>
+          </div>
+          <div n="210v8" type="scholion">
+            <div type="lemma">
+              <p>ἠ μὲν δή ποτ' ἐμὸν:</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.236</p>
+            </div>
+            <div type="comment">
+              <p>ἡ διπλῆ, ὅτι οὐ προσυνέσταται περι τῆς </p>
+            </div>
+          </div>
+          <div n="210v#" type="scholion">
+            <div type="lemma">
+              <p>#</p>
+            </div>
+            <div type="ref">
+              <p>#</p>
+            </div>
+            <div type="comment">
+              <p>#</p>
+            </div>
+          </div>
+          <div n="210v#" type="scholion">
+            <div type="lemma">
+              <p>#</p>
+            </div>
+            <div type="ref">
+              <p>#</p>
+            </div>
+            <div type="comment">
+              <p>#</p>
+            </div>
+          </div>
+          <div n="210v#" type="scholion">
+            <div type="lemma">
+              <p>#</p>
+            </div>
+            <div type="ref">
+              <p>#</p>
+            </div>
+            <div type="comment">
+              <p>#</p>
+            </div>
+          </div>
+          <div n="210v#" type="scholion">
+            <div type="lemma">
+              <p>#</p>
+            </div>
+            <div type="ref">
+              <p>#</p>
+            </div>
+            <div type="comment">
+              <p>#</p>
+            </div>
+          </div>
+          <div n="210v#" type="scholion">
+            <div type="lemma">
+              <p>#</p>
+            </div>
+            <div type="ref">
+              <p>#</p>
+            </div>
+            <div type="comment">
+              <p>#</p>
+            </div>
+          </div>
+          <div n="210v#" type="scholion">
+            <div type="lemma">
+              <p>#</p>
+            </div>
+            <div type="ref">
+              <p>#</p>
+            </div>
+            <div type="comment">
+              <p>#</p>
+            </div>
+          </div>
+          <div n="210v#" type="scholion">
+            <div type="lemma">
+              <p>#</p>
+            </div>
+            <div type="ref">
+              <p>#</p>
+            </div>
+            <div type="comment">
+              <p>#</p>
+            </div>
+          </div>
+          <div n="210v#" type="scholion">
+            <div type="lemma">
+              <p>#</p>
+            </div>
+            <div type="ref">
+              <p>#</p>
+            </div>
+            <div type="comment">
+              <p>#</p>
             </div>
           </div>
         </body>
