@@ -128,7 +128,7 @@ object Markup {
   Checks the markup for the exterior scholia
   **/
   def exteriorScholia(folioName:String){
-    validateXML("scholia/ExteriorScholia/" + folioName + ".xml", "exterior")
+    validateXML("scholia/ExteriorScholia/" + folioName + ".xml", "markup-scholia-exterior-" + folioName + ".md")
   }
 }
 
