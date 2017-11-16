@@ -100,28 +100,28 @@ object Markup {
   Checks the markup for the main scholia
   **/
   def mainScholia(folioName:String){
-    validateXML("scholia/MainScholia/" + folioName + ".xml", "mainScholia")
+    validateXML("scholia/MainScholia/" + folioName + ".xml", "markup-scholia-main-" + folioName + ".md")
   }
 
   /**
   Checks the markup for the interior scholia
   **/
   def interiorScholia(folioName:String){
-    validateXML("scholia/InteriorScholia/" + folioName + ".xml", "interior")
+    validateXML("scholia/InteriorScholia/" + folioName + ".xml", "markup-scholia-interior-" + folioName + ".md")
   }
 
   /**
   Checks the markup for the interlinear scholia
   **/
   def interlinearScholia(folioName:String){
-    validateXML("scholia/InterlinearScholia/" + folioName + ".xml", "interlinear")
+    validateXML("scholia/InterlinearScholia/" + folioName + ".xml", "markup-scholia-interlinear-" + folioName + ".md")
   }
 
   /**
   Checks the markup for the intermarginal scholia
   **/
   def intermarginalScholia(folioName:String){
-    validateXML("scholia/IntermarginalScholia/" + folioName + ".xml", "intermarginal")
+    validateXML("scholia/IntermarginalScholia/" + folioName + ".xml", "markup-scholia-intermarginal-" + folioName + ".md")
   }
   
   /**
