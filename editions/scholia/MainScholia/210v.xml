@@ -20,7 +20,7 @@
     <group n="16">
       <text n="msA">
         <body>
-<!-- not finished the first scholion yet. Have to look up Thrasyboulos and Acestodoros. -->
+<!-- working on the 4th scholion. -->
           <div n="210v1" type="scholion">
             <div type="lemma">
               <p>‡ <persName n="urn:cite2:hmt:pers:pers8">Ζεῦ</persName> ἄνα <placeName n="urn:cite2:hmt:place:place4">Δωδωναῖε</placeName>:
@@ -36,42 +36,51 @@
               ὑπο τοῦ <choice><abbr>ουνου</abbr><expan>ουράνου</expan></choice> συνέχεται· τίς δὲ ἐστιν ὁ τοῦ <placeName n="urn:cite2:hmt:place:place4">Δωδωναίου</placeName>
               <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> λόγος καὶ τῶν τόπων ἐξ ὧν αὐτὸς ἐπικαλεῖται οὕτως· <persName n="urn:cite2:hmt:pers:pers100">Δευκαλίων</persName>
               μετα τὸν επ αυτοῦ γενόμενον κατα κλυσμὸν παραγενόμενος εἰς τὴν ἤπειρον ἐμαντεύετο ἔπι τῆι δρυΐ πελειάδος δὲ χρησμὸν αὐτῶι δούσης κατοικίζει τὸν τόπον συνθροίσας
-              τοὺς περλειφθέντας ἀπο τοῦ κατακλυσμοῦ καὶ ἀπο τοῦ <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> καὶ <persName>Δωδώνης</persName>
+              τοὺς περλειφθέντας ἀπο τοῦ κατακλυσμοῦ καὶ ἀπο τοῦ <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> καὶ <persName n="urn:cite2:hmt:pers:pers1151">Δωδώνης</persName>
               μιᾶς τῶν <choice><sic> Ὠκεανίδων</sic><corr>Ὠκεανιδῶν</corr></choice> <rs type="waw"><placeName n="urn:cite2:hmt:place:place4">ΔωΔώνην</placeName></rs>
-              τὴν χώραν προσηγόρευσεν ἡ ϊστορία παρὰ Θρασυβουλῳ καὶ Ἀκεστοδώρῳ</p>
+              τὴν χώραν προσηγόρευσεν ἡ ϊστορία παρὰ <persName>Θρασυβουλῳ</persName> καὶ <persName>Ἀκεστοδώρῳ</persName> ⁑</p>
             </div>
           </div>
           <div n="210v2" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>Πελασγικε:</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.233</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>Πελασγία πρότερον ἡ <placeName n="urn:cite2:hmt:place:place2">Θεσσαλία</placeName> ἐκαλεῖτο ἐξ οῦ θαυμαστὸς καὶ ὑπο <rs type="ethnic" n="urn:cite2:hmt:pers:pers433">Πελασγῶν</rs> τιμώμενος.
+              ἐπεὶ <rs type="ethnic" n="urn:cite2:hmt:pers:pers433">Πελασγοὶ</rs> κατῳκουν τὴν <placeName n="urn:cite2:hmt:place:place4">Δωδώνην</placeName> ἐκβληθέντες ἀπο <placeName n="urn:cite2:hmt:place:place30">Βοιωτίας</placeName>
+              ὑπὸ <rs type="ethnic" n="urn:cite2:hmt:pers:pers205">Αἰολέων</rs> ⁑</p>
             </div>
           </div>
           <div n="210v3" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>Δωδώνης μεδέων</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.234</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>προσ τὸ τῆς γραφῆς ἀμφίβολον· οἱ μὲν γὰρ <rs type="waw"><rs type="ethnic" n="urn:cite2:hmt:place:place368">Σελλούς</rs></rs> οἱ δὲ <rs type="waw">Ἐλλούς</rs> ἐξεδέξαντο.
+              δεῖ δὲ νοεῖν ὡς ἐστιν ἐκ πλήρους <rs type="waw"><rs type="ethnic" n="urn:cite2:hmt:place:place368">Σελλοί</rs></rs>·
+            καὶ γὰρ ὁ συνορίζων τοῖς τόποις ποταμὸς <placeName n="urn:cite2:hmt:place:place257">Σελλήεις</placeName> ἀφ οὗ εἰκὸς τοὺς παροίκους <rs type="waw"><rs type="ethnic" n="urn:cite2:hmt:place:place368">Σελλους</rs></rs> καλεῖσθαι ⁑ </p>
             </div>
           </div>
           <div n="210v4" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>ἀμφι δε Σελλοὶ.</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.235</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>ὁ μὲν Πίνδαρος Ἐλλοὺς αὐτοὺς οἵεται δεῖ δὲ ἀπο τοῦ <rs type="waw">σ</rs> ἄρχεσθαι τὴν λέξιν ἀπο Σελλήεντος ποταμοῦ,
+              ὀξύνεται δὲ τὸ ὄνομα. τὰ γὰρ εὶς <rs type="waw">λος</rs> ἑτέρῳ <rs type="waw">λ</rs> παραληγόμενα οὗ τὸ <rs type="waw">α</rs>
+            μὴ προηγεῖται ὀξύνεται <rs type="waw">κιλλός</rs> εἶδος χρώματος ἐν <title>Στεφανοπολίσιν</title> <persName n="urn:cite2:hmt:pers:pers1107">Εὐβούλου</persName>
+            <cit><ref>urn:cts:greekLit:tlg0458.tlg001:103</ref><q>εὐχρών τι κιλλὼν μανθάνεις θεριστριον</q></cit> <rs type="waw">πολλός</rs>, <rs type="waw">κυλλός</rs>, <rs type="waw">ἐλλός</rs> ἠ
+            <rs type="waw">σελλός</rs> <q>ἀμφι δὲ σελλοί</q>. <rs type="waw">σκελλός</rs>, <rs type="waw">φελλός</rs> τὸ προσηγορικόν.
+          </p>
             </div>
           </div>
           <div n="210v5" type="scholion">

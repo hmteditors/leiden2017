@@ -4,9 +4,9 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Main Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Philip Muijtjens</editor>
+        <editor>Leonie Henkes</editor>
+        <editor>Marloes Velthuisen</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -23,13 +23,15 @@
 <!-- Please put this comment line at the point you stopped and specify your progress. -->
           <div n="213r1" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>ὡς δε λύκοι ἄρνεσιν ἐπεχραον</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.352</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>ὅτ ἄν ἐνὸς ἔφοδον δηλῶσαι <choice><sic>θέλει</sic><corr>θέληι</corr></choice>, λἐοντα εἰς τὴν εἰκὸνα παραλαμβάνει, <cit><ref type="urn">urn:cts:greeklit:tlg001:15.634</ref><q>ἤτοι ὁ μὲν
+            πρώτεσσι βόεσσι</q></cit> νῦν δὲ τὴν τοῦ πλήθους ἔφοδον ἐμφῆναι <choice><sic>βουληθείς</sic><corr>βουληθεὶς</corr></choice>
+          , τὰ ἀγεληδὸν ἐφορμῶντα ζὼα. παρέλαβε τοὺς λύκους⁑</p>
             </div>
           </div>
         </body>
