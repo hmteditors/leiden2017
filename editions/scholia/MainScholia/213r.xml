@@ -34,6 +34,41 @@
           , τὰ ἀγεληδὸν ἐφορμῶντα ζὼα. παρέλαβε τοὺς λύκους⁑</p>
             </div>
           </div>
+          <div n="213r2" type="scholion">
+            <div type="lemma">
+              <p>ὑπεκ μήλων</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.353</p>
+            </div>
+            <div type="comment">
+              <p>μήλων προβάτων καὶ αἰγῶν ἐν ἄλλοις <cit><ref type="urn">urn:cts:greeklit:tlg002:9.184</ref><q> μῆλ' ὕεστε καὶ αῖγες</q></cit>.
+                πρόβατα πάντα ἐκάλουν τὰ θρέμματα οἱ παλαιοι καὶ <persName n="urn:cite2:hmt:pers:pers326">εὔπολις</persName> προβατικὸν χορὸν φησὶ τὸν ἐξ αιγῶν⁑</p>
+            </div>
+          </div>
+          <div n="213r3" type="scholion">
+            <div type="lemma">
+              <p>ποιμένος ἀφραδίηισι διέτμαγεν</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.354</p>
+            </div>
+            <div type="comment">
+              <p>ἡ διπλῆ, ὅτι οὕτως δεῖ γράφειν <rs type="waw">διετμαγεν</rs> ὡς κόσμηθεν ἵν' ηἶ <rs type="waw">διετμάγησαν</rs>
+            παθητικῶς. τὸ γὰρ <rs type="waw">διἐτμαγον</rs> ἐνεργητικόν ἐστιν⁑</p>
+            </div>
+          </div>
+          <div n="213r3" type="scholion">
+            <div type="lemma">
+              <p><persName n="urn:cite2:hmt:pers:pers127">αἴας</persName> δ' ὁ μέγας</p>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.358</p>
+            </div>
+            <div type="comment">
+              <p>ἡ διπλῆ, ὅτι συγκριτικῶς λέγεται πρὸσ τὸν ἕτερον <persName n="urn:cite2:hmt:pers:pers150">αἴαντα</persName> ὁ μέγας
+                ὁ <persName n="urn:cite2:hmt:pers:pers127">τελαμώνιος</persName> ἐπεὶ εκεῖνος μείων⁑</p>
+            </div>
+          </div>
         </body>
       </text>
     </group>
