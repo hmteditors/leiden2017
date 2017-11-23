@@ -58,7 +58,7 @@
             παθητικῶς. τὸ γὰρ <rs type="waw">διἐτμαγον</rs> ἐνεργητικόν ἐστιν⁑</p>
             </div>
           </div>
-          <div n="213r3" type="scholion">
+          <div n="213r4" type="scholion">
             <div type="lemma">
               <p><persName n="urn:cite2:hmt:pers:pers127">αἴας</persName> δ' ὁ μέγας</p>
             <div type="ref">
@@ -67,6 +67,40 @@
             <div type="comment">
               <p>ἡ διπλῆ, ὅτι συγκριτικῶς λέγεται πρὸσ τὸν ἕτερον <persName n="urn:cite2:hmt:pers:pers150">αἴαντα</persName> ὁ μέγας
                 ὁ <persName n="urn:cite2:hmt:pers:pers127">τελαμώνιος</persName> ἐπεὶ εκεῖνος μείων⁑</p>
+            </div>
+          </div>
+          <div n="213r5" type="scholion">
+            <div type="lemma">
+              <p>σκἐπετ' ὀϊστῶν</p>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.361</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι τὸ <rs type="waw">σκέπτετο</rs> ἴσον τῶι οῖον <rs type="waw">ἀπεσκόπευε</rs>, καὶ <rs type="waw">παρετήρει</rs> εἰσ τὸ <rs type="waw">μὴ <add place="supralinear">μὴ</add> πληγῆναι</rs>⁑</p>
+            </div>
+          </div>
+          <div n="213r6" type="scholion">
+            <div type="lemma">
+              <p>ὡς δ' ὅτ' ἀπ' <placeName n="urn:cite2:hmt:place:place45">οὐλύμπου</placeName></p>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.364</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι σαφῶς οὐκ έστιν <persName n="urn:cite2:hmt:place:place45">ὄλυμπος</persName> καὶ οὐρανὸς ὁ αὐτός. ὡς γὰρ ἀφ ετέρου ἐφ έτερον φησὶ <choice><sic>ν</sic><corr>τὸ</corr></choice> νέφος ἔρχεσθαι,
+                οὐδἐ μιν τὀπος ἐπούρανιος ὁ γὰρ <persName n="urn:cite2:hmt:pers:pers17">ὅμηρος</persName> ἀπο τῶν γινωσκομένων πᾶσι ποιεῖται τὰς ὁμοιώσεις. καταλείπεται τοίνυν τὸ ὄρος σημαίνεσθαι
+                καὶ γὰρ ἀπο τῶν ορῶν λέγει τὰ συνεστῶτα νέφη μεταχωρεῖν. ὡς δ' ὁτ' ἀφ' ὑψηλῆς κορυφῆς ὄρεος μεγάλοιο κινήσηι πυκινὸν νένος· τοι γαρ οὖν καὶ ὅταν λέγει
+                ὡς δ' ὅτ' ἀπ' <persName n="urn:cite2:hmt:place:place45">οὐλυμποιο</persName> νἐφος ἔρχεται ἀπο οὐρους σημαίνει⁑</p>
+            </div>
+          </div>
+          <div n="213r7" type="scholion">
+            <div type="lemma">
+              <p>αἰθέροι ἐκ δίης</p>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.365</p>
+            </div>
+            <div type="comment">
+              <p>τοῦτο ἑκατέροις δύναται προςδίδοσθαι τὸ μέντοι ζήτημα ὁμοίως μἐνει ἀέρος γὰρ πάθη ταῦτα·
+                τάχα οὖν κεῖται ὁ αἰθὴρ αντι τοῦ ἀερός⁑</p>
             </div>
           </div>
         </body>
