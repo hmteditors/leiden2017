@@ -132,18 +132,20 @@
               <p>urn:cts:greekLit:tlg0012.tlg001:16.236</p>
             </div>
             <div type="comment">
-              <p>ἡ διπλῆ, ὅτι οὐ προσυνέσταται περι τῆς </p>
+              <p>ἡ διπλῆ, ὅτι οὐ προσυνέσταται περι τῆς <rs type="ethnic" n="urn:cite2:hmt:place:place96">τῶν Ἀχαιῶν</rs> κακῶσεως εὐχόμενος,
+              οὐδε κατ ευχὴν τετίμηνται ἀλλα δια τὰς <persName n="urn:cite2:hmt:pers:pers19">τῆς Θέτιδος</persName> λιτάς.
+              διὸ ἀθετητέον τὸν ἑξῆς <rs type="waw">τίμησας μὲν ἐμὲ</rs> καθολικῶς γὰρ λέγει καὶ οὐκ αφωρισμένον ἀναφέρει καιρὸν τὸν τῆς μήνιδος ⁑ </p>
             </div>
           </div>
-          <div n="210v#" type="scholion">
+          <div n="210v9" type="scholion">
             <div type="lemma">
-              <p>#</p>
+              <p>τιμήσας μὲν ἐμε:</p>
             </div>
             <div type="ref">
-              <p>#</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.237</p>
             </div>
             <div type="comment">
-              <p>#</p>
+              <p>ὁ μὲν ὀβελὸς, προς τὴν προειρημένην ἀθέτησιν. ὁ </p>
             </div>
           </div>
           <div n="210v#" type="scholion">
