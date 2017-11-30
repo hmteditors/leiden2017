@@ -61,6 +61,7 @@
           <div n="213r4" type="scholion">
             <div type="lemma">
               <p><persName n="urn:cite2:hmt:pers:pers127">αἴας</persName> δ' ὁ μέγας</p>
+</div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.358</p>
             </div>
@@ -72,6 +73,7 @@
           <div n="213r5" type="scholion">
             <div type="lemma">
               <p>σκἐπετ' ὀϊστῶν</p>
+</div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.361</p>
             </div>
@@ -82,25 +84,54 @@
           <div n="213r6" type="scholion">
             <div type="lemma">
               <p>ὡς δ' ὅτ' ἀπ' <placeName n="urn:cite2:hmt:place:place45">οὐλύμπου</placeName></p>
+</div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.364</p>
             </div>
             <div type="comment">
-              <p>ὅτι σαφῶς οὐκ έστιν <persName n="urn:cite2:hmt:place:place45">ὄλυμπος</persName> καὶ οὐρανὸς ὁ αὐτός. ὡς γὰρ ἀφ ετέρου ἐφ έτερον φησὶ <choice><sic>ν</sic><corr>τὸ</corr></choice> νέφος ἔρχεσθαι,
+              <p>ὅτι σαφῶς οὐκ έστιν <placeName n="urn:cite2:hmt:place:place45">ὄλυμπος</placeName> καὶ οὐρανὸς ὁ αὐτός. ὡς γὰρ ἀφ ετέρου ἐφ έτερον φησὶ <choice><sic>ν</sic><corr>τὸ</corr></choice> νέφος ἔρχεσθαι,
                 οὐδἐ μιν τὀπος ἐπούρανιος ὁ γὰρ <persName n="urn:cite2:hmt:pers:pers17">ὅμηρος</persName> ἀπο τῶν γινωσκομένων πᾶσι ποιεῖται τὰς ὁμοιώσεις. καταλείπεται τοίνυν τὸ ὄρος σημαίνεσθαι
                 καὶ γὰρ ἀπο τῶν ορῶν λέγει τὰ συνεστῶτα νέφη μεταχωρεῖν. ὡς δ' ὁτ' ἀφ' ὑψηλῆς κορυφῆς ὄρεος μεγάλοιο κινήσηι πυκινὸν νένος· τοι γαρ οὖν καὶ ὅταν λέγει
-                ὡς δ' ὅτ' ἀπ' <persName n="urn:cite2:hmt:place:place45">οὐλυμποιο</persName> νἐφος ἔρχεται ἀπο οὐρους σημαίνει⁑</p>
+                ὡς δ' ὅτ' ἀπ' <placeName n="urn:cite2:hmt:place:place45">οὐλυμποιο</placeName> νἐφος ἔρχεται ἀπο οὐρους σημαίνει⁑</p>
             </div>
           </div>
           <div n="213r7" type="scholion">
             <div type="lemma">
               <p>αἰθέροι ἐκ δίης</p>
+</div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.365</p>
             </div>
             <div type="comment">
               <p>τοῦτο ἑκατέροις δύναται προςδίδοσθαι τὸ μέντοι ζήτημα ὁμοίως μἐνει ἀέρος γὰρ πάθη ταῦτα·
                 τάχα οὖν κεῖται ὁ αἰθὴρ αντι τοῦ ἀερός⁑</p>
+            </div>
+          </div>
+          <div n="213r8" type="scholion">
+            <div type="lemma">
+              <p>αἰθέρος ἐκ δίης</p>
+</div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.365</p>
+            </div>
+            <div type="comment">
+              <p>πῶς αἰθέρος τὰ γὰρ πάθη ταῦτα περι τὸν αέρα συμβέβηκε τάχα οὖν συγχεῖται
+                ὁ ἀήρ πρὸς τὸν αἰθέρα ὡς καὶ ἐν τῆι <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001.msA:11">λ</ref></title>
+                 <cit><ref type="urn">urn:cts:greeklit:tlg002:11.54</ref><q>αἵματι μυδαλέας ἐξ αιθέρος</q></cit> καὶ
+                 <cit><ref type="urn">urn:cts:greeklit:tlg002:15.192</ref><q><persName n="urn:cite2:hmt:pers:pers8">ζεὺς</persName> δ' ἔλαχεν
+                οὐρανὸν εὐρὺν ἐν αἰθέρι καὶ νεφέεσσιν</q></cit> οὐ γὰρ αἱ νεφέλαι ἐν τῶι αἰθέρι⁑</p>
+            </div>
+          </div>
+          <div n="213r9" type="scholion">
+            <div type="lemma">
+              <p>ἄξαντ' ἐν πρώτωι ῥυμῶι</p>
+</div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.371</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι ἀντὶ τού <rs type="waw">ἄκρωι</rs> καὶ οὐχ ὡς δευτέρου ὄντος ῥυμοῦ εἷς γὰρ ἐστι·
+                 <cit><ref type="urn">urn:cts:greeklit:tlg002:8.411</ref><q>πρώτηισιν δὲ πύληισιν</q></cit> ἀντι τοῦ <rs type="waw">ἄκραις</rs>⁑</p>
             </div>
           </div>
         </body>
