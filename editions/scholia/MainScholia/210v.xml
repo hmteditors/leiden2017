@@ -145,18 +145,22 @@
               <p>urn:cts:greekLit:tlg0012.tlg001:16.237</p>
             </div>
             <div type="comment">
-              <p>ὁ μὲν ὀβελὸς, προς τὴν προειρημένην ἀθέτησιν. ὁ </p>
+              <p>ὁ μὲν ὀβελὸς, προς τὴν προειρημένην ἀθέτησιν. ὁ δε ἀστερίσκος ὅτι εκ τῆς <persName n="urn:cite2:hmt:pers:pers44">τοῦ Χρυσου</persName> εὐχῆς μετενήνεκται ⁑</p>
             </div>
           </div>
-          <div n="210v#" type="scholion">
+          <div n="210v10" type="scholion">
             <div type="lemma">
-              <p>#</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.243</p>
             </div>
             <div type="ref">
-              <p>#</p>
+              <p>εἴσεται ῆ ρα καὶ οἷος:</p>
             </div>
             <div type="comment">
-              <p>#</p>
+              <p>ἡ διπολῆ ὅτι <persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName> γράφει <rs type="waw">ἐπιστέαται</rs>·
+                ἀγνοεῖ δὲ ὅτι τὰ τοιαῦτα ῥήματα <choice><sic>πληθυντικὰ</sic><corr>πληθυντικά</corr></choice> ἐστι καὶ νῦν
+                ἀναλογον ἕξει τὸ <rs type="waw">ἐπιστέαται</rs> τῷ <rs type="waw">ἐπίστανται</rs> ὅπερ οὐ συμφωνεῖ.
+                ὅτι οὖν ἀντὶ τοῦ <rs type="waw">ἐπίσταται</rs> καὶ μετείληπται τὸ <rs type="waw">α</rs> εἰς τὸ <rs type="waw">η</rs> ⁑
+              </p>
             </div>
           </div>
           <div n="210v#" type="scholion">
