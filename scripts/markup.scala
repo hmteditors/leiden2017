@@ -59,7 +59,8 @@ object Markup {
     for(rs <- rsMatches){
       if((rs \ "@type") != "waw"){
         var urn = rs \ "@n";
-        var lookup = findPlace(urn.text)
+        var lookup = findPlace(urn.text);
+		if(lookup == "No Match") lookup = findPerson(urn.text);
         report.append("|" + rs.text + " | " + (rs \ "@n") + "|" + getName(lookup) +  "|" + getDesc(lookup) + "\n")
       }
     }
