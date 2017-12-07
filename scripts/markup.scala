@@ -57,6 +57,7 @@ object Markup {
     //Enumerate every rs
     startNewTable("RS (Ethnic)", report)
     for(rs <- rsMatches){
+      if((rs \ "@type") == "waw") continue;
       var urn = rs \ "@n"
       var lookup = findPlace(urn.text)
       report.append("|" + rs.text + " | " + (rs \ "@n") + "|" + getName(lookup) +  "|" + getDesc(lookup) + "\n")
