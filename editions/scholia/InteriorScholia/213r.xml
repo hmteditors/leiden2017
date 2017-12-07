@@ -4,9 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Interior Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Marloes Velthuisen</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -25,10 +23,21 @@
               <p></p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.352</p>
             </div>
             <div type="comment">
+              <p>βραχὺ διασταλτἐον <rs type="ethnic" n="urn:cite2:hmt:pers:pers66">δαναοὶ</rs> διὰ τὸ ἀπεμφαινον</p>
+            </div>
+          </div>
+          <div n="213r2" type="scholion">
+            <div type="lemma">
               <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.372</p>
+            </div>
+            <div type="comment">
+              <p>οὕτως ὡς σφοδρὸν προεἰρηται</p>
             </div>
           </div>
         </body>
