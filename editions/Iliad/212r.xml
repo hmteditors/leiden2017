@@ -22,27 +22,27 @@
   <text>
     <body>
       <div n="16">
-        <l n="301">ὡς <rs type="ethnic" n="urn:cite2:hmt:pers.pers66">Δαναοὶ</rs>. νηῶν μὲν ἀπωσάμενοι δήϊον πῦρ.</l>
+        <l n="301">ὡς <rs type="ethnic" n="urn:cite2:hmt:pers:pers66">Δαναοὶ</rs>. νηῶν μὲν ἀπωσάμενοι δήϊον πῦρ.</l>
         <l n="302">τυτθὸν ἀνέπνευσαν. πολέμου δ’ οὐ γίνετ’ ἐρωή·</l>
-        <l n="303">οὐ γάρ πώ τι <placeName n="urn:cite2:hmt:place.place6">Τρῶες</placeName> ἀρηϊφίλων ὑπ’ <placeName n="urn:cite2:hmt:place.place96">Ἀχαιῶν</placeName></l>
+        <l n="303">οὐ γάρ πώ τι <placeName n="urn:cite2:hmt:place:place6">Τρῶες</placeName> ἀρηϊφίλων ὑπ’ <placeName n="urn:cite2:hmt:place:place96">Ἀχαιῶν</placeName></l>
         <l n="304">προτροπάδην φοβέοντο μελαινάων ἀπὸ νηῶν.</l>
         <l n="305">ἂλλ’ ἔτ’ ἂρ, ἀνθίσταντο, νεῶν δ’ ὑποεῖκον ἀνάγκῃ·</l>
         <l n="306">Ἔνθα δ’ ἀνὴρ ἕλεν ἄνδρα κεδασθείσης ὑσμίνης.</l>
-        <l n="307">ἡγεμόνων. πρῶτος δὲ <persName n="urn:cite2:hmt:pers.pers504">Μενοιτίου</persName> ἄλκιμος υἱὸς</l>
-        <l n="308">αὐτίκ’ άρα στρεφθέντος <persName n="urn:cite2:hmt:pers.pers910">Ἀρηϊλύκου</persName> βάλε μηρὸν</l>
+        <l n="307">ἡγεμόνων. πρῶτος δὲ <persName n="urn:cite2:hmt:pers:pers504">Μενοιτίου</persName> ἄλκιμος υἱὸς</l>
+        <l n="308">αὐτίκ’ άρα στρεφθέντος <persName n="urn:cite2:hmt:pers:pers910">Ἀρηϊλύκου</persName> βάλε μηρὸν</l>
         <l n="309">ἔγχεϊ ὀξυόεντι. δια πρὸ δὲ χαλκὸν ἔλασσε·</l>
         <l n="310">ῥῆξεν δ’ ὀστέον ἔγχος, ὁ δὲ πρηνὴς ἐπὶ γαίηϛ</l>
-        <l n="311">κάππεσ’· ἀτὰρ <persName n="urn:cite2:hmt:pers.pers119">Μενέλαος</persName> ἀρήϊος οῦτα <persName n="urn:cite2:hmt:pers.pers222">Θόαντα</persName></l>
+        <l n="311">κάππεσ’· ἀτὰρ <persName n="urn:cite2:hmt:pers:pers119">Μενέλαος</persName> ἀρήϊος οῦτα <persName n="urn:cite2:hmt:pers:pers222">Θόαντα</persName></l>
         <l n="312">στέρνον γυμνωθέντα παρ’, ἀσπίδα· λῦσε δὲ γυῖα·</l>
-        <l n="313"><persName n="urn:cite2:hmt:pers.pers469">Φυλείδης</persName> δ’ Ἄμφικλον ἐφορμηθέντα δοκεύσας</l> <!-- Amphiclon missing in auth list -->
+        <l n="313"><persName n="urn:cite2:hmt:pers:pers469">Φυλείδης</persName> δ’ Ἄμφικλον ἐφορμηθέντα δοκεύσας</l> <!-- Amphiclon missing in auth list -->
         <l n="314">έφθη ὀρεξάμενος πρυμνὸν σκέλος, ἔνθα πάχιστος</l>
         <l n="315">μυιὼν ἀνθρώπου πέλεται· περὶ δ’ ἔγχεος αἰχμῇ</l>
         <l n="316">νεῦρα διεσχίσθη. τὸν δὲ σκότος ὄσσε κάλυψε.</l>
-        <l n="317"><persName n="urn:cite2:hmt:pers.pers117">Νεστορίδαι</persName> δ’, ὁ μὲν ούτασ’ Ἀτύμνιον ὀξέϊ δουρὶ</l> <!-- Atymnius missing in auth list -->
-        <l n="318"><persName n="urn:cite2:hmt:pers.pers712">Ἀντίλοχος</persName>, λαπάρης δὲ διήλασε χάλκεον ἔγχος.</l>
+        <l n="317"><persName n="urn:cite2:hmt:pers:pers117">Νεστορίδαι</persName> δ’, ὁ μὲν ούτασ’ Ἀτύμνιον ὀξέϊ δουρὶ</l> <!-- Atymnius missing in auth list -->
+        <l n="318"><persName n="urn:cite2:hmt:pers:pers712">Ἀντίλοχος</persName>, λαπάρης δὲ διήλασε χάλκεον ἔγχος.</l>
         <l n="319">ήριπε δὲ προπάροιθε, Μάρις δ’ αὐτοσχεδὰ δουρὶ</l> <!-- Maris missing in auth list -->
-        <l n="320"><persName n="urn:cite2:hmt:pers.pers712">Ἀντιλόχῳ</persName> ἐπόρουσε κασιγνήτοιο χολωθεὶς.</l>
-        <l n="321">στὰς πρόσθεν νέκυος, τοῦ δ’ ἀντίθεος <persName n="urn:cite2:hmt:pers.pers880">Θρασυμήδης</persName></l>
+        <l n="320"><persName n="urn:cite2:hmt:pers:pers712">Ἀντιλόχῳ</persName> ἐπόρουσε κασιγνήτοιο χολωθεὶς.</l>
+        <l n="321">στὰς πρόσθεν νέκυος, τοῦ δ’ ἀντίθεος <persName n="urn:cite2:hmt:pers:pers880">Θρασυμήδης</persName></l>
         <l n="322">ἔφθη ὀρεξάμενος πρὶν ουτάσαι, οὐδ’ ἀφάμαρτεν.</l>
         <l n="323">ὦμον ἄφαρ· πρυμνὸν δὲ βραχίονα δουρὸς ἀκωκὴ</l>
         <l n="324">δρύψ’ ἀπὸ μυιώνων. ἀπο δ’ ὀστέον ἄχρις ἄραξε·</l>
