@@ -6,7 +6,6 @@
         <title>Venetus A Main Scholia</title>
         <editor>Ineke Sluiter</editor>
         <editor>Tazuko van Berkel</editor>
-        <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -20,7 +19,6 @@
     <group n="16">
       <text n="msA">
         <body>
-<!-- done!-->
           <div n="210r1" type="scholion">
             <div type="lemma">
               <p>πανθ' ὑπομηνιθμὸν:</p>
@@ -101,6 +99,7 @@
               <p><rs type="waw">ούλων</rs> ὡς <rs type="waw">δούλων</rs>· προείρηται δὲ ἡμῖν τὰ τῆς ἀναλογίας  </p>
             </div>
           </div>
+<!-- Finished. -->
         </body>
       </text>
     </group>
