@@ -4,6 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Exterior Scholia</title>
+        <editor>Bart Bijvoets</editor>
         <editor>Suzan Boreel</editor>
       </titleStmt>
       <publicationStmt>
@@ -23,12 +24,13 @@
               <p></p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.160</p>
             </div>
             <div type="comment">
               <p><unclear>ΐασιν</unclear></p>
             </div>
           </div>
+<!-- Finished. One exterior on this folio.-->
         </body>
       </text>
     </group>
