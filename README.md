@@ -94,7 +94,7 @@ Dus:
 * http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio; it is recommended to have the Venetus A and the Comparetti open in adjacent tabs, *especially* when working on the exterior scholia)
 * http://interwing.nl/hmt/ (urn image citation tool)
 * https://homermultitext.slack.com (to contact Neel or Stephanie)
-* https://en.wikipedia.org/wiki/Greek_Extended (Unicode tabel voor Griekse klinkers mét diacritische tekens)
+* https://en.wikipedia.org/wiki/Greek_Extended (Unicode table for polytonic Greek with diacritics)
 * http://www.typegreek.com/
 
 **NB**: Also have a look at the files in `writing/`

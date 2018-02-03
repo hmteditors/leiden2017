@@ -1,9 +1,9 @@
-https://github.com/hmteditors/leiden/
+https://github.com/hmteditors/leiden2017/13/
 README.md
 
 **This is the working directory of the Leiden sub-group of the Homer Multitext Project.**
 
-#Leiden
+# Leiden
 
 Editing HMT material at Leiden University
 
