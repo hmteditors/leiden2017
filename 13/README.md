@@ -9,18 +9,6 @@ Editing HMT material at Leiden University
 
 **Finished:** *Iliad* 13 in the Venetus A: folios 164 recto - 169 recto (inclusive)
 
-## Table of contents
-
-* [Leiden HMT project contributors (past and present)](https://github.com/hmteditors/leiden#leiden-hmt-project-contributors-past-and-present)
-* [What is there on a folio?](https://github.com/hmteditors/leiden#what-is-there-on-a-folio)
-* [What ought to be done to complete a folio?](https://github.com/hmteditors/leiden#what-ought-to-be-done-to-complete-a-folio)
-* [Which files ought to be edited?](https://github.com/hmteditors/leiden#which-files-ought-to-be-edited)
-* [Which lines are there on each folio?](https://github.com/hmteditors/leiden#which-lines-are-there-on-each-folio)
-* [Progress](https://github.com/hmteditors/leiden#progress)
-* [Problems?](https://github.com/hmteditors/leiden#problems)
-* [Basic infrastructure for working with digital representations of manuscripts](https://github.com/hmteditors/leiden#basic-infrastructure-for-working-with-digital-representations-of-manuscripts)
-* [Useful links for editing](https://github.com/hmteditors/leiden#useful-links-for-editing)
-
 ## Leiden HMT project contributors (past and present)
 
 * Alex van Eldik
