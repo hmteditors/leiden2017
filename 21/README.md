@@ -1,4 +1,4 @@
-https://github.com/hmteditors/leiden2017/
+https://github.com/hmteditors/leiden2017/21/
 README.md
 
 **This is the working directory of the Leiden sub-group of the Homer Multitext Project.**
@@ -6,16 +6,6 @@ README.md
 # Leiden2017
 
 Repository for HMT editing by Homer's Angels in spring 2017
-
-## Table of contents
-* [Leiden HMT project contributors (past and present)](https://github.com/hmteditors/leiden2017#leiden-hmt-project-contributors-past-and-present)
-* [What is there on a folio?](https://github.com/hmteditors/leiden2017#what-is-there-on-a-folio)
-* [What ought to be done to complete a folio?](https://github.com/hmteditors/leiden2017#what-ought-to-be-done-to-complete-a-folio)
-* [Which files ought to be edited?](https://github.com/hmteditors/leiden2017#which-files-ought-to-be-edited)
-* [Which lines are there on each folio?](https://github.com/hmteditors/leiden2017#which-lines-are-there-on-each-folio)
-* [Progress](https://github.com/hmteditors/leiden2017#progress)
-* [Problems?](https://github.com/hmteditors/leiden2017#problems)
-* [Useful links for editing](https://github.com/hmteditors/leiden2017#useful-links-for-editing)
 
 ## Leiden HMT project contributors (past and present)
 

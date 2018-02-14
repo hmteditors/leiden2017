@@ -4,9 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Main Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Philip Muijtjens</editor>
+        <editor>Assumpta Becude</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -23,13 +22,68 @@
 <!-- Please put this comment line at the point you stopped and specify your progress. -->
           <div n="214v1" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>οἱ δ᾿ὥστ᾿ αἰγυπίοι γαμψώνυχεσ</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.428</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>ὀυ γὰρ ἀφανῶς συμβάλλει τὰ ζῷα ταῦτα ες μάχην φησὶ γοὖν καὶ ἀλεχανδρος ὁ μυνδιος μετα βοῆς ἐπι πετρῶν ταύτα μάχεσθαι ⁑</p>
+            </div>
+          </div>
+          <div n="214v2" type="scholion">
+            <div type="lemma">
+              <p>ὡς ει κεκληγόντες</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.430</p>
+            </div>
+            <div type="comment">
+              <p>ὡς λἐγοντἐς ἀπο ευθεἰας ἐνικῆς τῆς εἰς <rs type="waw">ν</rs> κεκλἠγων ἔθος δὲ τῳ  ποιητῃ οὕτως σχηματἰζειν ⁑</p>
+            </div>
+          </div>
+          <div n="214v3" type="scholion">
+            <div type="lemma">
+              <p>ἤρην δἐ προσἐειπεν</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.432</p>
+            </div>
+            <div type="comment">
+              <p>ὁτι ζηνὀδοτος καθὀλου περιγρἀφει <rs type="waw">τ</rs> ομιλἰαν <rs type="waw">τ</rs> διὸς καὶ τῆς ἥρας οὐκ αισθὀμενος ὁὀτι πολλὰ κατα σθμπἐρασμα λἐγει ὁ ποιητης σιωπωμἐνος γεγονὀτα καὶ οὐ δἐον επιζητεῖν πῶς ἐι μικρον ἔμπροσθεν ἐπι τὸν ὀλυμπον παρακεχωρηκυῖα, νῦν ἐπι της ἴδης ἐστιν</p>
+            </div>
+          </div>
+          <div n="214v4" type="scholion">
+            <div type="lemma">
+              <p>ἤ μιν ζωὸν ἐόντα</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.436</p>
+            </div>
+            <div type="comment">
+              <p>τὸ μὲν πρῶτον ῆ ὀξυτον ητἐον· τὸν δὲ δεὐτερον περισπαστἐον ἠ ἠδη χεἰρεσσιν ⁑</p>
+            </div>
+          </div>
+          <div n="214v5" type="scholion">
+            <div type="lemma">
+              <p>αἴ κε ζῶν</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.445</p>
+            </div>
+            <div type="comment">
+              <p>οὑτως ζὼν αἱ ἀρισταρχου ἀπ'ἐυθεἰας της ζὼς τὸν ζὼν ἐφἰηκε ζὼς ἀμεμηνὸς ἔα ⁑</p>
+            </div>
+          </div>
+          <div n="214v6" type="scholion">
+            <div type="lemma">
+              <p>ὃν δὲ δόμον δὲ</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.445</p>
+            </div>
+            <div type="comment">
+              <p>τὸ ὄνδε εἴτε ἔιχε παρέλκοντα τὸνδὲ σύνδεσμον, εἴτε ὅμοιο ἐστι τὸ οἶκον δὲ ἀντι του εἰς οἰκον, πάλιν ἐν τῇ συντάξει βαρυτονηθήσεται ὡς ἐν τῷ αγρὸνδὲ προΐαλλε ὥστε περισσὴ ἡ ὀξεία ἐν τῇ ὃν αἱτιατικῇ <choice><abbr>κατ</abbr><expan>κατα</expan></choice> τὴν σύνταξιν ⁑</p>
             </div>
           </div>
         </body>
