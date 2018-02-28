@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>Leonie Henkes</editor>
+        <editor>Bart Bijvoets</editor>
         <editor>Kirsten Haijes</editor>
+        <editor>Leonie Henkes</editor>
       </titleStmt>
       <editionStmt>
         <p>HMT edition</p>
@@ -21,34 +22,33 @@
   <text>
     <body>
       <div n="16">
-        <l n=""></l>
-        Σπερχειῷ ἀκάμαντι. γυνὴ θεῷ εὐνηθεῖσα.
-αὐτὰρ ἐπίκλησιν Βώρῳ Περιήρεος υἷϊ,
-ὅς ῥ’ ἀναφανδὸν όπυιε πορὼν ἀπερείσια ἕδνα·
-τῆς δ’ ἑτέρης Ἔυδωρος ἀρήϊος ἡγεμόνευε.
-παρθένιος. τὸν. ἔτικτε, χορῷ καλὴ Πολυμήλη. (180)
-Φύλαντος θυγάτηρ. τῆς δὲ κρατὺς Ἀργειφόντης
-ἠράσατ’, ὀφθαλμοῖσιν ἰ̈ δὼν μετὰ μελπομένῃσιν
-ἐν χορῷ Ἀρτέμιδος, χρυσηλακάτου, κελαδεινῆς.
-αὐτίκα δ’ εἰς ὑπερῷ’ ἀναβὰς, παρελέξατο λάθρῃ
-Ἑρμείας ἀκάκητα, πόρεν δέ οἱ, ἀγλαὸν υἱὸν (185)
- Ἔυδωρον. περὶ μὲν θείειν ταχὺν. ἠδὲ μαχητήν·
-αὐτὰρ ἐπεὶ δὴ τόν γε μογοστόκος Εἰλείθυια
-ἐξάγαγεν φώως δὲ καὶ ἠελίου ΐδεν αὐγὰς.
-τὴν μὲν Ἐχεκλῆος κρατερὸν μένος Ἀκτορίδαο
-ἠγάγετο πρὸς δώματ’ ἐπεὶ πόρε μυρία ἕδνα. (190)
-τὸν δ’ ὁ γέρων Φύλας, εὖ, ἔτρεφεν. ἠδ’ ἀτίταλλεν.
-ἀμφαγαπαζόμενος ὡς εἴ θ’ ἑὸν υἱὸν ἐόντα·
-τῆς δὲ τρίτης, Πείσανδρος ἀρήϊος ἡγεμόνευε
-Μαιμαλίδης, ὃς πᾶσι μετέπρεπε Μυρμιδόνεσσιν
-ἔγχεϊ μάρνασθαι μετὰ Πηλείωνος ἑταῖρον· (195)
-τῆς δὲ τετάρτης ἦρχε γέρων ἱ¨ππηλάτα Φοῖνιξ
-πέμπτης δ’ Ἀλκιμέδων. Λαέρκεος υἱὸς ἀμύμων.
-αὐτὰρ ἐπει δὴ πάντας ἅμ’ ἡγεμόνεσσιν Ἀχιλλεὺς
-στῆσεν ἔϋ κρίνας κρατερὸν δ’ ἐπὶ μῦθον ἔτελλε.
-Μυρμιδόνες. μή τίς μοι ἀπειλάων λελαθέσθω. (200)
-
+        <l n="176"><persName n="urn:cite2:hmt:pers:pers1148">Σπερχειῷ</persName> ἀκάμαντι· γυνὴ θεῷ εὐνηθεῖσα.</l>
+        <l n="177">αὐτὰρ ἐπίκλησιν <persName n="urn:cite2:hmt:pers:pers834">Βώρῳ</persName> <persName n="urn:cite2:hmt:pers:pers394">Περιήρεος</persName> υἷϊ,</l>
+        <l n="178">ὅς ῥ’ ἀναφανδὸν όπυιε πορὼν ἀπερείσια ἕδνα·</l>
+        <l n="179">τῆς δ’ ἑτέρης <persName n="urn:cite2:hmt:pers:pers">Ἔυδωρος</persName> ἀρήϊος ἡγεμόνευε.</l><!--Eudorus-->
+        <l n="180">παρθένιος. τὸν. ἔτικτε, χορῷ καλὴ <persName n="urn:cite2:hmt:pers:pers">Πολυμήλη</persName>.</l><!--Polymele-->
+        <l n="181"><persName n="urn:cite2:hmt:pers:pers">Φύλαντος</persName> θυγάτηρ. τῆς δὲ κρατὺς <persName n="urn:cite2:hmt:pers:pers">Ἀργειφόντης</persName></l><!--Phylas, Argeiphontes-->
+        <l n="182">ἠράσατ’, ὀφθαλμοῖσιν ἰ̈ δὼν μετὰ μελπομένῃσιν</l>
+        <l n="183">ἐν χορῷ <persName n="urn:cite2:hmt:pers:pers39">Ἀρτέμιδος</persName>, χρυσηλακάτου, κελαδεινῆς.</l>
+        <l n="184">αὐτίκα δ’ εἰς ὑπερῷ’ ἀναβὰς, παρελέξατο λάθρῃ</l>
+        <l n="185"><persName n="urn:cite2:hmt:pers:pers104">Ἑρμείας</persName> ἀκάκητα, πόρεν δέ οἱ, ἀγλαὸν υἱὸν</l>
+        <l n="186"><persName n="urn:cite2:hmt:pers:pers">Ἔυδωρον</persName>. περὶ μὲν θείειν ταχὺν. ἠδὲ μαχητήν·</l><!--Eudorus-->
+        <l n="187">αὐτὰρ ἐπεὶ δὴ τόν γε μογοστόκος <persName n="urn:cite2:hmt:pers:pers499">Εἰλείθυια</persName></l>
+        <l n="188">ἐξάγαγεν φώως δὲ καὶ ἠελίου ΐδεν αὐγὰς.</l>
+        <l n="189">τὴν μὲν <persName n="urn:cite2:hmt:pers:pers">Ἐχεκλῆος</persName> κρατερὸν μένος <persName n="urn:cite2:hmt:pers:pers943">Ἀκτορίδαο</persName></l><!--Echecles-->
+        <l n="190">ἠγάγετο πρὸς δώματ’ ἐπεὶ πόρε μυρία ἕδνα.</l>
+        <l n="191">τὸν δ’ ὁ γέρων <persName n="urn:cite2:hmt:pers:pers">Φύλας</persName>, εὖ, ἔτρεφεν. ἠδ’ ἀτίταλλεν.</l><!--Phylas-->
+        <l n="192">ἀμφαγαπαζόμενος ὡς εἴ θ’ ἑὸν υἱὸν ἐόντα·</l>
+        <l n="193">τῆς δὲ τρίτης, <persName n="urn:cite2:hmt:pers:pers">Πείσανδρος</persName> ἀρήϊος ἡγεμόνευε</l><!--Peisander-->
+        <l n="194"><persName n="urn:cite2:hmt:pers:pers">Μαιμαλίδης</persName>, ὃς πᾶσι μετέπρεπε Μυρμιδόνεσσιν</l><!--Maemalus-->
+        <l n="195">ἔγχεϊ μάρνασθαι μετὰ <persName n="urn:cite2:hmt:pers:pers184">Πηλείωνος</persName> ἑταῖρον·</l>
+        <l n="196">τῆς δὲ τετάρτης ἦρχε γέρων ἱ¨ππηλάτα <persName n="urn:cite2:hmt:pers:pers1032">Φοῖνιξ</persName></l>
+        <l n="197">πέμπτης δ’ <persName n="urn:cite2:hmt:pers:pers218">Ἀλκιμέδων</persName>. <persName n="urn:cite2:hmt:pers:pers1060">Λαέρκεος</persName> υἱὸς ἀμύμων.</l>
+        <l n="198">αὐτὰρ ἐπει δὴ πάντας ἅμ’ ἡγεμόνεσσιν <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεὺς</persName></l>
+        <l n="199">στῆσεν ἔϋ κρίνας κρατερὸν δ’ ἐπὶ μῦθον ἔτελλε.</l>
+        <l n="200">Μυρμιδόνες. μή τίς μοι ἀπειλάων λελαθέσθω.</l>
       </div>
+<!--Eudorus, Polymele, Phylas, Argeiphontes, Echecles, Peisander, and Maemalus have to be added to the persons list. Otherwise finished.-->
     </body>
   </text>
 </TEI>
