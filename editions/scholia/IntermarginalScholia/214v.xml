@@ -37,7 +37,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.445</p>
             </div>
             <div type="comment">
-              <p><choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> ἀρισταρχος μονοσυλλάβως ζῶν ἄλλοι δέ ζωὸν ⁑</p>
+              <p><choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> <persName n="urn:cite2:hmt:pers:pers16">ἀρισταρχος</persName> μονοσυλλάβως ζῶν ἄλλοι δέ ζωὸν ⁑</p>
             </div>
           </div>
           <div n="214v3" type="scholion">
