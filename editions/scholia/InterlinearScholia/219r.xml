@@ -4,9 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Interlinear Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Leonie Henkes</editor>
+        <editor>Kirsten Haijes</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -36,3 +35,4 @@
     </group>
   </text>
 </TEI>
+<!-- No interlinear scholia on this folio-->
