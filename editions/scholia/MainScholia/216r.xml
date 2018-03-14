@@ -40,16 +40,16 @@
             </div>
             <div type="comment">
               <p><choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> <persName n="urn:cite2:hmt:pers:pers16">ἀρίσταρχος</persName> χωρις του ῗ καὶ ἔχοντο οὕτως δια τοῦ χ ⁑</p>
+          </div>
+          <div n="216r3" type="scholion">
+            <div type="lemma">
+              <p>ἱεμένους φοβέεσθαι</p>
             </div>
-            <div n="216r3" type="scholion">
-              <div type="lemma">
-                <p></p>
-              </div>
-              <div type="ref">
-                <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.507</p>
-              </div>
-              <div type="comment">
-                <p> </p>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.507</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι <persName n="urn:cite2:hmt:pers:pers15">ζηνοδότος</persName> γράφει ἐπεὶ λίπον ἀγνοῶν, ὅτι τὸ λίπεν νῦν οὐκ ἐστιν ἑνικον ἀλλα ἀναλογον τὸ ἐλείφθησαν τὰ ἄρματα ὥσπερ κόσμηθεν. καὶ ποιμένος ἀφραδιηισι δίετμαγεν. ἀντι του διετμάγησαν εἴωθε γὰρ τοῖς οὐδετέροις πληθυντικοῖς πληθυντικὰ ῥήματα συντάσσειν ὡς <q>σπάρτα λελύνται</q> ⁑</p>
               </div>
             </div>
           </div>
