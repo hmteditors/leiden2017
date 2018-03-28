@@ -4,9 +4,9 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Odile de Jong</editor>
+        <editor>Leoniek Koster</editor>
+        <editor>Suzan Boreel</editor>
       </titleStmt>
       <editionStmt>
         <p>HMT edition</p>
@@ -48,8 +48,7 @@
         <l n="374">πάσᾱς πλῆσαν ὁδοὺς ἐπεὶ ὰρ τμάγεν· ὕψι δ’ ἀέλλη</l>
         <l n="375">σκίδναθ’ ὑπαὶ νεφέων. τανύοντο δὲ μώνυχες ἵ¨πποι</l>
 
-<!--
--->
+<!-- One issue in line 363, both high and low dot at end of verse -->
       </div>
     </body>
   </text>
