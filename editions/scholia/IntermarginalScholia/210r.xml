@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Intermarginal Scholia</title>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
         <editor>YOUR NAME HERE</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
@@ -25,10 +25,32 @@
               <p></p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.207</p>
             </div>
             <div type="comment">
+              <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> ϊακῶς θαμὰ βαζετε ⁑</p>
+            </div>
+          </div>
+          <div n="210r2" type="scholion">
+            <div type="lemma">
               <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.218</p>
+            </div>
+            <div type="comment">
+              <p>γράφεται <rs type="waw">θωρήσσοντο</rs></p>
+            </div>
+          </div>
+          <div n="210r3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.223</p>
+            </div>
+            <div type="comment">
+              <p><persName n="urn:cite2:hmt:pers:pers15">Ζηνοδοτος</persName> καὶ <persName n="urn:cite2:hmt:pers:pers21">Ἀριστοφανης</persName> <rs type="waw">θῆκ' ἐπι νηὸς ἰόντι</rs>⁑</p>
             </div>
           </div>
         </body>

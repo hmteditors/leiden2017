@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Intermarginal Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Tazuko van Berkel</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -25,10 +25,54 @@
               <p></p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.376</p>
             </div>
             <div type="comment">
+              <p>ἐν αλλῳ <rs type="waw">ἄψορρον προτι άστυ ελιχθέντων ὑπ <rs type="ethnic" n="urn:cite2:hmt:place:place96">Ἀχαιῶν</rs></rs> ⁑</p>
+            </div>
+          </div>
+          <div n="213v2" type="scholion">
+            <div type="lemma">
               <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.379</p>
+            </div>
+            <div type="comment">
+              <p>ουτως <persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> ἄλλοι δὲ <rs type="waw">ἀνεκυμβαλίαζον</rs></p>
+            </div>
+          </div>
+          <div n="213v3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.390</p>
+            </div>
+            <div type="comment">
+              <p>αἱ αποκλίσεις τῶν ὀρῶν ⁑</p>
+            </div>
+          </div>
+          <div n="213v4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.399</p>
+            </div>
+            <div type="comment">
+              <p>ἐν αλλῷ <rs type="waw">βάλε ποιμενα λαῶν</rs></p>
+            </div>
+          </div>
+          <div n="213v5" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.401</p>
+            </div>
+            <div type="comment">
+              <p>ότι ὡς περι αλλον επήνεγκεν ὁ δε <persName>Θέστορα</persName> τοῦ λόγου ὄντος περι τοῦ αὐτοῦ ⁑</p>
             </div>
           </div>
         </body>

@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Intermarginal Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Tazuko van Berkel</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -25,10 +25,33 @@
               <p></p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001:16.140</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p><persName n="urn:cite2:hmt:pers:pers15">Ζηνοδοτος</persName> τουτον ἀθετησας τοὺς ἑξῆς τέσσαρας οὐκ έγραφεν ⁑ </p>
+            </div>
+            <div n="208v2" type="scholion">
+              <div type="lemma">
+                <p></p>
+              </div>
+              <div type="ref">
+                <p>urn:cts:greekLit:tlg0012.tlg001:16.143</p>
+              </div>
+              <div type="comment">
+                <p>τὴν ἐκ μελίης</p>
+              </div>
+            </div>
+            <div n="208v3" type="scholion">
+              <div type="lemma">
+                <p></p>
+              </div>
+              <div type="ref">
+                <p>urn:cts:greekLit:tlg0012.tlg001:16.144</p>
+              </div>
+              <div type="comment">
+                <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> <rs type="waw"><choice><sic>ἐκ</sic><corr>ν</corr></choice>
+              κορυφῇς</rs> δια τοῦ <rs type="waw">ν</rs></p>
+              </div>
             </div>
           </div>
         </body>
