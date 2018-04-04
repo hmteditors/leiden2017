@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Intermarginal Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Tazuko van Berkel</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -20,15 +20,16 @@
     <group n="16">
       <text n="msAim">
         <body>
+          <!-- edited ALL=1 intermarginals on this folio -->
           <div n="218r1" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.625</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>ἐν αλλῳ <rs type="waw">δώιης</rs> ⁑</p>
             </div>
           </div>
         </body>
