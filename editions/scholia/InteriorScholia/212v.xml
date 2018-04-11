@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Interior Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Tazuko van Berkel</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -21,6 +21,7 @@
       <text n="msAint">
         <body>
           <div n="212v1" type="scholion">
+            <!-- no interiors on this folio. -->
             <div type="lemma">
               <p></p>
             </div>
