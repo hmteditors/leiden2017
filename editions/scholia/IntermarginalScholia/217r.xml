@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Intermarginal Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Tazuko van Berkel</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -20,15 +20,49 @@
     <group n="16">
       <text n="msAim">
         <body>
+          <!-- edited ALL intermarginal of this folio. NOTE: indexing might proof complicated! -->
           <div n="217r1" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.556</p>
             </div>
             <div type="comment">
+              <p>τὸ <rs type="waw">ἀμύνεσθαι</rs> </p>
+            </div>
+          </div>
+          <div n="217r2" type="scholion">
+            <div type="lemma">
               <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.556</p>
+            </div>
+            <div type="comment">
+              <p>ἐν αλλῶ <rs type="waw">μενος ἔστω</rs></p>
+            </div>
+          </div>
+          <div n="217r3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.559</p>
+            </div>
+            <div type="comment">
+              <p>λειπει φασὶν αἱ <persName n="urn:cite2:hmt:pers:pers16">Αρισταρχου</persName> τό <rs type="waw">ευ αν έχοι</rs>⁑</p>
+            </div>
+          </div>
+          <div n="217r4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.567</p>
+            </div>
+            <div type="comment">
+              <p>ἀορασίαν</p>
             </div>
           </div>
         </body>
