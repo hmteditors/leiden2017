@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Interlinear Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Tazuko van Berkel</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -20,15 +20,82 @@
     <group n="16">
       <text n="msAil">
         <body>
+          <!-- finished all interlinears on this folio -->
           <div n="215r1" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.456</p>
             </div>
             <div type="comment">
+              <p>θάψουσι</p>
+            </div>
+          </div>
+          <div n="215r2" type="scholion">
+            <div type="lemma">
               <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.459</p>
+            </div>
+            <div type="comment">
+              <p>δρόσους</p>
+            </div>
+          </div>
+          <div n="215r3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.468</p>
+            </div>
+            <div type="comment">
+              <p>αλγῶν ἐκπνέων</p>
+            </div>
+          </div>
+          <div n="215r4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.469</p>
+            </div>
+            <div type="comment">
+              <p>μυκησάμενοι</p>
+            </div>
+          </div>
+          <div n="215r5" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.470</p>
+            </div>
+            <div type="comment">
+              <p>ήχησεν·</p>
+            </div>
+          </div>
+          <div n="215r6" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.471</p>
+            </div>
+            <div type="comment">
+              <p>ὁ ἐξω τοῦ ζυγοῦ ἵππος</p>
+            </div>
+          </div>
+          <div n="215r7" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.476</p>
+            </div>
+            <div type="comment">
+              <p><persName n="urn:cite2:hmt:pers:pers158">Πάτροκλος</persName> καὶ <persName n="urn:cite2:hmt:pers:pers195">Σαρπηδών</persName></p>
             </div>
           </div>
         </body>
