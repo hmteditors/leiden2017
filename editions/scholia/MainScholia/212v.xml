@@ -29,7 +29,51 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.326</p>
             </div>
             <div type="comment">
-              <p>ἡ διπλῆ ὅτι πτῶσις ἤλλακται δοτικῆ ἀντι γενικῆς. καὶ ἡ ὑπό πρόθεσις παρεῖται ἔστι γὰρ ἀντι τοῦ ὡς τὼ μὲν ὑπὸ δοιῶν κασιγνήτων δαμέντε⁑</p>
+              <p>ἡ διπλῆ ὅτι πτῶσις ἤλλακται δοτικῆ ἀντι γενικῆς. καὶ ἡ ὑπό πρόθεσις παρεῖται ἔστι γὰρ ἀντι <rs type="waw">τοῦ ὡς τὼ μὲν ὑπὸ δοιῶν κασιγνήτων </rs>δαμέντε⁑</p>
+            </div>
+          </div>
+          <div n="212v2" type="scholion">
+            <div type="lemma">
+              <p>ἤνβροτον ἀλλήλων μέλεον δ ἠκοντισαν</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.336</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι <rs type="waw">μέλεον</rs> ἀντι <rs type="waw">τοῦ μελέως</rs> ματαίως. καὶ δια παντὸς οὕτως <persName n="urn:cite2:hmt:pers:pers17">Ὅμηρος</persName> χρῆται· οἱδε τραγικοὶ ἐπι <rs type="waw">τοῦ οἴκτρου</rs> καὶ <rs type="waw">τάλανος</rs> καὶ ἡ συνήθεια πρὸς οὕς καὶ ἡ σημείωσις⁑</p>
+            </div>
+          </div>
+          <div n="212v3" type="scholion">
+            <div type="lemma">
+              <p>θεῖνε</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.339</p>
+            </div>
+            <div type="comment">
+              <p>ἀντι <rs type="waw">παρῳχημένου τοῦ ἐπάταξε</rs> ποικίλλει δὲ συνήθως τὰς πληγάς⁑</p>
+            </div>
+          </div>
+          <div n="212v4" type="scholion">
+            <div type="lemma">
+              <p>κιχείς</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.342</p>
+            </div>
+            <div type="comment">
+              <p>απὸ <rs type="waw">τοῦ κίχημι</rs>, ἠ <rs type="waw">τῆς κιχὼν</rs> παθητικὸν ὡς <rs type="waw">τῆς λιπὼν</rs> ἡ <rs type="waw">λιπείς</rs>. <rs type="waw">τῆς ἐριπῶν</rs> ἡ <rs type="waw">εριπείς</rs>⁑</p>
+            </div>
+          </div>
+          <div n="212v5" type="scholion">
+            <div type="lemma">
+              <p>αἵματος ὀφθαλμοὶ</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.349</p>
+            </div>
+            <div type="comment">
+              <p>βραχὺ διασταλτέον ἐπι <rs type="waw">τὸ ὀφθαλμοὶ</rs> ἔσται δὲ ὁ λόγος. ἐπληρώθησαν δὲ αὐτοῦ οἱ ὀφθαλμοὶ αἵματος ὃ δὴ διά τε τοῦ στόματος καὶ τῶν ῥινῶν χανὼν ἀπεφύσησεν⁑</p>
             </div>
           </div>
         </body>
