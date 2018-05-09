@@ -48,13 +48,24 @@
               <p></p>
             </div>
             <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.467</p>
+            </div>
+            <div type="comment">
+              <p>ν</p>
+            </div>
+          </div>
+          <div n="215r4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.468</p>
             </div>
             <div type="comment">
               <p>αλγῶν ἐκπνέων</p>
             </div>
           </div>
-          <div n="215r4" type="scholion">
+          <div n="215r5" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -65,7 +76,7 @@
               <p>μυκησάμενοι</p>
             </div>
           </div>
-          <div n="215r5" type="scholion">
+          <div n="215r6" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -76,7 +87,7 @@
               <p>ήχησεν·</p>
             </div>
           </div>
-          <div n="215r6" type="scholion">
+          <div n="215r7" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -87,7 +98,7 @@
               <p>ὁ ἐξω τοῦ ζυγοῦ ἵππος</p>
             </div>
           </div>
-          <div n="215r7" type="scholion">
+          <div n="215r8" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
