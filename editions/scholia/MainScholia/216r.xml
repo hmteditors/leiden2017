@@ -22,13 +22,13 @@
         <body>
           <div n="216r1" type="scholion">
             <div type="lemma">
-              <p>τέλος θανάτοιο κάλυψεν ὀφθαλμοὺς ῥινασθ'</p>
+              <p>‡ τέλος θανάτοιο κάλυψεν ὀφθαλμοὺς ῥινασθ'·</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.502</p>
             </div>
             <div type="comment">
-              <p>ὁ δὲ θανατος ἀυτὸις ἔλαβεν τούς τε ὀφθαλμὸυς καὶ τὰς ῥῖνας ἐπεὶ οἱ τελευτῶντες οὔτε βλέπουσιν οὔτε ἀναπνέουσιν οὔτε δὲ φρένας ἔχουσιν ⁑</p>
+              <p>ὁ δὲ θάνατος ἀυτοὺς ἔλαβεν τούς τε ὀφθαλμοὺς καὶ τὰς ῥῖνας ἐπεὶ οἱ τελευτῶντες οὔτε βλέπουσιν οὔτε ἀναπνέουσιν οὔτε δὲ φρένας ἔχουσιν ⁑</p>
             </div>
           </div>
           <div n="216r2" type="scholion">
@@ -39,7 +39,8 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.504</p>
             </div>
             <div type="comment">
-              <p><choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> <persName n="urn:cite2:hmt:pers:pers16">ἀρίσταρχος</persName> χωρις του ῗ καὶ ἔχοντο οὕτως δια τοῦ χ ⁑</p>
+              <p><choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> <persName n="urn:cite2:hmt:pers:pers16">ἀρίσταρχος</persName> <rs type="waw">ἔλκε</rs>
+               χωρις του <rs type="waw">ϊ</rs> καὶ <rs type="waw">ἔχοντο</rs> οὕτως δια τοῦ <rs type="waw">χ</rs> ⁑</p>
             </div>
           </div>
           <div n="216r3" type="scholion">
@@ -50,40 +51,49 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.507</p>
             </div>
             <div type="comment">
-              <p>ὅτι <persName n="urn:cite2:hmt:pers:pers15">Ζηνοδότος</persName> γράφει ἐπεὶ λίπον ἀγνοῶν, ὅτι τὸ λίπεν νῦν οὐκ ἐστιν ἑνικον ἀλλα ἀναλογον τὸ ἐλείφθησαν τὰ ἄρματα ὥσπερ κόσμηθεν. καὶ ποιμένος ἀφραδιηισι δίετμαγεν. ἀντι του διετμάγησαν εἴωθε γὰρ τοῖς οὐδετέροις πληθυντικοῖς πληθυντικὰ ῥήματα συντάσσειν ὡς <cit><q>σπάρτα λελύνται</q><ref>urn:cts:greekLit:tlg0012.tlg001:2.135</ref></cit> ⁑</p>
+              <p>ὅτι <persName n="urn:cite2:hmt:pers:pers15">Ζηνοδότος</persName> γράφει ἐπεὶ <rs type="waw">λίπεν</rs> ἀγνοῶν,
+              ὅτι τὸ <rs type="waw">λίπεν</rs> νῦν οὐκ ἐστιν ἑνικον ἀλλα ἀναλογον τὸ <rs type="waw">ἐλείφθησαν τὰ ἄρματα</rs>. ὥσπερ <rs type="waw">κόσμηθεν</rs>.
+              καὶ <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:16.354</ref><q>ποιμένος ἀφραδιηισι δίετμαγεν</q></cit>.
+              ἀντι του <rs type="waw">διετμάγησαν</rs>· εἴωθε γὰρ τοῖς οὐδετέροις πληθυντικοῖς πληθυντικὰ ῥήματα συντάσσειν
+              ὡς <cit><q>σπάρτα λελύνται</q><ref>urn:cts:greekLit:tlg0012.tlg001:2.135</ref></cit> ⁑</p>
             </div>
           </div>
           <div n="216r4" type="scholion">
             <div type="lemma">
-              <p>εἰς ἤ ἐνι <placeName n="urn:cite2:hmt:place:place6">Τροίῃ</placeName></p>
+              <p>εἰς ἢ ἐνι <placeName n="urn:cite2:hmt:place:place6">Τροίῃ</placeName>·</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.515</p>
             </div>
             <div type="comment">
-              <p>ἡ διπλῆ ὅτι οὕτως εἴωθε λέγειν πάντοσε ἀκούειν εἰς παντα τόπον ἀκούειν ἀπό τ' ἐκ τόπου εἰς τόπον ἀφικμουμένων <cit><q>πεύθετο γὰρ <placeName n="urn:cite2:hmt:place:place98">Kύπρονδε</placeName> μέγα κλέος</q><ref>urn:cts:greekLit:tlg0012.tlg001:11.21</ref></cit> εἰς <placeName n="urn:cite2:hmt:place:place98">Kύπρον</placeName> ἠκουετο. διὸ καὶ νῦν κατα συναλιφὴν ακουστέον ἵν' ἦ τὸ πλῆρες πάντοσε ἀκούειν⁑</p>
+              <p>ἡ διπλῆ ὅτι οὕτως εἴωθε λέγειν <rs type="waw">πάντοσε ἀκούειν</rs> εἰς παντα τόπον ἀκούειν ἀπό τ' ἐκ τόπου εἰς τόπον ἀφικμουμένων
+                <cit><q>πεύθετο γὰρ <placeName n="urn:cite2:hmt:place:place98">Kύπρον δὲ</placeName> μέγα κλέος</q><ref>urn:cts:greekLit:tlg0012.tlg001:11.21</ref></cit>
+                εἰς <placeName n="urn:cite2:hmt:place:place98">Kύπρον</placeName> ἠκουετο. διὃ καὶ νῦν κατα συναλιφὴν ἀκουστέον ἵν' ἦ τὸ πλῆρες <rs type="waw">πάντοσε ἀκούειν</rs> ⁑</p>
            </div>
           </div>
           <div n="216r5" type="scholion">
              <div type="lemma">
-               <p>πάντοσ ἀκούειν</p>
+               <p>πάντος ἀκούειν,</p>
              </div>
              <div type="ref">
                <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.515</p>
              </div>
              <div type="comment">
-               <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> τὸ πλῆρες ἀκούει πάντοσε. <persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName> πάντες ἀκούειν δια τοῦ ε. πάντοσε ὡς πάντοθεν τὰ  γάρ εἰ σε ἐπιρρήματα τοῖς εἰ θεν ὁμοτονεῖ, ἄλλοθεν ἄλλοσε ὁμόθεν ὁμόσε. οὕτως οὖν εἰ <cit><q>πάντοθεν ἐκ κευθμῶν</q><ref>urn:cts:greekLit:tlg0012.tlg001:11.21</ref></cit>, καὶ <cit><q>πάντοσε δαιδάλλων</q><ref>urn:cts:greekLit:tlg0012.tlg001:11.21</ref></cit>⁑</p>
+               <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> τὸ πλῆρες <rs type="waw">ἀκούει πάντοσε</rs>·
+               <persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName> <rs type="waw">πάντες ἀκούειν</rs> δια τοῦ <rs type="waw">ε</rs>.
+               πάντοσε ὡς πάντοθεν τὰ γάρ εἰς <rs type="waw">ε</rs> ἐπιρρήματα τοῖς εἰς <rs type="waw">θεν</rs> ὁμοτονεῖ, <rs type="waw">ἄλλοθεν</rs> <rs type="waw">ἄλλοσε</rs> <rs type="waw">ὁμόθεν</rs> <rs type="waw">ὁμόσε</rs>.
+               οὕτως οὖν εἰ <cit><q>πάντοθεν ἐκ κευθμῶν</q><ref>urn:cts:greekLit:tlg0012.tlg001:13.28</ref></cit>, καὶ <cit><q>πάντοσε δαιδάλλων</q><ref>urn:cts:greekLit:tlg0012.tlg001:18.479</ref></cit> ⁑</p>
              </div>
             </div>
             <div n="216r6" type="scholion">
               <div type="lemma">
-                <p>Σαρπηδὼν Διὸς υἵος</p>
+                <p><persName n="urn:cite2:hmt:pers.v1:pers195">Σαρπηδὼν</persName> <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName> υἵος</p>
               </div>
               <div type="ref">
                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.522</p>
               </div>
               <div type="comment">
-                <p>ἡ διπλὴ ὅτι ἐλλείπει ἡ περὶ ἔτι γὰρ οὐδε περι τοῦ οὐ παιδὸς ἀμύνει οἱ γ' αγνοήσαϊ γράφουσιν ὁδ' οὐδ'οὐδ' ὦ παιδὶ ἀμύνει⁑</p>
+                <p>ἡ διπλὴ ὅτι ἐλλείπει ἡ <rs type="waw">περὶ</rs> ἔστι γὰρ οὐδε περι τοῦ οὐ παιδὸς ἀμύνει οἱ δὲ αγνοήσαντες γράφουσιν <rs type="waw">ὁδ' οὐδ' οὐδ' ᾧ παιδὶ ἀμύνει</rs> ⁑</p>
               </div>
             </div>
         </body>
