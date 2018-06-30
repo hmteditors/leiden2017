@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Main Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Tazuko van Berkel</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -23,13 +23,59 @@
 <!-- Please put this comment line at the point you stopped and specify your progress. -->
           <div n="216v1" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>Γλαυκος δ' ἔγνω ἧσιν ἐνι φρεσὶ,</p>
             </div>
             <div type="ref">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.530</p>
             </div>
             <div type="comment">
-              <p></p>
+              <p>ἤτοι στικτέον ἐπι τὸ <rs type="waw">φρεσὶ</rs>, ἢ διασταλτέον ἵνα κοινωνῇ ἔγνω καὶ ἐχάρη
+              <cit><ref>rn:cts:greekLit:tlg0012.tlg001.msA:16.531</ref><q>ὅτι οἱ ὦκ' ἤκουσε</q></cit> ⁑</p>
+            </div>
+          </div>
+          <div n="216v2" type="scholion">
+            <div type="lemma">
+              <p>εἴρυτο·</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.542</p>
+            </div>
+            <div type="comment">
+              <p><persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> τρίτην ἀπο τέλους τὴν ὀξεῖα ποιεῖ ὑγιῶς πάνυ·
+              ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers105">Τυραννίων</persName> προπερισπᾷ ἐκ τοῦ <rs type="waw">εἰρύετο</rs>
+              φάσκων αὐτὸ συνηλειφθαι· δύναται δὲ τὸ <rs type="waw">εἴρυτο</rs> κλιθὲν ἀπο τῶν εἰς <rs type="waw">μι</rs> ὁμοίως τῷ ἐζεύγνοιτο ήνυτο
+              <cit><ref>urn:cts:greekLit:tlg0012.tlg002:5.243</ref><q>θοῶς δέ οἱ ἤνυτο ἔργον</q></cit> ἐκτετάσθαι.
+              οὕτως ἀξιοῦμεν καὶ ἐπι τοῦ <rs type="waw">είλυτο</rs> καὶ <rs type="waw">εἴρυτο</rs> ⁑
+            </p>
+            </div>
+          </div>
+          <div n="216v3" type="scholion">
+            <div type="lemma">
+              <p><rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρῶας</rs> δὲ κατα κρῆθεν:</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.548</p>
+            </div>
+            <div type="comment">
+              <p><persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρισταρχος</persName> δισύλλαβον ἐκδέχεται τὴν λέξιν. καὶ προπερισπᾷ ὑγιῶς πάνυ. καὶ οὐκ επίσταται
+            ὁ ποιητής τὸ <rs type="waw">κάρη</rs> ὀξυνόμενον θηλυκόν. ἄλλ' οἱ ἄλλοι πάντες. καὶ οὐδὲν θαυμαστόν· καὶ γὰρ ἄλλους παραλόγους φωνὰς ἐπίσταται
+            ἀγνοῶν τὰς πρωτοθέτους αὐτῶν λέξεις. τί οὖν θαυμαστὸν εἰ παρα τὸ <rs type="waw">καρή</rs> ὀξυτόνον <rs type="waw">καρῆθεν</rs> ἐστι καὶ <rs type="waw">κρῆθεν</rs>
+            ἐνσυγκοπῆ. τοῦτο δέ φημι ἐπεὶ καὶ <persName n="urn:cite2:hmt:pers.v1:pers4">Ἡσιοδος</persName> οὕτως ἐξεδέξατο εἰπῶν τὸ
+            <cit><ref>urn:cts:greekLit:tlg0020.tlg003:7</ref><q>καὶ ἀπο κρηθεν βλεφάρων</q></cit>  ⁑
+            </p>
+            </div>
+          </div>
+          <div n="216v4" type="scholion">
+            <div type="lemma">
+              <p>ἕρμα:</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.549</p>
+            </div>
+            <div type="comment">
+              <p>τὸ σήκωμα τῆς <choice><sic>νεῶς</sic><corr>νεὼς</corr></choice> προς τὸ μὴ ἀνατρέπεσθαι ἐν τῷ πεσεῖν· νῦν οὖν τούτου ἀποθανόντος ἀνατραπῆναι τὴν <placeName n="urn:cite2:hmt:place.v1:place6">Ἴλιον</placeName>·
+              οἱ δὲ τὸ ὑπο στήριγμα. ὅθεν καὶ <persName n="urn:cite2:hmt:pers.v1:pers5">Πίνδαρος</persName> <cit><ref>urn:cts:greekLit:tlg0033.tlg001:2.6</ref><q>ἔρεισμα <placeName n="urn:cite2:hmt:place.v1:place229">Ἀκράγαντος</placeName></q></cit> εἶπε τὸν <persName>Θήρωνα</persName>·
+              ῥητορικῶς οὖν ἄξει τὸ οἶκτρον ἐπι μαρτυρῶν τῷ ἀπο θανόντι ⁑</p>
             </div>
           </div>
         </body>
