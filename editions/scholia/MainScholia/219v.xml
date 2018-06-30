@@ -34,7 +34,7 @@
           </div>
           <div n="219v2" type="scholion">
             <div type="lemma">
-              <p>ἀλλ᾽αἰεί τε <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName></p>
+              <p>ἀλλ᾽αἰεί τε <persName n="urn:cite:hmt:pers:pers8">Διὸς</persName></p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.688</p>
@@ -52,7 +52,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.697</p>
             </div>
             <div type="comment">
-              <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName> γράφει <rs type="waw">τοὺς έλες</rs>.
+              <p>ὅτι <persName n="urn:cite:hmt:pers:pers15">ζηνόδοτος</persName> γράφει <rs type="waw">τοὺς έλες</rs>.
               ἀγνοεῖ δὲ ὅτι ἀπεστρεφε τὸν λόγον ἐκ τοῦ προς αὐτὸν ἐπι τὸν περι αυτοῦ καὶ πολλάκις ἀποστροφὰς ποιεῖται ⁑</p>
             </div>
           </div>
