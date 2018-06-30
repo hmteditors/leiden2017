@@ -5,13 +5,13 @@
 
 | Reading | URN | Resolved | Description |
 | :------------- | :------------- | :------------- |
-| Θόαϛ | urn:cite2:hmt:pers.v1:pers222 | Thoas | Trojan slain by Menelaus | 
+| Ζηνοδοτος | urn:cite2:hmt:pers.v1:pers15 | Zenodotus | Hellenistic Homeric scholar, first librarian of the Library of Alexandria | 
+| Ἀρισταρχος | urn:cite2:hmt:pers.v1:pers16 | Aristarchus | of Samothrace, Hellenistic Homeric scholar | 
 
 ## Placename 
 
 | Reading | URN | Resolved | Description |
 | :------------- | :------------- | :------------- |
-| Τρωϊκοϛ | urn:cite2:hmt:place.v1:place6 | Ilium | ancient name for Troy | 
 
 ## Rs 
 

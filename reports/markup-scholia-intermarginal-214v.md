@@ -5,13 +5,14 @@
 
 | Reading | URN | Resolved | Description |
 | :------------- | :------------- | :------------- |
-| Θόαϛ | urn:cite2:hmt:pers.v1:pers222 | Thoas | Trojan slain by Menelaus | 
+| αρισταρχου | urn:cite2:hmt:pers.v1:pers16 | Aristarchus | of Samothrace, Hellenistic Homeric scholar | 
+| ἀρισταρχος | urn:cite2:hmt:pers.v1:pers16 | Aristarchus | of Samothrace, Hellenistic Homeric scholar | 
+| αρίσταρχος | urn:cite2:hmt:pers.v1:pers16 | Aristarchus | of Samothrace, Hellenistic Homeric scholar | 
 
 ## Placename 
 
 | Reading | URN | Resolved | Description |
 | :------------- | :------------- | :------------- |
-| Τρωϊκοϛ | urn:cite2:hmt:place.v1:place6 | Ilium | ancient name for Troy | 
 
 ## Rs 
 

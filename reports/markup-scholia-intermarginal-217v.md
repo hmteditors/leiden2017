@@ -5,13 +5,13 @@
 
 | Reading | URN | Resolved | Description |
 | :------------- | :------------- | :------------- |
-| Θόαϛ | urn:cite2:hmt:pers.v1:pers222 | Thoas | Trojan slain by Menelaus | 
 
 ## Placename 
 
 | Reading | URN | Resolved | Description |
 | :------------- | :------------- | :------------- |
-| Τρωϊκοϛ | urn:cite2:hmt:place.v1:place6 | Ilium | ancient name for Troy | 
+| Φθίᾳ | urn:cite2:hmt:place.v1:place34 | Phthia | southern Thessaly | 
+| Ἑλλάς | <span class='nomatch text-danger'>No URN</span> | <span class='nomatch text-danger'>No Match</span> | <span class='nomatch text-danger'>No Match</span> | 
 
 ## Rs 
 
