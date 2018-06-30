@@ -19,16 +19,16 @@
     <group n="16">
       <text n="msA">
         <body>
-<!-- Please put this comment line at the point you stopped and specify your progress. -->
+<!-- checked and edited all the mains. -->
           <div n="219v1" type="scholion">
             <div type="lemma">
-              <p>νήπιος</p>
+              <p>νήπιος εἰδὲ ἔπος</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.686</p>
             </div>
             <div type="comment">
-              <p>εἰδὲ ἔπος τὸ νήπιος καθεαυτὸ <choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> τον γὰρ μᾶλλον ἐμφαίνει τον ἐπισχετμάζοντα
+              <p>τὸ νήπιος καθεαυτὸ <choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> γὰρ μᾶλλον ἐμφαίνει τον ἐπισχετλιάζοντα
               ἁμαρτάνουσι δὲ οἱ συνάπτοντες ⁑</p>
             </div>
           </div>
@@ -40,7 +40,8 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.688</p>
             </div>
             <div type="comment">
-              <p>ὅτι τινὲς χωρὶς τοῦ <rs type="waw">ν</rs> γράφουσι κρείσσω, τὰδε τοιαῦτα συγκριτικὰ ἐπι τῆς ορθῆς σύν τῷ <rs type="waw">ν</rs> λέγεται καὶ τὸ κρεῖσσον ἐπι τοῦ κατα δύναμιν τίθησιν ὁ ποιητης. ⁑</p>
+              <p>ὅτι τινὲς χωρὶς τοῦ <rs type="waw">ν</rs> γράφουσι κρείσσω,
+              τὰδε τοιαῦτα συγκριτικὰ ἐπι τῆς ορθῆς σύν τῷ <rs type="waw">ν</rs> λέγεται καὶ τὸ κρεῖσσον ἐπι τοῦ κατα δύναμιν τίθησιν ὁ ποιητης ⁑</p>
             </div>
           </div>
           <div n="219v3" type="scholion">
@@ -51,24 +52,33 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.697</p>
             </div>
             <div type="comment">
-              <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName> γράφει <rs type="waw">τοὺς έλες</rs>. ἀγνοεῖ δὲ ὅτι ἀπεστρεφε τὸν λόγον ἐκ τοῦ προς αὐτὸν ἐπι τὸν περι αυτοῦ καὶ πολλάκις ἀποστροφὰς ποιεῖται ⁑</p>
+              <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName> γράφει <rs type="waw">τοὺς έλες</rs>.
+              ἀγνοεῖ δὲ ὅτι ἀπεστρεφε τὸν λόγον ἐκ τοῦ προς αὐτὸν ἐπι τὸν περι αυτοῦ καὶ πολλάκις ἀποστροφὰς ποιεῖται ⁑</p>
             </div>
           </div>
           <div n="219v4" type="scholion">
             <div type="lemma">
-              <p>οἱ δ᾽ἄλλοι φύγαδὲ μνώοντο</p>
+              <p>οἱ δ᾽ἄλλοι φύγαδὲ μνώοντο,</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.697</p>
             </div>
             <div type="comment">
-              <p>τοῦτο οὐκ εἰσοδυναμεῖ τὸ εἰς φυγὴν ὡς τὸ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:11.446</ref><q>ῆ ὁ μὲν φύγαδ᾽αὖθις ὑποστρέψας</q></cit> ἀντι γὰρ αἱτιατικῆς,
-              οὐ μετα τῆς εἶς διὸ καί τινες ὑπέλαβον μὴ καὶ δύο μέρη λόγου ἐστιν ἢτοι κατα μεταπλασμὸν γενομένης τῆς αιτιατικῆς ποιητικῶς
-            ὡς <rs type="waw">σκέπην</rs> <rs type="waw">σκέπα</rs> <rs type="waw">φυγήν</rs> <rs type="waw">φύγα</rs> ἢ ὡς οἵεται ὁ <persName n="urn:cite2:hmt:pers:pers485">Ἀσκαλονίτης</persName> ἀπευθείας τῆς <rs type="waw">φύξ</rs> ὡ <rs type="waw"><placename n="urn:cite2:hmt:place:place280"> Στύξ </placename></rs>
-             <rs type="waw"><placename n="urn:cite2:hmt:place:place280"> Στῦγας </placename></rs> τοῦ <rs type="waw">δὲ</rs> ἐντάδε παρέλκοντος, ἢ ἐπίρρημα εστι ταυτὸ σημαῖνον τῇ αιτιατικῇ ὡς καὶ ἄλλα παραγωγα ἐπίρρηματα ἰσοδυναμοῦντα τοῖς πρωτοτύποις·
-              <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.276</ref><q>ἴδηθεν μεδέων</q></cit> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:14.277</ref><q>δόρυ δ᾽ἔκβαλεν ἔκτοσε <choice><sic>χειρὸς</sic><corr>χειρός</corr></choice></q></cit>. ἀλλ᾽οῦν γε ὡς ἂν ἔχῃ, οὐκ εναντιοῦται τὸ τοῦ τόνου,
-            ἤτοι γὰρ δύο τόνοι ἔσονται, φύγαδὲ ὡς <rs type="waw"><placeName n="urn:cite2:hmt:place:place45">οὔλυμπονδὲ</placeName></rs> ή ει ὡς <rs type="waw">άγρε δὲ</rs> τὸ γοῦν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.100</ref><q>ἄλαδ᾽ἐλκομενάων</q></cit> δύναται καὶ δύο μερή λόγου εἶναι ὡς <rs type="waw">οἰκονδὲ</rs> ἐντελοῦς οὔσης τῆς αιτιατικης ἡ πάλιν κατα παραγωγὴν ὡς <rs type="waw">ἁγραδὲ</rs>
-            <rs type="waw"><choice><sic>ἅλαδὲ</sic><corr>ἄλαδὲ</corr></choice></rs> ταῦτα ὁ <persName n="urn:cite2:hmt:pers:pers493">Ηρωιδιανὸς</persName> ἐν τῷ <rs type="waw">ίθ</rs> τῆς καθόλου ⁑ </p>
+              <p>τοῦτο οὐκ εἰσοδυναμεῖ τὸ εἰς φυγὴν ὡς τὸ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:11.446</ref><q>ῆ ὁ μὲν φύγαδ᾽αὖθις ὑποστρέψας</q></cit>, ἀντι γὰρ αἱτιατικῆς,
+              οὐ μετα τῆς <rs type="waw">εἶς</rs>. διὸ καί τινες ὑπέλαβον μὴ καὶ δύο μέρη λόγου ἐστιν ἢτοι κατα μεταπλασμὸν γενομένης τῆς αιτιατικῆς ποιητικῶς
+            ὡς <rs type="waw">σκέπην</rs> <rs type="waw">σκέπα</rs> <rs type="waw">φυγήν</rs> <rs type="waw">φύγα</rs> ἢ ὡς οἵεται
+            ὁ <persName n="urn:cite2:hmt:pers:pers485">Ἀσκαλονίτης</persName> ἀπευθείας τῆς <rs type="waw">φύξ</rs> ὡ <rs type="waw">
+            <placename n="urn:cite2:hmt:place:place280"> Στύξ </placename></rs>
+             <rs type="waw"><placename n="urn:cite2:hmt:place:place280"> Στῦγας </placename></rs> τοῦ <rs type="waw">δὲ</rs> ἐνθάδε παρέλκοντος.
+             ἢ ἐπίρρημα εστι ταυτὸ σημαῖνον τῇ αιτιατικῇ ὡς καὶ ἄλλα παραγωγα ἐπίρρηματα ἰσοδυναμοῦντα τοῖς πρωτοτύποις·
+              <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.276</ref><q>ἴδηθεν μεδέων</q></cit>
+              <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:14.277</ref><q>δόρυ δ᾽ἔκβαλεν ἔκτοσε <choice><sic>χειρὸς</sic><corr>χειρός</corr></choice></q></cit>.
+              ἀλλ᾽οῦν γε ὡς ἂν ἔχῃ, οὐκ εναντιοῦται τὸ τοῦ τόνου,
+            ἤτοι γὰρ δύο τόνοι ἔσονται, φύγαδὲ ὡς <rs type="waw"><placeName n="urn:cite2:hmt:place:place45">οὔλυμπονδὲ</placeName></rs> ή ει ὡς <rs type="waw">άγρε δὲ</rs> τὸ γοῦν
+            <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.100</ref><q>ἄλαδ᾽ἐλκομενάων</q></cit> δύναται καὶ δύο μερή λόγου εἶναι ὡς <rs type="waw">οἰκονδὲ</rs> ἐντελοῦς
+            οὔσης τῆς αιτιατικης ὴ πάλιν κατα παραγωγὴν ὡς <rs type="waw">ἀγραδὲ</rs>
+            <rs type="waw"><choice><sic>ἅλαδὲ</sic><corr>ἄλαδὲ</corr></choice></rs> ταῦτα ὁ <persName n="urn:cite2:hmt:pers:pers493">Ηρωιδιανὸς</persName>
+            ἐν τῷ <num value="19">ίθ</num> τῆς <title>καθόλου</title> ⁑ </p>
             </div>
           </div>
         </body>
