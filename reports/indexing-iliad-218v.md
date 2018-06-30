@@ -1,0 +1,29 @@
+# Verification of index for *Iliad* text
+
+| Text     | Image     |
+| :------------- | :------------- |
+| 16.629 | ![16.629](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5101,0.2249,0.3760,0.02932&WID=800&CVT=JPEG) |
+| 16.630 | ![16.630](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5081,0.2485,0.3922,0.02185&WID=800&CVT=JPEG) |
+| 16.631 | ![16.631](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5077,0.2675,0.3655,0.02213&WID=800&CVT=JPEG) |
+| 16.632 | ![16.632](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5096,0.2837,0.3961,0.02476&WID=800&CVT=JPEG) |
+| 16.633 | ![16.633](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5077,0.3047,0.3898,0.02213&WID=800&CVT=JPEG) |
+| 16.634 | ![16.634](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5144,0.3219,0.3732,0.02393&WID=800&CVT=JPEG) |
+| 16.635 | ![16.635](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5123,0.3401,0.3808,0.02296&WID=800&CVT=JPEG) |
+| 16.636 | ![16.636](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5123,0.3609,0.3312,0.02393&WID=800&CVT=JPEG) |
+| 16.637 | ![16.637](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5162,0.3763,0.3861,0.02503&WID=800&CVT=JPEG) |
+| 16.638 | ![16.638](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5129,0.3960,0.3723,0.02324&WID=800&CVT=JPEG) |
+| 16.639 | ![16.639](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5129,0.4154,0.3832,0.02116&WID=800&CVT=JPEG) |
+| 16.640 | ![16.640](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5057,0.4328,0.3889,0.02365&WID=800&CVT=JPEG) |
+| 16.641 | ![16.641](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5111,0.4526,0.3808,0.02213&WID=800&CVT=JPEG) |
+| 16.642 | ![16.642](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5162,0.4708,0.4060,0.02116&WID=800&CVT=JPEG) |
+| 16.643 | ![16.643](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5153,0.4887,0.3580,0.02254&WID=800&CVT=JPEG) |
+| 16.644 | ![16.644](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5098,0.5006,0.4048,0.02849&WID=800&CVT=JPEG) |
+| 16.645 | ![16.645](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5098,0.5227,0.4073,0.02808&WID=800&CVT=JPEG) |
+| 16.646 | ![16.646](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5087,0.5414,0.3996,0.02766&WID=800&CVT=JPEG) |
+| 16.647 | ![16.647](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5112,0.5598,0.4094,0.02573&WID=800&CVT=JPEG) |
+| 16.648 | ![16.648](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5129,0.5819,0.3736,0.02102&WID=800&CVT=JPEG) |
+| 16.649 | ![16.649](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5129,0.5960,0.4151,0.02683&WID=800&CVT=JPEG) |
+| 16.650 | ![16.650](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5098,0.6158,0.4048,0.02918&WID=800&CVT=JPEG) |
+| 16.651 | ![16.651](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5155,0.6344,0.3913,0.02490&WID=800&CVT=JPEG) |
+| 16.652 | ![16.652](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5138,0.6505,0.3933,0.02683&WID=800&CVT=JPEG) |
+| 16.653 | ![16.653](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA218VN_0720.tif&RGN=0.5149,0.6730,0.3674,0.02683&WID=800&CVT=JPEG) |
