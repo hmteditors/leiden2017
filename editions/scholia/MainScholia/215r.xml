@@ -4,8 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Venetus A Main Scholia</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Tazuko van Berkel</editor>
         <editor>YOUR NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -20,13 +20,58 @@
     <group n="16">
       <text n="msA">
         <body>
-<!-- Please put this comment line at the point you stopped and specify your progress. -->
+<!--Edited 1 main scholion. -->
+          <div n="215r1" type="scholion">
+            <div type="lemma">
+              <p>‡πέμπειν μιν θάνατόν τε:</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.454</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι σαφῶς <rs type="waw">νήδυμον</rs> μετὰ τοῦ <rs type="waw">ν</rs> καὶ ἐπι τῶν ἀμφιβόλων ἄρα τόπων σὺν τῷ <rs type="waw">ν</rs>
+            ἐκληπτέον, καὶ ὅτι τῷ ἀπαρεμφάτῳ κέχρηται, ἀντι προστακτικοῦ τοῦ <rs type="waw">πέμπε</rs>  ⁑</p>
+            </div>
+          </div>
           <div n="215r1" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
             <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
+            </div>
+            <div type="comment">
               <p></p>
+            </div>
+          </div>
+          <div n="215r1" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
+            </div>
+            <div type="comment">
+              <p></p>
+            </div>
+          </div>
+          <div n="215r1" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
+            </div>
+            <div type="comment">
+              <p></p>
+            </div>
+          </div>
+          <div n="215r1" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
             </div>
             <div type="comment">
               <p></p>

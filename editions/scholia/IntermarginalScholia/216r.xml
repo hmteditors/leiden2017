@@ -26,10 +26,21 @@
               <p></p>
             </div>
             <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16. </p>
+            </div>
+            <div type="comment">
+              <p>⁑</p>
+            </div>
+          </div>
+          <div n="216r2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.522</p>
             </div>
             <div type="comment">
-              <p><persName n="urn:cite2:hmt:pers:pers16">Ἀριταρχος</persName> <rs type="waw">ὁ δ' οῦ παιδός</rs> ⁑</p>
+              <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> <rs type="waw">ὁ δ' οῦ παιδός</rs> ⁑</p>
             </div>
           </div>
         </body>
